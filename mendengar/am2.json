@@ -1,0 +1,20 @@
+{
+  "label": "Ajakan makan malam",
+  "situasi": {
+    "teks": "会社の同僚の男の人と女の人が話しています",
+    "gambar": ""
+  },
+  "audio": "am",
+  "pertanyaan": {
+    "teks": "二人は、何時にどこで会いますか。",
+    "gambar": ""
+  },
+  "pilihan": [
+    { "teks": "7時に駅の南口", "gambar": "", "benar": true },
+    { "teks": "7時に店の前", "gambar": "", "benar": false },
+    { "teks": "6時に駅の南口", "gambar": "", "benar": false },
+    { "teks": "6時に会社の前", "gambar": "", "benar": false }
+  ],
+  "penjelasan": "Pria itu mengusulkan pukul 7 (<jp>7時はどうですか</jp>), dan wanita itu setuju (<jp>7時ですね。大丈夫です</jp>). Tempat bertemunya adalah pintu selatan stasiun (<jp>駅の南口で会いましょう</jp>). Restoran berada sekitar 5 menit berjalan kaki dari stasiun, jadi mereka tidak bertemu di depan restoran.",
+  "transkrip": "男：あの、山田さん、ちょっとお時間いいですか。\n女：はい、どうしたんですか。\n男：実は、今度の土曜日、もし時間があったら、いっしょに食事に行きませんか。\n女：えっ、私とですか。\n男：はい。前から、おいしいイタリア料理の店に行きたいと思っていたんです。\n女：イタリア料理、大好きです。土曜日は、午後は用事があるんですが、夜なら大丈夫です。\n男：よかった。じゃあ、7時はどうですか。\n女：7時ですね。大丈夫です。どこで会いますか。\n男：駅の南口で会いましょう。店は、駅から歩いて5分ぐらいです。\n女：わかりました。楽しみにしています。\n男：ありがとうございます。じゃあ、予約しておきますね。\n女：はい、お願いします。"
+}
