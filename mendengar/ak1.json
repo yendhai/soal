@@ -1,1 +1,20 @@
-
+{
+  "label": "Membeli jam tangan",
+  "situasi": {
+    "teks": "時計屋で、お客さんの男の人と店員の女の人が話しています",
+    "gambar": ""
+  },
+  "audio": "ak",
+  "pertanyaan": {
+    "teks": "男の人は、アナログとデジタルのどちらが好きですか。",
+    "gambar": ""
+  },
+  "pilihan": [
+    { "teks": "アナログ", "gambar": "", "benar": true },
+    { "teks": "デジタル", "gambar": "", "benar": false },
+    { "teks": "どちらも好き", "gambar": "", "benar": false },
+    { "teks": "どちらも好きじゃない", "gambar": "", "benar": false }
+  ],
+  "penjelasan": "Pria itu mengakui bahwa jam digital mudah dibaca, tetapi ia lebih menyukai jam analog (<jp>デジタルは見やすいですが、アナログのほうが好きです</jp>). Kata <jp>ほうが好き</jp> menunjukkan pilihan yang lebih ia sukai di antara dua hal.",
+  "transkrip": "女：いらっしゃいませ。何をお探しですか。\n男：時計を探しています。\n女：アナログとデジタルがありますが、どちらがよろしいですか。\n男：デジタルは見やすいですが、アナログのほうが好きです。\n女：それでしたら、こちらはいかがですか。丸くて大きい時計です。色は黒と青と白があります。\n男：うーん、ちょっと大きすぎますね。もう少し小さいのはありますか。\n女：はい、こちらは小さいです。色は赤と青と茶色があります。\n男：小さくて、いいですね。青いのが好きです。いくらですか。\n女：4,500円です。\n男：ちょっと高いですね。もう少し安いのはありますか。\n女：では、こちらはいかがですか。同じ青い色で、3,800円です。\n男：これなら大丈夫です。これにします。プレゼントなので、包んでください。\n女：かしこまりました。少々お待ちください。"
+}
