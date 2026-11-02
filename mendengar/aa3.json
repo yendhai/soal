@@ -1,13 +1,11 @@
 {
   "label": "Rencana akhir pekan",
   "situasi": {
-    "tts": "友だちの男の人と女の人が、来週の土曜日の予定について話しています。会話を聞いて、質問に答えてください。",
-    "teks": "Seorang pria dan wanita yang berteman membicarakan rencana hari Sabtu depan. Dengarkan percakapan lalu jawab pertanyaannya.",
+    "teks": "友だちの男の人と女の人が話しています",
     "gambar": ""
   },
   "audio": "aa",
   "pertanyaan": {
-    "tts": "問題3。二人はどこで会いますか。",
     "teks": "二人はどこで会いますか。",
     "gambar": ""
   },
@@ -17,6 +15,6 @@
     { "teks": "病院の前", "gambar": "", "benar": false },
     { "teks": "本屋の前", "gambar": "", "benar": true }
   ],
-  "penjelasan": "Awalnya mereka berencana bertemu di depan stasiun, tetapi karena di sana ramai, mereka sepakat mengubahnya menjadi di depan toko buku.",
+  "penjelasan": "Pria itu mula-mula mengusulkan bertemu di depan stasiun, tetapi wanita itu mengatakan tempat itu ramai (<jp>駅の前は人が多い</jp>) dan mengusulkan depan toko buku. Pria itu setuju (<jp>本屋の前にしましょう</jp>), jadi mereka bertemu di depan toko buku.",
   "transkrip": "女：田中さん、来週の土曜日は何をしますか。\n男：友だちと映画を見に行きます。山田さんは？\n女：私は妹と買い物に行く予定でしたが、妹が風邪をひいたので、行けなくなりました。\n男：それは大変ですね。じゃあ、いっしょに映画を見ませんか。\n女：いいですね！何の映画ですか。\n男：新しいアニメの映画です。午後2時から始まります。\n女：2時ですか。午前中に病院へ妹の薬を取りに行くので、ちょうどいいです。\n男：じゃあ、1時半に駅の前で会いましょう。\n女：はい。あ、でも駅の前は人が多いから、本屋の前にしませんか。\n男：そうですね。じゃあ、本屋の前にしましょう。切符は僕が先に買っておきます。\n女：ありがとうございます！じゃあ、お昼ごはんは映画のあとで食べましょう。\n男：はい、そうしましょう。"
 }
