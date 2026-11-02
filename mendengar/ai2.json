@@ -1,12 +1,12 @@
 {
   "label": "Memesan di restoran",
   "situasi": {
-    "teks": "レストランで、店員の男の人とお客さんの女の人が話しています",
+    "teks": "レストランで、店員の女の人とお客さんの男の人が話しています",
     "gambar": ""
   },
   "audio": "ai",
   "pertanyaan": {
-    "teks": "女の人は、さいしょにすすめられた定食を、どうして注文しませんでしたか。",
+    "teks": "男の人は、さいしょにすすめられた定食を、どうして注文しませんでしたか。",
     "gambar": ""
   },
   "pilihan": [
@@ -15,6 +15,6 @@
     { "teks": "きらいだから", "gambar": "", "benar": false },
     { "teks": "売り切れだから", "gambar": "", "benar": false }
   ],
-  "penjelasan": "Wanita itu menolak set ikan goreng karena kemarin ia juga sudah makan ikan (<jp>昨日も魚を食べたんです</jp>). Ia tidak mengatakan bahwa harganya mahal, tidak suka, atau habis.",
-  "transkrip": "男：いらっしゃいませ。ご注文はお決まりですか。\n女：すみません、まだ決まっていません。おすすめは何ですか。\n男：今日のおすすめは、さかなのフライ定食です。とても人気がありますよ。\n女：いくらですか。\n男：900円です。ごはんとみそ汁がついています。\n女：魚のフライですか。実は、昨日も魚を食べたんです。ほかにおすすめはありますか。\n男：それなら、とりのからあげ定食はいかがですか。700円です。\n女：おいしそうですね。じゃあ、それにします。\n男：ありがとうございます。お飲み物はどうしますか。\n女：冷たいお茶をお願いします。\n男：かしこまりました。デザートもありますが、いかがですか。\n女：デザートは何がありますか。\n男：アイスクリームとケーキがあります。\n女：じゃあ、食べたあとで、アイスクリームをください。\n男：かしこまりました。少々お待ちください。"
+  "penjelasan": "Set yang pertama direkomendasikan adalah set ikan goreng. Pria itu menolaknya dengan alasan kemarin sudah makan ikan (<jp>実は、昨日も魚を食べたんです</jp>). Harganya 900 yen (<jp>900円</jp>), tetapi ia tidak menyebut harga sebagai alasan, dan menu itu juga tidak dikatakan habis.",
+  "transkrip": "女：いらっしゃいませ。ご注文はお決まりですか。\n男：すみません、まだ決まっていません。おすすめは何ですか。\n女：今日のおすすめは、さかなのフライ定食です。とても人気がありますよ。\n男：いくらですか。\n女：900円です。ごはんとみそ汁がついています。\n男：魚のフライですか。実は、昨日も魚を食べたんです。ほかにおすすめはありますか。\n女：それなら、とりのからあげ定食はいかがですか。700円です。\n男：おいしそうですね。じゃあ、それにします。\n女：ありがとうございます。お飲み物はどうしますか。\n男：冷たいお茶をお願いします。\n女：かしこまりました。デザートもありますが、いかがですか。\n男：デザートは何がありますか。\n女：アイスクリームとケーキがあります。\n男：じゃあ、食べたあとで、アイスクリームをください。\n女：かしこまりました。少々お待ちください。"
 }
