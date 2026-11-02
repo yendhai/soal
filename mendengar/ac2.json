@@ -1,0 +1,20 @@
+{
+  "label": "Titip belanja lewat telepon",
+  "situasi": {
+    "teks": "夫が、コンビニから家にいる妻に電話をしています",
+    "gambar": ""
+  },
+  "audio": "ac",
+  "pertanyaan": {
+    "teks": "女の人は、男の人に何を買ってきてほしいと言いましたか。",
+    "gambar": ""
+  },
+  "pilihan": [
+    { "teks": "牛乳とアイス", "gambar": "", "benar": false },
+    { "teks": "牛乳と食パン", "gambar": "", "benar": false },
+    { "teks": "アイスと食パン", "gambar": "", "benar": false },
+    { "teks": "牛乳とアイスと食パン", "gambar": "", "benar": true }
+  ],
+  "penjelasan": "Wanita itu meminta susu (<jp>牛乳</jp>), lalu es krim cokelat (<jp>チョコのアイス</jp>), dan terakhir menambahkan roti karena tidak ada sarapan untuk besok (<jp>やっぱりパンも買ってきて</jp>). Roti yang dimaksud adalah roti tawar (<jp>食パン</jp>). Jadi totalnya ada tiga barang.",
+  "transkrip": "男：もしもし、僕だけど。今、大丈夫？\n女：うん、大丈夫。どうしたの？\n男：今、コンビニにいるんだけど、何か買って帰るものある？\n女：そうね…。牛乳がなくなったから、牛乳を買ってきてくれる？\n男：牛乳ね。何本？\n女：一本でいいよ。あ、それから、新しいアイスも出てるって聞いたから、チョコのアイスもお願い。\n男：また？昨日も食べたでしょ。\n女：いいじゃない。あ、やっぱりパンも買ってきて。明日の朝ごはんがないの。\n男：わかった。食パンでいい？\n女：うん、食パンでお願い。\n男：じゃあ、牛乳とアイスと食パンだね。すぐ帰るよ。\n女：ありがとう。気をつけてね。"
+}
