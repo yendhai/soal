@@ -1,0 +1,20 @@
+{
+  "label": "Suami pulang kerja",
+  "situasi": {
+    "teks": "仕事から帰ってきた夫と妻が、家で話しています",
+    "gambar": ""
+  },
+  "audio": "al",
+  "pertanyaan": {
+    "teks": "男の人は、このあと、まず何をしますか。",
+    "gambar": ""
+  },
+  "pilihan": [
+    { "teks": "ごはんを食べる", "gambar": "", "benar": false },
+    { "teks": "お風呂に入る", "gambar": "", "benar": true },
+    { "teks": "寝る", "gambar": "", "benar": false },
+    { "teks": "カレーを作る", "gambar": "", "benar": false }
+  ],
+  "penjelasan": "Istrinya sudah membuat kari, tetapi pria itu berkata ingin mandi lebih dulu karena berkeringat (<jp>先にお風呂に入りたいな。汗をかいたから</jp>). Istrinya setuju, air mandi sudah siap, dan makan dilakukan setelah mandi (<jp>上がったら、ごはんにしよう</jp>). Tidur baru dilakukan nanti, dan yang membuat kari adalah istrinya, bukan pria itu.",
+  "transkrip": "男：ただいま。\n女：おかえりなさい。今日は遅かったね。\n男：うん、会議が長くて、仕事が終わるのが8時になったんだ。\n女：お疲れさま。ごはんは食べた？\n男：まだ。何かある？\n女：今日はカレーを作ったよ。すぐ温めるね。\n男：ありがとう。でも、先にお風呂に入りたいな。汗をかいたから。\n女：わかった。お風呂はもうわいてるよ。上がったら、ごはんにしよう。\n男：助かるよ。あ、明日は朝早く出かけるから、6時に起こしてくれる？\n女：6時？早いね。何かあるの？\n男：明日は大阪に出張なんだ。\n女：そうか。じゃあ、今日は早く寝たほうがいいね。\n男：そうだね。そうする。"
+}
