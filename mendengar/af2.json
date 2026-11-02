@@ -1,0 +1,20 @@
+{
+  "label": "Rencana wisata ke Kyoto",
+  "situasi": {
+    "teks": "会社の同僚の男の人と女の人が、連休の旅行について話しています",
+    "gambar": ""
+  },
+  "audio": "af",
+  "pertanyaan": {
+    "teks": "二人は、京都でさいしょにどこへ行きますか。",
+    "gambar": ""
+  },
+  "pilihan": [
+    { "teks": "金閣寺", "gambar": "", "benar": false },
+    { "teks": "清水寺", "gambar": "", "benar": true },
+    { "teks": "うどんの店", "gambar": "", "benar": false },
+    { "teks": "東京駅", "gambar": "", "benar": false }
+  ],
+  "penjelasan": "Wanita itu berkata akan pergi ke Kuil Kiyomizu lebih dulu, baru setelah itu ke Kuil Kinkaku (<jp>まず、清水寺に行って、そのあとで、金閣寺を見に行きたいです</jp>). Restoran udon baru dikunjungi pada malam hari (<jp>夜は</jp>), dan Stasiun Tokyo adalah tempat berangkat.",
+  "transkrip": "女：佐藤さん、来月の連休は、何か予定がありますか。\n男：いえ、まだ何も決めていません。鈴木さんは？\n女：実は、京都へ旅行に行こうと思っているんです。よかったら、いっしょに行きませんか。\n男：いいんですか。ぜひ行きたいです。京都では、どこへ行きますか。\n女：まず、清水寺に行って、そのあとで、金閣寺を見に行きたいです。\n男：いいですね。それから、京都は食べ物もおいしいと聞きました。\n女：はい。夜は、有名なうどんの店で食べる予定です。\n男：新幹線は、何時に乗りますか。\n女：朝7時50分に東京駅から出る新幹線に乗ります。京都には10時10分に着きます。\n男：7時50分ですか。ちょっと早いですね。\n女：そうですね。でも、早く着いたほうが、たくさん見られますよ。\n男：わかりました。では、7時半に東京駅の改札の前で会いましょう。\n女：はい、お願いします。楽しみですね。"
+}
