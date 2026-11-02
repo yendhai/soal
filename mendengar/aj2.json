@@ -1,1 +1,20 @@
-
+{
+  "label": "Aturan membuang sampah",
+  "situasi": {
+    "teks": "アパートで、引っ越してきた男の人と隣の女の人が話しています",
+    "gambar": ""
+  },
+  "audio": "aj",
+  "pertanyaan": {
+    "teks": "びんとかんは、いつ出しますか。",
+    "gambar": ""
+  },
+  "pilihan": [
+    { "teks": "毎週火曜日", "gambar": "", "benar": false },
+    { "teks": "毎週水曜日", "gambar": "", "benar": false },
+    { "teks": "毎週木曜日", "gambar": "", "benar": false },
+    { "teks": "毎週金曜日", "gambar": "", "benar": true }
+  ],
+  "penjelasan": "Botol kaca dan kaleng dibuang setiap hari Jumat (<jp>びんとかんは、毎週金曜日です</jp>). Hari Selasa adalah jadwal botol plastik (<jp>ペットボトルは火曜日</jp>), jadi jangan tertukar.",
+  "transkrip": "男：すみません、先週このアパートに引っ越してきた田中です。\n女：あ、はじめまして。隣の山本です。\n男：あの、ごみのことで聞きたいんですが、燃えるごみは何曜日ですか。\n女：燃えるごみは、月曜日と木曜日です。朝8時までに出してくださいね。\n男：8時までですね。燃えないごみは、いつですか。\n女：燃えないごみは、第2と第4の水曜日です。\n男：びんやかんは、どうですか。\n女：びんとかんは、毎週金曜日です。ペットボトルは火曜日ですよ。\n男：分けるごみが多いですね。大きいごみは、どうすればいいですか。\n女：粗大ごみは、前の日までに電話で予約しないといけません。\n男：そうですか。よくわかりました。ありがとうございます。\n女：いいえ。わからないことがあったら、また聞いてくださいね。"
+}
