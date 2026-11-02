@@ -1,0 +1,20 @@
+{
+  "label": "Ajakan makan malam",
+  "situasi": {
+    "teks": "会社の同僚の男の人と女の人が話しています",
+    "gambar": ""
+  },
+  "audio": "am",
+  "pertanyaan": {
+    "teks": "二人は、土曜日に何をしますか。",
+    "gambar": ""
+  },
+  "pilihan": [
+    { "teks": "映画を見る", "gambar": "", "benar": false },
+    { "teks": "食事をする", "gambar": "", "benar": true },
+    { "teks": "買い物をする", "gambar": "", "benar": false },
+    { "teks": "会議をする", "gambar": "", "benar": false }
+  ],
+  "penjelasan": "Pria itu mengajak rekan kerjanya makan bersama pada hari Sabtu (<jp>今度の土曜日、もし時間があったら、いっしょに食事に行きませんか</jp>), dan wanita itu menerimanya. Menonton film, berbelanja, dan rapat tidak disebutkan dalam dialog.",
+  "transkrip": "男：あの、山田さん、ちょっとお時間いいですか。\n女：はい、どうしたんですか。\n男：実は、今度の土曜日、もし時間があったら、いっしょに食事に行きませんか。\n女：えっ、私とですか。\n男：はい。前から、おいしいイタリア料理の店に行きたいと思っていたんです。\n女：イタリア料理、大好きです。土曜日は、午後は用事があるんですが、夜なら大丈夫です。\n男：よかった。じゃあ、7時はどうですか。\n女：7時ですね。大丈夫です。どこで会いますか。\n男：駅の南口で会いましょう。店は、駅から歩いて5分ぐらいです。\n女：わかりました。楽しみにしています。\n男：ありがとうございます。じゃあ、予約しておきますね。\n女：はい、お願いします。"
+}
