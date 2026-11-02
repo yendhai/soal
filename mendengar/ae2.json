@@ -1,0 +1,20 @@
+{
+  "label": "Rencana hari libur",
+  "situasi": {
+    "teks": "友だちの男の人と女の人が、休みの日の計画について話しています",
+    "gambar": ""
+  },
+  "audio": "ae",
+  "pertanyaan": {
+    "teks": "バスは、何時に駅から出ますか。",
+    "gambar": ""
+  },
+  "pilihan": [
+    { "teks": "7時", "gambar": "", "benar": false },
+    { "teks": "7時半", "gambar": "", "benar": false },
+    { "teks": "8時", "gambar": "", "benar": true },
+    { "teks": "9時", "gambar": "", "benar": false }
+  ],
+  "penjelasan": "Wanita itu menyebutkan bahwa bus berangkat dari stasiun pukul 8 pagi (<jp>朝8時に駅から出るよ</jp>). Perjalanan memakan waktu sekitar 1 jam (<jp>1時間ぐらいで着く</jp>), jadi pukul 9 adalah perkiraan waktu tiba, bukan waktu berangkat.",
+  "transkrip": "女：田中くん、来週の日曜日、何か予定ある？\n男：特にないけど、どうして？\n女：天気がよさそうだから、どこかへ行かない？\n男：いいね。どこに行きたい？\n女：山の公園はどう？きれいな湖があるんだって。\n男：山か…。ちょっと遠いし、歩くのは疲れるなあ。\n女：大丈夫、バスで行けるから、そんなに歩かないよ。\n男：そうなの？じゃあ、バスは何時に出るの？\n女：朝8時に駅から出るよ。1時間ぐらいで着くって。\n男：8時か、ちょっと早いなあ。でも、いいよ。お弁当はどうする？\n女：私が作っていくよ。田中くんは飲み物をお願い。\n男：わかった。じゃあ、お茶とジュースを買っていくよ。\n女：ありがとう。じゃあ、日曜日の8時に駅で会おう。\n男：うん、楽しみだね。"
+}
