@@ -1,0 +1,20 @@
+{
+  "label": "Di apotek",
+  "situasi": {
+    "teks": "薬局で、お客さんの男の人と薬剤師の女の人が話しています",
+    "gambar": ""
+  },
+  "audio": "ah",
+  "pertanyaan": {
+    "teks": "男の人は、いつから頭とのどが痛いですか。",
+    "gambar": ""
+  },
+  "pilihan": [
+    { "teks": "今朝から", "gambar": "", "benar": false },
+    { "teks": "昨日から", "gambar": "", "benar": true },
+    { "teks": "先週から", "gambar": "", "benar": false },
+    { "teks": "今日の昼から", "gambar": "", "benar": false }
+  ],
+  "penjelasan": "Pria itu berkata bahwa kepala dan tenggorokannya sakit sejak kemarin (<jp>昨日から頭が痛くて、のども痛いんです</jp>). Pagi ini ia hanya mengukur suhu badannya, yaitu 37,5 derajat (<jp>朝は37度5分</jp>), bukan awal mula sakitnya.",
+  "transkrip": "女：いらっしゃいませ。何かお探しですか。\n男：あの、昨日から頭が痛くて、のども痛いんです。\n女：熱はありますか。\n男：はい、朝は37度5分ありました。\n女：そうですか。せきは出ますか。\n男：せきは出ませんが、鼻水が少し出ます。\n女：わかりました。では、この風邪薬はいかがですか。\n男：どうやって飲みますか。\n女：1日3回、朝と昼と夜、ごはんを食べたあとに、1回2錠飲んでください。\n男：食べる前じゃなくて、あとですか。\n女：はい。それから、この薬を飲むと、眠くなることがあります。車の運転はしないでください。\n男：えっ、眠くなりますか。\n女：はい。ですから、飲んだあとは、ゆっくり休んでください。\n男：わかりました。ありがとうございます。それをください。\n女：はい、ありがとうございます。お大事に。"
+}
