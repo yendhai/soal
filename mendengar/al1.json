@@ -1,0 +1,20 @@
+{
+  "label": "Suami pulang kerja",
+  "situasi": {
+    "teks": "仕事から帰ってきた夫と妻が、家で話しています",
+    "gambar": ""
+  },
+  "audio": "al",
+  "pertanyaan": {
+    "teks": "男の人は、どうして今日遅く帰りましたか。",
+    "gambar": ""
+  },
+  "pilihan": [
+    { "teks": "会議が長かったから", "gambar": "", "benar": true },
+    { "teks": "電車が止まったから", "gambar": "", "benar": false },
+    { "teks": "友だちと食事をしたから", "gambar": "", "benar": false },
+    { "teks": "買い物に行ったから", "gambar": "", "benar": false }
+  ],
+  "penjelasan": "Saat istrinya berkomentar bahwa ia pulang terlambat, pria itu menjawab bahwa rapat berlangsung lama sehingga pekerjaannya baru selesai pukul 8 (<jp>会議が長くて、仕事が終わるのが8時になったんだ</jp>). Kereta berhenti, makan bersama teman, dan berbelanja tidak disebutkan dalam dialog.",
+  "transkrip": "男：ただいま。\n女：おかえりなさい。今日は遅かったね。\n男：うん、会議が長くて、仕事が終わるのが8時になったんだ。\n女：お疲れさま。ごはんは食べた？\n男：まだ。何かある？\n女：今日はカレーを作ったよ。すぐ温めるね。\n男：ありがとう。でも、先にお風呂に入りたいな。汗をかいたから。\n女：わかった。お風呂はもうわいてるよ。上がったら、ごはんにしよう。\n男：助かるよ。あ、明日は朝早く出かけるから、6時に起こしてくれる？\n女：6時？早いね。何かあるの？\n男：明日は大阪に出張なんだ。\n女：そうか。じゃあ、今日は早く寝たほうがいいね。\n男：そうだね。そうする。"
+}
