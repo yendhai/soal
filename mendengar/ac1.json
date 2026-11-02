@@ -1,0 +1,20 @@
+{
+  "label": "Titip belanja lewat telepon",
+  "situasi": {
+    "teks": "夫が、コンビニから家にいる妻に電話をしています",
+    "gambar": ""
+  },
+  "audio": "ac",
+  "pertanyaan": {
+    "teks": "男の人は、今どこにいますか。",
+    "gambar": ""
+  },
+  "pilihan": [
+    { "teks": "家", "gambar": "", "benar": false },
+    { "teks": "コンビニ", "gambar": "", "benar": true },
+    { "teks": "スーパー", "gambar": "", "benar": false },
+    { "teks": "駅", "gambar": "", "benar": false }
+  ],
+  "penjelasan": "Pria itu berkata bahwa ia sedang berada di minimarket (<jp>今、コンビニにいるんだけど</jp>). Rumah adalah tempat istrinya berada, sedangkan supermarket dan stasiun tidak disebutkan dalam percakapan.",
+  "transkrip": "男：もしもし、僕だけど。今、大丈夫？\n女：うん、大丈夫。どうしたの？\n男：今、コンビニにいるんだけど、何か買って帰るものある？\n女：そうね…。牛乳がなくなったから、牛乳を買ってきてくれる？\n男：牛乳ね。何本？\n女：一本でいいよ。あ、それから、新しいアイスも出てるって聞いたから、チョコのアイスもお願い。\n男：また？昨日も食べたでしょ。\n女：いいじゃない。あ、やっぱりパンも買ってきて。明日の朝ごはんがないの。\n男：わかった。食パンでいい？\n女：うん、食パンでお願い。\n男：じゃあ、牛乳とアイスと食パンだね。すぐ帰るよ。\n女：ありがとう。気をつけてね。"
+}
