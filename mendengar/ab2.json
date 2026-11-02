@@ -1,0 +1,20 @@
+{
+  "label": "Membeli bento",
+  "situasi": {
+    "teks": "お弁当屋で、店員の女の人とお客さんの男の人が話しています",
+    "gambar": ""
+  },
+  "audio": "ab",
+  "pertanyaan": {
+    "teks": "男の人は、けっきょく何を買いますか。",
+    "gambar": ""
+  },
+  "pilihan": [
+    { "teks": "ハンバーグ弁当だけ", "gambar": "", "benar": false },
+    { "teks": "ハンバーグ弁当とお茶", "gambar": "", "benar": true },
+    { "teks": "焼き魚弁当とお茶", "gambar": "", "benar": false },
+    { "teks": "唐揚げ弁当とお茶", "gambar": "", "benar": false }
+  ],
+  "penjelasan": "Bento ayam goreng sudah habis, dan pria itu menolak bento ikan bakar (<jp>魚はちょっと…</jp>). Akhirnya ia memesan bento hamburg (<jp>ハンバーグ弁当</jp>) dan satu botol teh (<jp>お茶も一本</jp>).",
+  "transkrip": "女：いらっしゃいませ。\n男：すみません、この唐揚げ弁当をください。\n女：はい。あ、すみません、唐揚げ弁当は今、売り切れなんです。\n男：そうですか…。じゃあ、おすすめは何ですか。\n女：焼き魚弁当はいかがですか。今日は魚が新しくて、人気ですよ。\n男：うーん、魚はちょっと…。ハンバーグ弁当はありますか。\n女：はい、ありますよ。ハンバーグ弁当は500円です。\n男：じゃあ、それをお願いします。あと、お茶も一本ください。\n女：お茶は150円です。全部で650円になります。温めますか。\n男：はい、お願いします。\n女：かしこまりました。少々お待ちください。\n男：あ、箸は二つください。友だちと食べますから。\n女：はい、どうぞ。袋はいりますか。\n男：いいえ、大丈夫です。\n女：ありがとうございました。またお越しください。"
+}
