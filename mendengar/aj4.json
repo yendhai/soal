@@ -1,1 +1,20 @@
-
+{
+  "label": "Aturan membuang sampah",
+  "situasi": {
+    "teks": "アパートで、引っ越してきた男の人と隣の女の人が話しています",
+    "gambar": ""
+  },
+  "audio": "aj",
+  "pertanyaan": {
+    "teks": "粗大ごみを出すとき、どうしなければなりませんか。",
+    "gambar": ""
+  },
+  "pilihan": [
+    { "teks": "朝早く出す", "gambar": "", "benar": false },
+    { "teks": "お金を払う", "gambar": "", "benar": false },
+    { "teks": "電話で予約する", "gambar": "", "benar": true },
+    { "teks": "隣の人にたのむ", "gambar": "", "benar": false }
+  ],
+  "penjelasan": "Untuk sampah besar (<jp>粗大ごみ</jp>), tetangga itu berkata harus melakukan reservasi lewat telepon paling lambat sehari sebelumnya (<jp>前の日までに電話で予約しないといけません</jp>). Pembayaran dan meminta bantuan tetangga tidak disebutkan dalam dialog.",
+  "transkrip": "男：すみません、先週このアパートに引っ越してきた田中です。\n女：あ、はじめまして。隣の山本です。\n男：あの、ごみのことで聞きたいんですが、燃えるごみは何曜日ですか。\n女：燃えるごみは、月曜日と木曜日です。朝8時までに出してくださいね。\n男：8時までですね。燃えないごみは、いつですか。\n女：燃えないごみは、第2と第4の水曜日です。\n男：びんやかんは、どうですか。\n女：びんとかんは、毎週金曜日です。ペットボトルは火曜日ですよ。\n男：分けるごみが多いですね。大きいごみは、どうすればいいですか。\n女：粗大ごみは、前の日までに電話で予約しないといけません。\n男：そうですか。よくわかりました。ありがとうございます。\n女：いいえ。わからないことがあったら、また聞いてくださいね。"
+}
