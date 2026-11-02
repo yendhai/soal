@@ -1,1 +1,20 @@
-
+{
+  "label": "Memesan di restoran",
+  "situasi": {
+    "teks": "レストランで、店員の女の人とお客さんの男の人が話しています",
+    "gambar": ""
+  },
+  "audio": "ai",
+  "pertanyaan": {
+    "teks": "男の人は、アイスクリームをいつ食べますか。",
+    "gambar": ""
+  },
+  "pilihan": [
+    { "teks": "食事の前", "gambar": "", "benar": false },
+    { "teks": "食事のあと", "gambar": "", "benar": true },
+    { "teks": "食事といっしょに", "gambar": "", "benar": false },
+    { "teks": "食べません", "gambar": "", "benar": false }
+  ],
+  "penjelasan": "Saat memesan es krim, pria itu berkata akan memakannya setelah makan (<jp>食べたあとで、アイスクリームをください</jp>). Ia tidak membatalkannya, jadi es krim tetap dipesan.",
+  "transkrip": "女：いらっしゃいませ。ご注文はお決まりですか。\n男：すみません、まだ決まっていません。おすすめは何ですか。\n女：今日のおすすめは、さかなのフライ定食です。とても人気がありますよ。\n男：いくらですか。\n女：900円です。ごはんとみそ汁がついています。\n男：魚のフライですか。実は、昨日も魚を食べたんです。ほかにおすすめはありますか。\n女：それなら、とりのからあげ定食はいかがですか。700円です。\n男：おいしそうですね。じゃあ、それにします。\n女：ありがとうございます。お飲み物はどうしますか。\n男：冷たいお茶をお願いします。\n女：かしこまりました。デザートもありますが、いかがですか。\n男：デザートは何がありますか。\n女：アイスクリームとケーキがあります。\n男：じゃあ、食べたあとで、アイスクリームをください。\n女：かしこまりました。少々お待ちください。"
+}
