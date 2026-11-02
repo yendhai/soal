@@ -1,0 +1,20 @@
+{
+  "label": "Bertanya di stasiun",
+  "situasi": {
+    "teks": "駅で、女の人と駅員の男の人が話しています",
+    "gambar": ""
+  },
+  "audio": "ad",
+  "pertanyaan": {
+    "teks": "女の人は、どこへ行きたいですか。",
+    "gambar": ""
+  },
+  "pilihan": [
+    { "teks": "駅", "gambar": "", "benar": false },
+    { "teks": "空港", "gambar": "", "benar": true },
+    { "teks": "病院", "gambar": "", "benar": false },
+    { "teks": "会社", "gambar": "", "benar": false }
+  ],
+  "penjelasan": "Wanita itu bertanya kepada petugas stasiun karena ingin pergi ke bandara (<jp>空港へ行きたいんですが</jp>). Mereka sedang berada di stasiun, jadi <jp>駅</jp> bukan tujuannya.",
+  "transkrip": "女：すみません、空港へ行きたいんですが、何番線の電車に乗ればいいですか。\n男：空港ですか。空港行きは、3番線ですよ。\n女：3番線ですね。あ、次の電車は何時に出ますか。\n男：ええと、10時15分です。あと5分ぐらいですね。\n女：よかった。それから、空港まで何分ぐらいかかりますか。\n男：急行で40分ぐらいです。でも、この電車は急行じゃなくて、各駅停車ですから、1時間ぐらいかかります。\n女：えっ、1時間ですか。飛行機が11時半なので、ちょっと心配です。\n男：それなら、10時半の急行のほうがいいですよ。5番線から出ます。\n女：10時半の急行ですね。空港に何時に着きますか。\n男：11時10分に着きます。\n女：それなら間に合います。ありがとうございました。\n男：いいえ。気をつけて、行ってらっしゃい。"
+}
