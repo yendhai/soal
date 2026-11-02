@@ -1,1 +1,20 @@
-
+{
+  "label": "Rencana akhir pekan",
+  "situasi": {
+    "teks": "友だちの男の人と女の人が話しています",
+    "gambar": ""
+  },
+  "audio": "aa",
+  "pertanyaan": {
+    "teks": "映画の切符はだれが買いますか。",
+    "gambar": ""
+  },
+  "pilihan": [
+    { "teks": "男の人", "gambar": "", "benar": true },
+    { "teks": "女の人", "gambar": "", "benar": false },
+    { "teks": "妹", "gambar": "", "benar": false },
+    { "teks": "友だち", "gambar": "", "benar": false }
+  ],
+  "penjelasan": "Pria itu menyatakan bahwa ia akan membeli tiket lebih dulu (<jp>切符は僕が先に買っておきます</jp>). Kata <jp>僕</jp> adalah sebutan diri sendiri oleh laki-laki, jadi yang membeli tiket adalah si pria.",
+  "transkrip": "女：田中さん、来週の土曜日は何をしますか。\n男：友だちと映画を見に行きます。山田さんは？\n女：私は妹と買い物に行く予定でしたが、妹が風邪をひいたので、行けなくなりました。\n男：それは大変ですね。じゃあ、いっしょに映画を見ませんか。\n女：いいですね！何の映画ですか。\n男：新しいアニメの映画です。午後2時から始まります。\n女：2時ですか。午前中に病院へ妹の薬を取りに行くので、ちょうどいいです。\n男：じゃあ、1時半に駅の前で会いましょう。\n女：はい。あ、でも駅の前は人が多いから、本屋の前にしませんか。\n男：そうですね。じゃあ、本屋の前にしましょう。切符は僕が先に買っておきます。\n女：ありがとうございます！じゃあ、お昼ごはんは映画のあとで食べましょう。\n男：はい、そうしましょう。"
+}
