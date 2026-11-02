@@ -1,0 +1,20 @@
+{
+  "label": "Pembagian tugas rumah",
+  "situasi": {
+    "teks": "兄と妹が、家の仕事を分けて話しています",
+    "gambar": ""
+  },
+  "audio": "ag",
+  "pertanyaan": {
+    "teks": "妹は、何をしますか。",
+    "gambar": ""
+  },
+  "pilihan": [
+    { "teks": "ゴミ出しと掃除", "gambar": "", "benar": false },
+    { "teks": "洗濯と晩ごはん", "gambar": "", "benar": true },
+    { "teks": "掃除と晩ごはん", "gambar": "", "benar": false },
+    { "teks": "洗濯とお風呂のそうじ", "gambar": "", "benar": false }
+  ],
+  "penjelasan": "Sang adik akan mencuci pakaian (<jp>私は洗濯をするね</jp>) dan memasak makan malam, yaitu kari (<jp>晩ごはんは私が作るね</jp>). Membuang sampah, membersihkan kamar, dan membersihkan bak mandi dikerjakan oleh sang kakak.",
+  "transkrip": "女：お兄ちゃん、今度の日曜日、お母さんたちが旅行でいないから、家のことを分けてやろうよ。\n男：そうだね。何をしなきゃいけない？\n女：洗濯と、部屋の掃除と、ゴミ出しと、晩ごはんと、お風呂のそうじかな。\n男：じゃあ、僕がゴミ出しをするよ。ゴミは朝8時までに出さないといけないから。\n女：ありがとう、お兄ちゃん。じゃあ、私は洗濯をするね。朝ごはんのあとにやる。\n男：部屋の掃除は？\n女：うーん、掃除は苦手だなあ…。お兄ちゃん、お願いしてもいい？\n男：しょうがないなあ。いいよ。洗濯のあと、10時ごろから掃除をするよ。\n女：やったー！じゃあ、晩ごはんは私が作るね。\n男：本当？大丈夫？\n女：大丈夫だよ。カレーを作るから。6時ごろにできるよ。\n男：わかった。楽しみにしてるよ。お風呂のそうじは、晩ごはんのあとに僕がやるね。\n女：ありがとう、お兄ちゃん！"
+}
