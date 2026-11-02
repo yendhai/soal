@@ -1,1 +1,20 @@
-
+{
+  "label": "Membeli jam tangan",
+  "situasi": {
+    "teks": "時計屋で、お客さんの男の人と店員の女の人が話しています",
+    "gambar": ""
+  },
+  "audio": "ak",
+  "pertanyaan": {
+    "teks": "男の人は、どんな時計を買いますか。",
+    "gambar": ""
+  },
+  "pilihan": [
+    { "teks": "大きい赤い時計", "gambar": "", "benar": false },
+    { "teks": "小さい青い時計", "gambar": "", "benar": true },
+    { "teks": "大きい青い時計", "gambar": "", "benar": false },
+    { "teks": "小さい茶色の時計", "gambar": "", "benar": false }
+  ],
+  "penjelasan": "Pria itu menolak jam yang besar (<jp>ちょっと大きすぎますね</jp>) dan meminta yang lebih kecil. Ia menyukai jam kecil berwarna biru (<jp>小さくて、いいですね。青いのが好きです</jp>). Setelah itu ia meminta yang lebih murah, ditawari jam biru seharga 3.800 yen (<jp>同じ青い色で、3,800円です</jp>), lalu memutuskan membelinya (<jp>これにします</jp>). Jadi yang ia beli adalah jam kecil berwarna biru.",
+  "transkrip": "女：いらっしゃいませ。何をお探しですか。\n男：時計を探しています。\n女：アナログとデジタルがありますが、どちらがよろしいですか。\n男：デジタルは見やすいですが、アナログのほうが好きです。\n女：それでしたら、こちらはいかがですか。丸くて大きい時計です。色は黒と青と白があります。\n男：うーん、ちょっと大きすぎますね。もう少し小さいのはありますか。\n女：はい、こちらは小さいです。色は赤と青と茶色があります。\n男：小さくて、いいですね。青いのが好きです。いくらですか。\n女：4,500円です。\n男：ちょっと高いですね。もう少し安いのはありますか。\n女：では、こちらはいかがですか。同じ青い色で、3,800円です。\n男：これなら大丈夫です。これにします。プレゼントなので、包んでください。\n女：かしこまりました。少々お待ちください。"
+}
