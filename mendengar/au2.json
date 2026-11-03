@@ -1,1 +1,20 @@
-
+{
+  "label": "Memesan pizza",
+  "situasi": {
+    "teks": "電話で、お客さんの女の人とピザ屋の店員の男の人が、注文について話しています",
+    "gambar": ""
+  },
+  "audio": "au",
+  "pertanyaan": {
+    "teks": "女の人は、シーフードに何を追加しましたか。",
+    "gambar": ""
+  },
+  "pilihan": [
+    { "teks": "チーズ", "gambar": "", "benar": false },
+    { "teks": "コーン", "gambar": "", "benar": true },
+    { "teks": "えび", "gambar": "", "benar": false },
+    { "teks": "イカ", "gambar": "", "benar": false }
+  ],
+  "penjelasan": "Wanita itu bertanya apakah jagung bisa ditambahkan ke pizza seafood (<jp>シーフードに、コーンも追加できますか</jp>). Pegawai menjawab bisa dengan tambahan 100 yen (<jp>コーンは、100円です</jp>), lalu wanita itu memesannya (<jp>じゃあ、お願いします</jp>). Udang dan cumi sudah menjadi topping bawaan pizza seafood (<jp>えびとイカがのっています</jp>), jadi bukan tambahan. Keju tidak disebutkan dalam dialog.",
+  "transkrip": "男：お電話ありがとうございます。ピザ・ジャパンです。\n女：もしもし、ピザを注文したいんですが。\n男：はい、ありがとうございます。サイズは、どうなさいますか。Sサイズ、Mサイズ、Lサイズがございます。\n女：Mサイズは、何人分ですか。\n男：Mサイズは、2、3人分です。\n女：今日は、4人で食べるので、Mサイズにします。\n男：かしこまりました。種類は、何になさいますか。\n女：マルゲリータを2枚と、シーフードを1枚ください。\n男：はい。シーフードは、えびとイカがのっています。\n女：おいしそうですね。あ、シーフードに、コーンも追加できますか。\n男：はい、できます。コーンは、100円です。\n女：じゃあ、お願いします。\n男：かしこまりました。マルゲリータのMサイズが2枚と、コーンを追加したシーフードのMサイズが1枚ですね。\n女：はい、お願いします。\n男：30分ぐらいで、お届けします。\n女：はい。よろしくお願いします。"
+}
