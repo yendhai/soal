@@ -1,1 +1,20 @@
-
+{
+  "label": "Hadiah pernikahan",
+  "situasi": {
+    "teks": "友だちの女の人と男の人が、結婚式のプレゼントについて話しています",
+    "gambar": ""
+  },
+  "audio": "ar",
+  "pertanyaan": {
+    "teks": "二人は、何をプレゼントすることにしましたか。",
+    "gambar": ""
+  },
+  "pilihan": [
+    { "teks": "ペアのコップ", "gambar": "", "benar": false },
+    { "teks": "コーヒーメーカー", "gambar": "", "benar": true },
+    { "teks": "食器", "gambar": "", "benar": false },
+    { "teks": "花", "gambar": "", "benar": false }
+  ],
+  "penjelasan": "Wanita itu mengusulkan peralatan makan seperti sepasang gelas (<jp>食器はどう？ペアのコップとか</jp>), tetapi pria itu menganggap banyak orang lain juga memberi hadiah itu. Karena pengantin menyukai kopi, ia mengusulkan mesin kopi (<jp>コーヒーメーカーはどう？</jp>). Wanita itu setuju (<jp>それ、すごくいい</jp>) dan mereka memutuskan membelinya karena harganya sekitar 8.000 yen, masih cukup dengan uang 10.000 yen (<jp>それなら買えるね</jp>). Sisa uangnya dipakai untuk membeli kartu ucapan, tetapi hadiah utamanya adalah mesin kopi. Bunga tidak disebutkan dalam dialog.",
+  "transkrip": "女：ねえ、鈴木くん、来月、田中さんの結婚式でしょ。プレゼント、何にする？\n男：そうだね。まだ決めてないんだ。\n女：二人でお金を出し合って、いっしょに買わない？\n男：いいね。予算は、どのくらいにする？\n女：一人5,000円ずつ、全部で1万円はどう？\n男：うん、いいよ。何がいいかな。\n女：食器はどう？ペアのコップとか。\n男：食器は、ほかの人もよく贈るんじゃない？二人はコーヒーが好きだから、コーヒーメーカーはどう？\n女：いいね！それ、すごくいい。でも、1万円で買えるかな。\n男：インターネットで調べたら、8,000円ぐらいのがあったよ。\n女：それなら買えるね。じゃあ、残りのお金で、カードも買おう。\n男：いいね。買い物は、今度の日曜日に行かない？\n女：うん、午後2時に駅で会おう。\n男：わかった。"
+}
