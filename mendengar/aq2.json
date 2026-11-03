@@ -1,1 +1,20 @@
-
+{
+  "label": "Pergi ke kebun binatang",
+  "situasi": {
+    "teks": "友だちの女の人と男の人が、動物園で話しています",
+    "gambar": ""
+  },
+  "audio": "aq",
+  "pertanyaan": {
+    "teks": "二人は、どうして先にパンダを見ましたか。",
+    "gambar": ""
+  },
+  "pilihan": [
+    { "teks": "午前中のほうがすいているから", "gambar": "", "benar": true },
+    { "teks": "女の人が好きじゃないから", "gambar": "", "benar": false },
+    { "teks": "午後は休みだから", "gambar": "", "benar": false },
+    { "teks": "入口から遠いから", "gambar": "", "benar": false }
+  ],
+  "penjelasan": "Pria itu berkata bahwa panda populer sehingga lebih sepi pada pagi hari, lalu mengajak melihatnya lebih dulu (<jp>パンダは人気があるから、午前中のほうがすいているよ。先に見に行こうか</jp>). Wanita itu justru ingin melihat panda (<jp>パンダが見たい！</jp>), jadi pilihan B salah. Soal jarak dari pintu masuk, dialog hanya menyebut belok kanan dari pintu masuk (<jp>入口から右に行けば</jp>), bukan bahwa tempatnya jauh. Kebun binatang tutup pada siang hari juga tidak disebutkan.",
+  "transkrip": "女：わあ、やっと動物園に着いたね！\n男：そうだね。まず、どの動物から見る？\n女：パンダが見たい！\n男：パンダは人気があるから、午前中のほうがすいているよ。先に見に行こうか。\n女：うん、そうしよう。地図を見ると、入口から右に行けば、あるって。\n男：本当だ。行こう。\n女：わあ、かわいい！竹を食べてるよ。\n男：本当だ。ずっと食べてるね。\n女：次は、何を見る？\n男：ライオンはどう？えさの時間が12時からなんだって。\n女：えさの時間、見たい！でも、まだ11時だね。\n男：じゃあ、その前に、ゾウを見に行こうか。\n女：うーん、その前に、ちょっとのどがかわいたな。\n男：じゃあ、あそこの店でジュースを買ってから、ゾウを見に行こう。\n女：ありがとう！"
+}
