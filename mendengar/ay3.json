@@ -1,1 +1,20 @@
-
+{
+  "label": "Bertemu orang tua pacar",
+  "situasi": {
+    "teks": "電話で、恋人の男の人と女の人が、両親に会う日について話しています",
+    "gambar": ""
+  },
+  "audio": "ay",
+  "pertanyaan": {
+    "teks": "男の人は、何を買っていきますか。",
+    "gambar": ""
+  },
+  "pilihan": [
+    { "teks": "花", "gambar": "", "benar": false },
+    { "teks": "お酒", "gambar": "", "benar": false },
+    { "teks": "お茶", "gambar": "", "benar": false },
+    { "teks": "ケーキ", "gambar": "", "benar": true }
+  ],
+  "penjelasan": "Wanita itu berkata bahwa ayahnya suka makanan manis dan ibunya suka kue (<jp>お父さんは、甘いものが好きだよ。お母さんも、ケーキが好き</jp>). Setelah itu pria itu memutuskan untuk membeli kue (<jp>じゃあ、ケーキを買っていくよ</jp>). Bunga, minuman keras, dan teh tidak disebutkan dalam dialog.",
+  "transkrip": "男：もしもし、今、大丈夫？\n女：うん、大丈夫だよ。あのね、前に話したでしょ。うちの両親に会いに来るって。\n男：あ、うん…。いつ行けばいいかな。\n女：今度の土曜日か日曜日は、どう？\n男：土曜日は、午前中に仕事があるんだ。日曜日なら、大丈夫だよ。\n女：じゃあ、日曜日にしよう。何時ごろがいい？\n男：午後2時ごろは、どうかな。\n女：2時ね。お母さんが、お昼ごはんを作って待ってるって言ってたから、12時半に来てもらえる？\n男：え、お昼ごはんも？それは、うれしいな。わかった、12時半に行くよ。\n女：ありがとう。あ、お土産は、気にしなくていいからね。\n男：いや、何か持っていくよ。お父さんは、何が好きなの？\n女：お父さんは、甘いものが好きだよ。お母さんも、ケーキが好き。\n男：そうか。じゃあ、ケーキを買っていくよ。\n女：ありがとう。楽しみにしてるね。\n男：うん、がんばるよ。"
+}
