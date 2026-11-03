@@ -1,1 +1,19 @@
-
+{
+  "label": "Memesan pizza",
+  "situasi": {
+    "teks": "電話で、お客さんの女の人とピザ屋の店員の男の人が、注文について話しています",
+    "gambar": ""
+  },
+  "audio": "au",
+  "pertanyaan": {
+    "teks": "女の人は、どのサイズのピザを注文しましたか。",
+    "gambar": ""
+  },
+  "pilihan": [
+    { "teks": "Sサイズ", "gambar": "", "benar": false },
+    { "teks": "Mサイズ", "gambar": "", "benar": true },
+    { "teks": "Lサイズ", "gambar": "", "benar": false },
+    { "teks": "SサイズとLサイズ", "gambar": "", "benar": false }
+  ],
+  "penjelasan": "Pegawai menjelaskan bahwa ukuran M cukup untuk 2-3 orang (<jp>Mサイズは、2、3人分です</jp>). Wanita itu akan makan bersama empat orang, lalu memutuskan memilih ukuran M (<jp>今日は、4人で食べるので、Mサイズにします</jp>). Pegawai juga mengulang pesanan dengan ukuran M di akhir percakapan. Ukuran S dan L hanya disebut sebagai pilihan yang tersedia.",
+  "transkrip": "男：お電話ありがとうございます。ピザ・ジャパンです。\n女：もしもし、ピザを注文したいんですが。\n男：はい、ありがとうございます。サイズは、どうなさいますか。Sサイズ、Mサイズ、Lサイズがございます。\n女：Mサイズは、何人分ですか。\n男：Mサイズは、2、3人分です。\n女：今日は、4人で食べるので、Mサイズにします。\n男：かしこまりました。種類は、何になさいますか。\n女：
