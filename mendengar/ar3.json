@@ -1,1 +1,20 @@
-
+{
+  "label": "Hadiah pernikahan",
+  "situasi": {
+    "teks": "友だちの女の人と男の人が、結婚式のプレゼントについて話しています",
+    "gambar": ""
+  },
+  "audio": "ar",
+  "pertanyaan": {
+    "teks": "二人は、いつ、どこで会いますか。",
+    "gambar": ""
+  },
+  "pilihan": [
+    { "teks": "土曜日の2時に駅", "gambar": "", "benar": false },
+    { "teks": "日曜日の2時に駅", "gambar": "", "benar": true },
+    { "teks": "日曜日の3時に店", "gambar": "", "benar": false },
+    { "teks": "日曜日の2時に店", "gambar": "", "benar": false }
+  ],
+  "penjelasan": "Pria itu mengajak berbelanja pada hari Minggu depan (<jp>買い物は、今度の日曜日に行かない？</jp>). Wanita itu mengusulkan bertemu pukul 2 siang di stasiun (<jp>午後2時に駅で会おう</jp>), dan pria itu setuju (<jp>わかった</jp>). Mereka bertemu di stasiun lebih dulu, bukan langsung di toko. Hari Sabtu dan pukul 3 tidak disebutkan dalam dialog.",
+  "transkrip": "女：ねえ、鈴木くん、来月、田中さんの結婚式でしょ。プレゼント、何にする？\n男：そうだね。まだ決めてないんだ。\n女：二人でお金を出し合って、いっしょに買わない？\n男：いいね。予算は、どのくらいにする？\n女：一人5,000円ずつ、全部で1万円はどう？\n男：うん、いいよ。何がいいかな。\n女：食器はどう？ペアのコップとか。\n男：食器は、ほかの人もよく贈るんじゃない？二人はコーヒーが好きだから、コーヒーメーカーはどう？\n女：いいね！それ、すごくいい。でも、1万円で買えるかな。\n男：インターネットで調べたら、8,000円ぐらいのがあったよ。\n女：それなら買えるね。じゃあ、残りのお金で、カードも買おう。\n男：いいね。買い物は、今度の日曜日に行かない？\n女：うん、午後2時に駅で会おう。\n男：わかった。"
+}
