@@ -1,1 +1,20 @@
-
+{
+  "label": "Terjebak di lift",
+  "situasi": {
+    "teks": "エレベーターに閉じこめられた同僚の男の人と女の人が話しています",
+    "gambar": ""
+  },
+  "audio": "az",
+  "pertanyaan": {
+    "teks": "管理室の人は、何分ぐらいで来ますか。",
+    "gambar": ""
+  },
+  "pilihan": [
+    { "teks": "10分", "gambar": "", "benar": false },
+    { "teks": "20分", "gambar": "", "benar": true },
+    { "teks": "30分", "gambar": "", "benar": false },
+    { "teks": "40分", "gambar": "", "benar": false }
+  ],
+  "penjelasan": "Setelah menekan tombol darurat, pria itu terhubung dengan ruang pengelola dan berkata bahwa petugas akan datang sekitar 20 menit lagi (<jp>管理室の人が、20分ぐらいで来ると言っています</jp>). Wanita itu merasa lega karena mengira akan lebih lama (<jp>もっと長くかかると思いました</jp>). Angka 40 pada pilihan D mirip dengan jam saat ini, yaitu pukul 2.40 (<jp>2時40分</jp>), tetapi itu bukan waktu kedatangan petugas.",
+  "transkrip": "女：あれ？エレベーターが、止まりましたよ。\n男：本当ですね。ボタンを押しても、動きません。\n女：どうしましょう。私、せまいところは苦手なんです。\n男：大丈夫ですよ。落ち着いてください。まず、非常ボタンを押してみます。\n女：お願いします。\n男：あ、つながりました。管理室の人が、20分ぐらいで来ると言っています。\n女：20分ですか。よかった。もっと長くかかると思いました。\n男：待っている間、座りましょう。水を飲みますか。かばんに入っています。\n女：ありがとうございます。あ、会議は、3時からでしたよね。\n男：そうですね。今、2時40分だから、間に合わないかもしれません。会社に電話しておきます。\n女：お願いします。一人じゃなくて、本当によかったです。\n男：私もです。"
+}
