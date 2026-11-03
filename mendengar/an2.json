@@ -1,1 +1,20 @@
-
+{
+  "label": "Bertanya jalan di pos polisi",
+  "situasi": {
+    "teks": "交番で、道に迷った女の人と警察官の男の人が話しています",
+    "gambar": ""
+  },
+  "audio": "an",
+  "pertanyaan": {
+    "teks": "図書館へは、どう行きますか。",
+    "gambar": ""
+  },
+  "pilihan": [
+    { "teks": "まっすぐ行って、1つ目の信号を右に曲がる", "gambar": "", "benar": false },
+    { "teks": "まっすぐ行って、2つ目の信号を右に曲がる", "gambar": "", "benar": true },
+    { "teks": "まっすぐ行って、2つ目の信号を左に曲がる", "gambar": "", "benar": false },
+    { "teks": "まっすぐ行って、3つ目の信号を右に曲がる", "gambar": "", "benar": false }
+  ],
+  "penjelasan": "Polisi itu memberi petunjuk agar wanita itu berjalan lurus lalu belok kanan di lampu lalu lintas kedua (<jp>この道をまっすぐ行って、2つ目の信号を右に曲がってください</jp>). Wanita itu mengulanginya (<jp>2つ目の信号を右ですね</jp>) dan polisi membenarkan. Setelah belok kanan, ada supermarket besar di sebelah kiri, dan perpustakaan berada di sebelahnya (<jp>そのスーパーの隣が図書館です</jp>).",
+  "transkrip": "女：すみません、ちょっとお聞きしたいんですが。\n男：はい、どうしましたか。\n女：市立図書館へ行きたいんですが、道がわからないんです。\n男：図書館ですか。ここから歩いて10分ぐらいですよ。\n女：歩いて行けるんですね。どう行けばいいですか。\n男：この道をまっすぐ行って、2つ目の信号を右に曲がってください。\n女：2つ目の信号を右ですね。\n男：はい。右に曲がると、左に大きいスーパーがあります。そのスーパーの隣が図書館です。\n女：スーパーの隣ですね。あの、図書館は今日開いていますか。\n男：今日は月曜日ですから、休みですよ。\n女：えっ、休みですか。\n男：はい。火曜日から日曜日は、朝9時から夜7時まで開いています。\n女：残念です。じゃあ、明日また来ます。\n男：そうしてください。気をつけて。\n女：ありがとうございました。"
+}
