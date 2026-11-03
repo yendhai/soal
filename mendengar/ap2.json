@@ -1,1 +1,20 @@
-
+{
+  "label": "Perkenalan dengan tetangga baru",
+  "situasi": {
+    "teks": "インドネシアから引っ越してきた女の人と、隣の男の人が話しています",
+    "gambar": ""
+  },
+  "audio": "ap",
+  "pertanyaan": {
+    "teks": "サリさんは、田中さんに何をあげましたか。",
+    "gambar": ""
+  },
+  "pilihan": [
+    { "teks": "お茶とおかし", "gambar": "", "benar": false },
+    { "teks": "コーヒーとクルプック", "gambar": "", "benar": true },
+    { "teks": "コーヒーとケーキ", "gambar": "", "benar": false },
+    { "teks": "魚とごはん", "gambar": "", "benar": false }
+  ],
+  "penjelasan": "Sari memberikan oleh-oleh dari Indonesia (<jp>インドネシアのおみやげです</jp>). Saat Tanaka bertanya isinya, ia menjawab kopi dan kerupuk (<jp>コーヒーと、クルプックです</jp>). Kerupuk dijelaskan sebagai camilan seperti senbei ikan, tetapi bukan ikan itu sendiri. Teh, kue, dan nasi tidak disebutkan dalam dialog.",
+  "transkrip": "女：ごめんください。隣に引っ越してきたサリです。\n男：あ、はい。隣の田中です。\n女：はじめまして。先週、インドネシアから来ました。\n男：インドネシアですか。日本には、どのくらいいますか。\n女：日本は初めてです。仕事で来ました。4月から、近くの会社で働きます。\n男：そうですか。大変ですね。\n女：あの、これ、インドネシアのおみやげです。よかったら、どうぞ。\n男：えっ、いいんですか。ありがとうございます。何ですか。\n女：コーヒーと、クルプックです。クルプックは、魚のおせんべいみたいなおかしです。\n男：おいしそうですね。コーヒーが大好きなんです。\n女：よかったです。クルプックは、油で揚げて食べてください。\n男：揚げるんですね。わかりました。\n女：あの、日本のごみの出し方が、まだよくわからなくて…。\n男：大丈夫ですよ。わからないことがあったら、いつでも聞いてください。\n女：ありがとうございます。これから、よろしくお願いします。\n男：こちらこそ、よろしくお願いします。"
+}
