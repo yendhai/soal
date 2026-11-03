@@ -1,1 +1,20 @@
-
+{
+  "label": "Hadiah untuk adik",
+  "situasi": {
+    "teks": "就職した妹に、兄がプレゼントを渡しています",
+    "gambar": ""
+  },
+  "audio": "as",
+  "pertanyaan": {
+    "teks": "妹は、初めての給料で、お母さんに何をあげようと思っていますか。",
+    "gambar": ""
+  },
+  "pilihan": [
+    { "teks": "時計", "gambar": "", "benar": false },
+    { "teks": "かばん", "gambar": "", "benar": false },
+    { "teks": "ケーキ", "gambar": "", "benar": false },
+    { "teks": "花", "gambar": "", "benar": true }
+  ],
+  "penjelasan": "Sang kakak bertanya apakah adiknya akan membelikan sesuatu untuk ibu dengan gaji pertamanya (<jp>初めての給料で、お母さんに何か買うんでしょ？</jp>). Sang adik menjawab bahwa ia berencana memberi bunga kepada ibu (<jp>お母さんには、花をあげようと思ってる</jp>). Jam tangan adalah hadiah dari sang kakak untuk sang adik, bukan untuk ibu. Tas dan kue tidak disebutkan dalam dialog.",
+  "transkrip": "男：就職、おめでとう！これ、お祝いのプレゼントだよ。\n女：えっ、お兄ちゃん、私に？ありがとう！開けてもいい？\n男：うん、開けてみて。\n女：わあ、腕時計だ！しかも、私が欲しかった青い色！\n男：前に、欲しいって言ってたでしょ。仕事のときに使えるように、シンプルなのにしたよ。\n女：すごくうれしい。大切に使うね。でも、高かったんじゃない？\n男：気にしなくていいよ。初めての給料で、お母さんに何か買うんでしょ？\n女：うん。お母さんには、花をあげようと思ってる。\n男：いいね。お母さん、きっと喜ぶよ。\n女：お兄ちゃん、ありがとう。仕事、がんばるね！\n男：無理しないでね。"
+}
