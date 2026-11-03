@@ -1,1 +1,20 @@
-
+{
+  "label": "Cerita kampung halaman",
+  "situasi": {
+    "teks": "友だちの女の人と男の人が、男の人の故郷について話しています",
+    "gambar": ""
+  },
+  "audio": "aw",
+  "pertanyaan": {
+    "teks": "冬は、どのくらい雪が積もることがありますか。",
+    "gambar": ""
+  },
+  "pilihan": [
+    { "teks": "10センチ", "gambar": "", "benar": false },
+    { "teks": "50センチ", "gambar": "", "benar": false },
+    { "teks": "1メートル以上", "gambar": "", "benar": true },
+    { "teks": "5メートル以上", "gambar": "", "benar": false }
+  ],
+  "penjelasan": "Pria itu menjelaskan bahwa salju turun banyak dan kadang menumpuk setinggi lebih dari 1 meter (<jp>雪もたくさん降って、1メートル以上積もることもあるよ</jp>). Wanita itu pun terkejut (<jp>1メートルも！</jp>). Angka -10 derajat adalah suhu pada bulan Januari, bukan ketinggian salju.",
+  "transkrip": "女：田中くんの故郷は、どこなの？\n男：北海道の小さい町だよ。\n女：北海道！いいなあ。どんなところ？\n男：人口が少なくて、自然がたくさんあるよ。山も海も近いんだ。\n女：冬は、寒いんでしょう？\n男：うん、すごく寒いよ。1月は、マイナス10度になる日もあるんだ。雪もたくさん降って、1メートル以上積もることもあるよ。\n女：1メートルも！大変だね。\n男：そうだね。でも、冬は雪まつりがあって、楽しいんだ。\n女：食べ物は、何がおいしいの？\n男：海が近いから、魚やカニがおいしいよ。それに、牛乳もおいしいんだ。\n女：東京とは、全然ちがうんだね。町に帰ることはあるの？\n男：年に1回、お正月だけだよ。飛行機で2時間かかるし、お金も高いから。\n女：そうなんだ。さびしくない？\n男：ちょっとさびしいけど、毎週、お母さんに電話してるから、大丈夫だよ。\n女：そうか。いつか私も行ってみたいな。\n男：ぜひ来てよ。案内するよ。"
+}
