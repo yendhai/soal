@@ -1,1 +1,20 @@
-
+{
+  "label": "Pergi ke kebun binatang",
+  "situasi": {
+    "teks": "友だちの女の人と男の人が、動物園で話しています",
+    "gambar": ""
+  },
+  "audio": "aq",
+  "pertanyaan": {
+    "teks": "二人は、さいしょに何を見ましたか。",
+    "gambar": ""
+  },
+  "pilihan": [
+    { "teks": "ライオン", "gambar": "", "benar": false },
+    { "teks": "ゾウ", "gambar": "", "benar": false },
+    { "teks": "パンダ", "gambar": "", "benar": true },
+    { "teks": "サル", "gambar": "", "benar": false }
+  ],
+  "penjelasan": "Wanita itu ingin melihat panda lebih dulu (<jp>パンダが見たい！</jp>), dan pria itu mengajak melihatnya lebih awal (<jp>先に見に行こうか</jp>). Mereka kemudian melihat panda yang sedang makan bambu (<jp>竹を食べてるよ</jp>). Singa dan gajah baru dibicarakan setelah itu, sedangkan monyet tidak disebutkan dalam dialog.",
+  "transkrip": "女：わあ、やっと動物園に着いたね！\n男：そうだね。まず、どの動物から見る？\n女：パンダが見たい！\n男：パンダは人気があるから、午前中のほうがすいているよ。先に見に行こうか。\n女：うん、そうしよう。地図を見ると、入口から右に行けば、あるって。\n男：本当だ。行こう。\n女：わあ、かわいい！竹を食べてるよ。\n男：本当だ。ずっと食べてるね。\n女：次は、何を見る？\n男：ライオンはどう？えさの時間が12時からなんだって。\n女：えさの時間、見たい！でも、まだ11時だね。\n男：じゃあ、その前に、ゾウを見に行こうか。\n女：うーん、その前に、ちょっとのどがかわいたな。\n男：じゃあ、あそこの店でジュースを買ってから、ゾウを見に行こう。\n女：ありがとう！"
+}
