@@ -1,1 +1,20 @@
-
+{
+  "label": "Ajakan di Hari Valentine",
+  "situasi": {
+    "teks": "友だちの男の人と女の人が、バレンタインデーの予定について話しています",
+    "gambar": ""
+  },
+  "audio": "ao",
+  "pertanyaan": {
+    "teks": "女の人は、男の人に何を渡しますか。",
+    "gambar": ""
+  },
+  "pilihan": [
+    { "teks": "花", "gambar": "", "benar": false },
+    { "teks": "ケーキ", "gambar": "", "benar": false },
+    { "teks": "手作りのチョコレート", "gambar": "", "benar": true },
+    { "teks": "時計", "gambar": "", "benar": false }
+  ],
+  "penjelasan": "Wanita itu berkata bahwa ia sudah membuat cokelat dan akan memberikannya saat mereka bertemu (<jp>チョコレートを作ったの。そのとき渡すね</jp>). Karena ia membuatnya sendiri (<jp>作った</jp>), jawabannya adalah cokelat buatan sendiri. Bunga, kue, dan jam tidak disebutkan dalam dialog.",
+  "transkrip": "男：あのさ、佐藤さん、ちょっといい？\n女：うん、どうしたの？\n男：来週の金曜日、2月14日なんだけど、予定ある？\n女：バレンタインデーだよね。特にないけど…。\n男：もしよかったら、いっしょに映画を見て、ごはんを食べに行かない？\n女：えっ、いいの？うれしい！\n男：よかった。映画は6時からの恋愛映画なんだけど、どう？\n女：その映画、見たかったの！ごはんは、どこで食べるの？\n男：映画のあとで、駅の近くのレストランに行こう。予約しておくよ。\n女：ありがとう。あ、実はね、チョコレートを作ったの。そのとき渡すね。\n男：本当？すごくうれしいよ。\n女：じゃあ、5時半に映画館の前で会おうか。\n男：うん、わかった。"
+}
