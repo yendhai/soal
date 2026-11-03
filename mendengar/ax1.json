@@ -1,1 +1,20 @@
-
+{
+  "label": "Lamaran di malam Tanabata",
+  "situasi": {
+    "teks": "七夕の夜、山の上で、恋人の男の人と女の人が話しています",
+    "gambar": ""
+  },
+  "audio": "ax",
+  "pertanyaan": {
+    "teks": "今日は、何月何日ですか。",
+    "gambar": ""
+  },
+  "pilihan": [
+    { "teks": "6月7日", "gambar": "", "benar": false },
+    { "teks": "7月7日", "gambar": "", "benar": true },
+    { "teks": "7月17日", "gambar": "", "benar": false },
+    { "teks": "8月7日", "gambar": "", "benar": false }
+  ],
+  "penjelasan": "Pria itu berkata bahwa hari ini tanggal 7 Juli, yaitu hari Tanabata, dan itulah alasan ia ingin datang ke tempat itu (<jp>今日は7月7日、七夕だから、ここに来たかったんだ</jp>). Tanggal lain dalam pilihan tidak disebutkan dalam dialog.",
+  "transkrip": "女：わあ、星がきれい！天の川も見えるよ。\n男：そうだね。今日は7月7日、七夕だから、ここに来たかったんだ。\n女：山の上まで歩くのは大変だったけど、来てよかった。\n男：ねえ、短冊に願いごとを書いた？\n女：うん、書いたよ。「毎日、元気に過ごせますように」って。あなたは？\n男：僕は、まだ書いてないんだ。その前に、言いたいことがあるんだ。\n女：なあに？\n男：あのね、ずっと、君といっしょにいたいんだ。これからも、毎年いっしょに、この星を見たい。\n女：えっ…。\n男：結婚してください。これ、指輪です。\n女：うれしい…。はい、よろしくお願いします。\n男：本当に？よかった…。\n女：泣いてるよ。\n男：君も泣いてるよ。"
+}
