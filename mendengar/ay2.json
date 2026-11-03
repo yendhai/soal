@@ -1,1 +1,20 @@
-
+{
+  "label": "Bertemu orang tua pacar",
+  "situasi": {
+    "teks": "電話で、恋人の男の人と女の人が、両親に会う日について話しています",
+    "gambar": ""
+  },
+  "audio": "ay",
+  "pertanyaan": {
+    "teks": "男の人は、どうして土曜日に行けませんか。",
+    "gambar": ""
+  },
+  "pilihan": [
+    { "teks": "午前中に仕事があるから", "gambar": "", "benar": true },
+    { "teks": "友だちと会うから", "gambar": "", "benar": false },
+    { "teks": "病院に行くから", "gambar": "", "benar": false },
+    { "teks": "旅行に行くから", "gambar": "", "benar": false }
+  ],
+  "penjelasan": "Saat wanita itu menawarkan hari Sabtu atau Minggu, pria itu menjawab bahwa pada hari Sabtu ada pekerjaan di pagi hari, sedangkan hari Minggu tidak masalah (<jp>土曜日は、午前中に仕事があるんだ。日曜日なら、大丈夫だよ</jp>). Bertemu teman, pergi ke rumah sakit, dan bepergian tidak disebutkan dalam dialog.",
+  "transkrip": "男：もしもし、今、大丈夫？\n女：うん、大丈夫だよ。あのね、前に話したでしょ。うちの両親に会いに来るって。\n男：あ、うん…。いつ行けばいいかな。\n女：今度の土曜日か日曜日は、どう？\n男：土曜日は、午前中に仕事があるんだ。日曜日なら、大丈夫だよ。\n女：じゃあ、日曜日にしよう。何時ごろがいい？\n男：午後2時ごろは、どうかな。\n女：2時ね。お母さんが、お昼ごはんを作って待ってるって言ってたから、12時半に来てもらえる？\n男：え、お昼ごはんも？それは、うれしいな。わかった、12時半に行くよ。\n女：ありがとう。あ、お土産は、気にしなくていいからね。\n男：いや、何か持っていくよ。お父さんは、何が好きなの？\n女：お父さんは、甘いものが好きだよ。お母さんも、ケーキが好き。\n男：そうか。じゃあ、ケーキを買っていくよ。\n女：ありがとう。楽しみにしてるね。\n男：うん、がんばるよ。"
+}
