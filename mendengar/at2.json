@@ -1,1 +1,20 @@
-
+{
+  "label": "Reservasi restoran",
+  "situasi": {
+    "teks": "電話で、お客さんの男の人とレストランの店員の女の人が、予約について話しています",
+    "gambar": ""
+  },
+  "audio": "at",
+  "pertanyaan": {
+    "teks": "何人で行きますか。",
+    "gambar": ""
+  },
+  "pilihan": [
+    { "teks": "2人", "gambar": "", "benar": false },
+    { "teks": "3人", "gambar": "", "benar": false },
+    { "teks": "4人", "gambar": "", "benar": true },
+    { "teks": "5人", "gambar": "", "benar": false }
+  ],
+  "penjelasan": "Saat ditanya jumlah orang, pria itu menjawab empat orang, yaitu tiga orang dewasa dan satu anak (<jp>4人です。大人3人と、子ども1人です</jp>). Angka 3 hanya jumlah orang dewasa, bukan total. Pegawai juga mengonfirmasi di akhir percakapan (<jp>4名様</jp>).",
+  "transkrip": "女：お電話ありがとうございます。レストラン「さくら」です。\n男：もしもし、予約をお願いしたいんですが。\n女：はい、ありがとうございます。いつがよろしいですか。\n男：今度の土曜日、18日の夜です。\n女：何時ごろですか。\n男：7時ごろ、お願いします。\n女：申し訳ありません。7時は、もういっぱいなんです。7時半からなら、大丈夫です。\n男：7時半ですか。じゃあ、それでお願いします。\n女：何名様ですか。\n男：4人です。大人3人と、子ども1人です。\n女：かしこまりました。お席は、窓のそばと、入口の近くが空いていますが、どちらがよろしいですか。\n男：窓のそばがいいです。\n女：はい。では、お名前とお電話番号をお願いします。\n男：山田です。電話番号は、090-1234-5678です。\n女：山田様、土曜日の7時半、4名様、窓のそばのお席ですね。お待ちしております。\n男：よろしくお願いします。"
+}
