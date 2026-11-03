@@ -1,1 +1,20 @@
-
+{
+  "label": "Belajar bersama",
+  "situasi": {
+    "teks": "高校生の友だちの女の人と男の人が、いっしょに勉強する計画について話しています",
+    "gambar": ""
+  },
+  "audio": "av",
+  "pertanyaan": {
+    "teks": "二人は、どこで勉強しますか。",
+    "gambar": ""
+  },
+  "pilihan": [
+    { "teks": "図書館", "gambar": "", "benar": false },
+    { "teks": "学校", "gambar": "", "benar": false },
+    { "teks": "女の人の家", "gambar": "", "benar": true },
+    { "teks": "男の人の家", "gambar": "", "benar": false }
+  ],
+  "penjelasan": "Pria itu mula-mula mengusulkan perpustakaan, tetapi wanita itu berkata perpustakaan ramai pada hari Sabtu dan mengajaknya ke rumahnya (<jp>図書館は、土曜日は人が多いから、私の家に来ない？</jp>). Pria itu menerimanya (<jp>じゃあ、行くよ</jp>). Jadi mereka belajar di rumah wanita itu. Sekolah dan rumah pria itu tidak disebutkan dalam dialog.",
+  "transkrip": "女：ねえ、佐藤くん、来週から期末テストでしょ。いっしょに勉強しない？\n男：いいね。どこでやる？図書館？\n女：図書館は、土曜日は人が多いから、私の家に来ない？\n男：えっ、いいの？\n女：うん。お母さんもいるから、大丈夫だよ。\n男：ありがとう。じゃあ、行くよ。何時に行けばいい？\n女：午後1時はどう？お昼ごはんを食べてから来てね。\n男：わかった。何を持っていけばいい？\n女：数学の教科書とノートだけでいいよ。わからないところを、教えてほしいの。\n男：数学か。僕もあまり得意じゃないけど、がんばるよ。\n女：ありがとう。お菓子は、私が用意しておくね。\n男：楽しみにしてるよ。じゃあ、土曜日の1時に行くね。\n女：うん、待ってるね。"
+}
