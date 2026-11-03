@@ -1,0 +1,20 @@
+{
+  "label": "Perkenalan dengan tetangga baru",
+  "situasi": {
+    "teks": "インドネシアから引っ越してきた女の人と、隣の男の人が話しています",
+    "gambar": ""
+  },
+  "audio": "ap",
+  "pertanyaan": {
+    "teks": "サリさんは、どこから来ましたか。",
+    "gambar": ""
+  },
+  "pilihan": [
+    { "teks": "インドネシア", "gambar": "", "benar": true },
+    { "teks": "中国", "gambar": "", "benar": false },
+    { "teks": "ベトナム", "gambar": "", "benar": false },
+    { "teks": "タイ", "gambar": "", "benar": false }
+  ],
+  "penjelasan": "Sari memperkenalkan diri sebagai tetangga baru dan berkata bahwa ia datang dari Indonesia minggu lalu (<jp>先週、インドネシアから来ました</jp>). Tanaka juga menanggapinya dengan menyebut Indonesia (<jp>インドネシアですか</jp>). Tiongkok, Vietnam, dan Thailand tidak disebutkan dalam dialog.",
+  "transkrip": "女：ごめんください。隣に引っ越してきたサリです。\n男：あ、はい。隣の田中です。\n女：はじめまして。先週、インドネシアから来ました。\n男：インドネシアですか。日本には、どのくらいいますか。\n女：日本は初めてです。仕事で来ました。4月から、近くの会社で働きます。\n男：そうですか。大変ですね。\n女：あの、これ、インドネシアのおみやげです。よかったら、どうぞ。\n男：えっ、いいんですか。ありがとうございます。何ですか。\n女：コーヒーと、クルプックです。クルプックは、魚のおせんべいみたいなおかしです。\n男：おいしそうですね。コーヒーが大好きなんです。\n女：よかったです。クルプックは、油で揚げて食べてください。\n男：揚げるんですね。わかりました。\n女：あの、日本のごみの出し方が、まだよくわからなくて…。\n男：大丈夫ですよ。わからないことがあったら、いつでも聞いてください。\n女：ありがとうございます。これから、よろしくお願いします。\n男：こちらこそ、よろしくお願いします。"
+}
