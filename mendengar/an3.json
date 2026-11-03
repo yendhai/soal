@@ -1,1 +1,20 @@
-
+{
+  "label": "Bertanya jalan di pos polisi",
+  "situasi": {
+    "teks": "交番で、道に迷った女の人と警察官の男の人が話しています",
+    "gambar": ""
+  },
+  "audio": "an",
+  "pertanyaan": {
+    "teks": "女の人は、どうして今日、図書館に行けませんか。",
+    "gambar": ""
+  },
+  "pilihan": [
+    { "teks": "道がわからないから", "gambar": "", "benar": false },
+    { "teks": "図書館が遠いから", "gambar": "", "benar": false },
+    { "teks": "月曜日で、図書館が休みだから", "gambar": "", "benar": true },
+    { "teks": "雨が降っているから", "gambar": "", "benar": false }
+  ],
+  "penjelasan": "Saat wanita itu bertanya apakah perpustakaan buka hari ini, polisi menjawab bahwa hari ini Senin sehingga perpustakaan tutup (<jp>今日は月曜日ですから、休みですよ</jp>). Perpustakaan baru buka dari Selasa sampai Minggu (<jp>火曜日から日曜日は、朝9時から夜7時まで開いています</jp>), jadi wanita itu memutuskan datang lagi besok (<jp>明日また来ます</jp>). Jalan sudah dijelaskan dan jaraknya hanya 10 menit berjalan kaki, sedangkan hujan tidak disebutkan.",
+  "transkrip": "女：すみません、ちょっとお聞きしたいんですが。\n男：はい、どうしましたか。\n女：市立図書館へ行きたいんですが、道がわからないんです。\n男：図書館ですか。ここから歩いて10分ぐらいですよ。\n女：歩いて行けるんですね。どう行けばいいですか。\n男：この道をまっすぐ行って、2つ目の信号を右に曲がってください。\n女：2つ目の信号を右ですね。\n男：はい。右に曲がると、左に大きいスーパーがあります。そのスーパーの隣が図書館です。\n女：スーパーの隣ですね。あの、図書館は今日開いていますか。\n男：今日は月曜日ですから、休みですよ。\n女：えっ、休みですか。\n男：はい。火曜日から日曜日は、朝9時から夜7時まで開いています。\n女：残念です。じゃあ、明日また来ます。\n男：そうしてください。気をつけて。\n女：ありがとうございました。"
+}
