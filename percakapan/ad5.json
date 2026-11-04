@@ -1,0 +1,18 @@
+{
+  "label": "Memilih barang",
+  "situasi": {
+    "teks": "店でパソコンを二つ見ています。どちらがいいか分かりません。店員さんに聞きます。",
+    "gambar": ""
+  },
+  "pertanyaan": {
+    "teks": "何と言いますか。",
+    "gambar": ""
+  },
+  "pilihan": [
+    { "teks": "すみません、どちらがおいしかったですか。", "gambar": "", "benar": false },
+    { "teks": "すみません、どちらに住んでいますか。", "gambar": "", "benar": false },
+    { "teks": "すみません、どちらがおすすめですか。", "gambar": "", "benar": true },
+    { "teks": "すみません、どちらから来ましたか。", "gambar": "", "benar": false }
+  ],
+  "penjelasan": "Saat bingung memilih, tanyakan rekomendasi pelayan dengan <jp>どちらがおすすめですか</jp>, yang berarti 'mana yang Anda rekomendasikan'. <jp>おいしかったですか</jp> menanyakan rasa makanan, <jp>どちらに住んでいますか</jp> menanyakan tempat tinggal, dan <jp>どちらから来ましたか</jp> menanyakan asal seseorang, jadi tidak sesuai dengan situasi memilih komputer."
+}
