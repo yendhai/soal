@@ -1,1 +1,18 @@
-
+{
+  "label": "Membeli baju",
+  "situasi": {
+    "teks": "青いシャツを見ています。デザインは好きですが、赤い色も見たいです。店員さんに話します。",
+    "gambar": ""
+  },
+  "pertanyaan": {
+    "teks": "何と言いますか。",
+    "gambar": ""
+  },
+  "pilihan": [
+    { "teks": "すみません、これはどこで作りましたか。", "gambar": "", "benar": false },
+    { "teks": "すみません、これを着て帰ります。", "gambar": "", "benar": false },
+    { "teks": "すみません、これの赤いのはありますか。", "gambar": "", "benar": true },
+    { "teks": "すみません、これはいくらでしたか。", "gambar": "", "benar": false }
+  ],
+  "penjelasan": "Untuk menanyakan warna lain dari barang yang sama, pakai <jp>これの赤いのはありますか</jp>, yang berarti 'apakah ada yang merah dari ini'. <jp>どこで作りましたか</jp> menanyakan tempat pembuatan, <jp>着て帰ります</jp> berarti 'saya pakai pulang', dan <jp>いくらでしたか</jp> menanyakan harga dalam bentuk lampau, jadi tidak sesuai dengan keinginan melihat warna merah."
+}
