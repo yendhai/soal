@@ -1,1 +1,18 @@
-
+{
+  "label": "Pindah rumah",
+  "situasi": {
+    "teks": "友だちに新しいアパートのことを話しています。\n「新しいアパートは、駅（　　）歩いて五分です。」",
+    "gambar": ""
+  },
+  "pertanyaan": {
+    "teks": "（　　）に入る言葉はどれですか。",
+    "gambar": ""
+  },
+  "pilihan": [
+    { "teks": "が", "gambar": "", "benar": false },
+    { "teks": "から", "gambar": "", "benar": true },
+    { "teks": "と", "gambar": "", "benar": false },
+    { "teks": "も", "gambar": "", "benar": false }
+  ],
+  "penjelasan": "<jp>駅から歩いて五分</jp> berarti 'jalan kaki lima menit dari stasiun'. Partikel <jp>から</jp> menunjukkan titik awal. <jp>が</jp> dipakai untuk menandai subjek, <jp>と</jp> berarti 'bersama' atau 'dan', dan <jp>も</jp> berarti 'juga', sehingga ketiganya tidak membentuk kalimat yang benar di sini."
+}
