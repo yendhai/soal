@@ -1,1 +1,18 @@
-
+{
+  "label": "Pindah rumah",
+  "situasi": {
+    "teks": "引っ越しの日の夜、荷物を運ぶ音が大きかったです。次の日の朝、となりの人に会いました。",
+    "gambar": ""
+  },
+  "pertanyaan": {
+    "teks": "何と言いますか。",
+    "gambar": ""
+  },
+  "pilihan": [
+    { "teks": "ゆうべは、お先に失礼しました。", "gambar": "", "benar": false },
+    { "teks": "ゆうべは、お待たせしました。", "gambar": "", "benar": false },
+    { "teks": "ゆうべは、うるさくしてすみませんでした。", "gambar": "", "benar": true },
+    { "teks": "ゆうべは、ごちそうさまでした。", "gambar": "", "benar": false }
+  ],
+  "penjelasan": "Karena semalam suara pindahan mengganggu tetangga, minta maaf dengan <jp>うるさくしてすみませんでした</jp>. <jp>ゆうべ</jp> berarti 'tadi malam'. <jp>お先に失礼しました</jp> dipakai saat pulang lebih dulu, <jp>お待たせしました</jp> dipakai saat membuat orang menunggu, dan <jp>ごちそうさまでした</jp> diucapkan setelah makan."
+}
