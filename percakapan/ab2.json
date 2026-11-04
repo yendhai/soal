@@ -1,1 +1,18 @@
-
+{
+  "label": "Memesan makanan di restoran",
+  "situasi": {
+    "teks": "食事が終わりました。店員さんを呼びます。\n「すみません、お会計を（　　）。」",
+    "gambar": ""
+  },
+  "pertanyaan": {
+    "teks": "（　　）に入る言葉はどれですか。",
+    "gambar": ""
+  },
+  "pilihan": [
+    { "teks": "いってきます", "gambar": "", "benar": false },
+    { "teks": "おやすみなさい", "gambar": "", "benar": false },
+    { "teks": "ごちそうさまでした", "gambar": "", "benar": false },
+    { "teks": "お願いします", "gambar": "", "benar": true }
+  ],
+  "penjelasan": "Untuk meminta bon atau membayar, pakai <jp>お会計をお願いします</jp>. <jp>いってきます</jp> diucapkan saat berangkat dari rumah, <jp>おやすみなさい</jp> diucapkan sebelum tidur, dan <jp>ごちそうさまでした</jp> diucapkan setelah makan, tetapi tidak bisa dipakai untuk meminta sesuatu setelah <jp>お会計を</jp>."
+}
