@@ -1,0 +1,18 @@
+{
+  "label": "Memesan makanan di restoran",
+  "situasi": {
+    "teks": "料理を全部食べられませんでした。残った料理を持って帰りたいです。店員さんに話します。",
+    "gambar": ""
+  },
+  "pertanyaan": {
+    "teks": "何と言いますか。",
+    "gambar": ""
+  },
+  "pilihan": [
+    { "teks": "すみません、これはいくらですか。", "gambar": "", "benar": false },
+    { "teks": "すみません、これを食べてもいいですか。", "gambar": "", "benar": false },
+    { "teks": "すみません、これを持って帰りたいんですが。", "gambar": "", "benar": true },
+    { "teks": "すみません、これは何ですか。", "gambar": "", "benar": false }
+  ],
+  "penjelasan": "Untuk membawa pulang makanan sisa, pakai <jp>持って帰りたいんですが</jp>, yang berarti 'saya ingin membawa ini pulang'. <jp>いくらですか</jp> menanyakan harga, <jp>食べてもいいですか</jp> meminta izin untuk makan, dan <jp>これは何ですか</jp> menanyakan nama atau isi makanan."
+}
