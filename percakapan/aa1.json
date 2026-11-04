@@ -1,1 +1,18 @@
-
+{
+  "label": "Pindah rumah",
+  "situasi": {
+    "teks": "引っ越し会社の人が荷物を運んできました。この箱は台所に置いてほしいです。",
+    "gambar": ""
+  },
+  "pertanyaan": {
+    "teks": "何と言いますか。",
+    "gambar": ""
+  },
+  "pilihan": [
+    { "teks": "この箱は、とても重かったです。", "gambar": "", "benar": false },
+    { "teks": "この箱、あなたのですか。", "gambar": "", "benar": false },
+    { "teks": "この箱は、台所にお願いします。", "gambar": "", "benar": true },
+    { "teks": "台所を使ってもいいですか。", "gambar": "", "benar": false }
+  ],
+  "penjelasan": "Untuk meminta barang diletakkan di tempat tertentu, pakai <jp>〜にお願いします</jp>, jadi <jp>台所にお願いします</jp> artinya 'tolong taruh di dapur'. <jp>とても重かったです</jp> hanya menyatakan kotaknya berat, <jp>あなたのですか</jp> menanyakan kepemilikan, dan <jp>台所を使ってもいいですか</jp> meminta izin memakai dapur."
+}
