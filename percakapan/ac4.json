@@ -1,1 +1,18 @@
-
+{
+  "label": "Membeli baju",
+  "situasi": {
+    "teks": "この服は三千円です。少し高いので、安くしてほしいです。\n「すみません、もう少し（　　）なりませんか。」",
+    "gambar": ""
+  },
+  "pertanyaan": {
+    "teks": "（　　）に入る言葉はどれですか。",
+    "gambar": ""
+  },
+  "pilihan": [
+    { "teks": "安く", "gambar": "", "benar": true },
+    { "teks": "高く", "gambar": "", "benar": false },
+    { "teks": "長く", "gambar": "", "benar": false },
+    { "teks": "遅く", "gambar": "", "benar": false }
+  ],
+  "penjelasan": "<jp>もう少し安くなりませんか</jp> dipakai untuk meminta harga yang lebih murah. Bentuk <jp>〜くなりませんか</jp> berarti 'tidak bisakah menjadi lebih ...'. <jp>高く</jp> berarti lebih mahal, <jp>長く</jp> berarti lebih panjang, dan <jp>遅く</jp> berarti lebih lambat, sehingga tidak sesuai dengan tujuan menawar."
+}
