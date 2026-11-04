@@ -1,1 +1,18 @@
-
+{
+  "label": "Memesan makanan di restoran",
+  "situasi": {
+    "teks": "あなたはカレーとお茶がほしいです。店員さんが来て言いました。\n「ご注文は何にしますか。」",
+    "gambar": ""
+  },
+  "pertanyaan": {
+    "teks": "あなたは何と言いますか。",
+    "gambar": ""
+  },
+  "pilihan": [
+    { "teks": "カレーとお茶をお願いします。", "gambar": "", "benar": true },
+    { "teks": "カレーとお茶は、おいしかったです。", "gambar": "", "benar": false },
+    { "teks": "カレーとお茶に行きます。", "gambar": "", "benar": false },
+    { "teks": "カレーとお茶をごちそうさまでした。", "gambar": "", "benar": false }
+  ],
+  "penjelasan": "Saat pelayan menanyakan pesanan, sebutkan makanannya lalu tambahkan <jp>をお願いします</jp>, jadi <jp>カレーとお茶をお願いします</jp> berarti 'tolong kari dan teh'. <jp>おいしかったです</jp> berarti 'tadi enak' dan dipakai setelah makan, <jp>に行きます</jp> berarti 'pergi ke' sehingga tidak cocok dengan makanan, dan <jp>ごちそうさまでした</jp> diucapkan setelah selesai makan."
+}
