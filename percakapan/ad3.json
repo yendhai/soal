@@ -1,1 +1,18 @@
-
+{
+  "label": "Memilih barang",
+  "situasi": {
+    "teks": "あなたは二本のペンを使ってみました。あのペンのほうが書きやすかったです。友だちが言いました。\n「このペンとあのペンと、どちらが書きやすいですか。」",
+    "gambar": ""
+  },
+  "pertanyaan": {
+    "teks": "あなたは何と言いますか。",
+    "gambar": ""
+  },
+  "pilihan": [
+    { "teks": "あのペンのほうが書きやすいです。", "gambar": "", "benar": true },
+    { "teks": "はい、書きました。", "gambar": "", "benar": false },
+    { "teks": "ペンは二本あります。", "gambar": "", "benar": false },
+    { "teks": "どういたしまして。", "gambar": "", "benar": false }
+  ],
+  "penjelasan": "<jp>どちらが書きやすいですか</jp> menanyakan mana yang lebih mudah dipakai menulis. Jawab dengan pola <jp>〜のほうが〜です</jp>, yaitu <jp>あのペンのほうが書きやすいです</jp>. <jp>はい、書きました</jp> berarti 'ya, sudah menulis', <jp>ペンは二本あります</jp> berarti 'ada dua pena', dan keduanya tidak menjawab pilihan. <jp>どういたしまして</jp> adalah jawaban atas ucapan terima kasih."
+}
