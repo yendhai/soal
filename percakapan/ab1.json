@@ -1,1 +1,18 @@
-
+{
+  "label": "Memesan makanan di restoran",
+  "situasi": {
+    "teks": "友だち二人とレストランに来ました。店員さんが言いました。\n「何名様ですか。」",
+    "gambar": ""
+  },
+  "pertanyaan": {
+    "teks": "あなたは何と言いますか。",
+    "gambar": ""
+  },
+  "pilihan": [
+    { "teks": "三つです。", "gambar": "", "benar": false },
+    { "teks": "三時です。", "gambar": "", "benar": false },
+    { "teks": "三人です。", "gambar": "", "benar": true },
+    { "teks": "三本です。", "gambar": "", "benar": false }
+  ],
+  "penjelasan": "<jp>何名様ですか</jp> adalah pertanyaan pelayan tentang jumlah orang. Bersama dua teman berarti tiga orang, jadi jawabannya <jp>三人です</jp>. <jp>三つ</jp> dipakai untuk menghitung benda secara umum, <jp>三時</jp> berarti pukul tiga, dan <jp>三本</jp> dipakai untuk benda panjang seperti pensil atau botol."
+}
