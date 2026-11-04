@@ -1,1 +1,18 @@
-
+{
+  "label": "Memilih barang",
+  "situasi": {
+    "teks": "店で時計を二つ見ています。\n「この時計は、あの時計（　　）安いです。だから、これを買います。」",
+    "gambar": ""
+  },
+  "pertanyaan": {
+    "teks": "（　　）に入る言葉はどれですか。",
+    "gambar": ""
+  },
+  "pilihan": [
+    { "teks": "まで", "gambar": "", "benar": false },
+    { "teks": "より", "gambar": "", "benar": true },
+    { "teks": "を", "gambar": "", "benar": false },
+    { "teks": "へ", "gambar": "", "benar": false }
+  ],
+  "penjelasan": "Pola <jp>AはBより〜です</jp> berarti 'A lebih ... daripada B', jadi <jp>この時計は、あの時計より安いです</jp> artinya 'jam ini lebih murah daripada jam itu'. <jp>まで</jp> berarti 'sampai', <jp>を</jp> menandai objek, dan <jp>へ</jp> menunjukkan arah tujuan, sehingga tidak membentuk perbandingan."
+}
