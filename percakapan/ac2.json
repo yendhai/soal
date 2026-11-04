@@ -1,1 +1,18 @@
-
+{
+  "label": "Membeli baju",
+  "situasi": {
+    "teks": "シャツを着てみました。サイズが大きすぎます。店員さんに言います。\n「すみません、もう少し（　　）のはありますか。」",
+    "gambar": ""
+  },
+  "pertanyaan": {
+    "teks": "（　　）に入る言葉はどれですか。",
+    "gambar": ""
+  },
+  "pilihan": [
+    { "teks": "高い", "gambar": "", "benar": false },
+    { "teks": "新しい", "gambar": "", "benar": false },
+    { "teks": "小さい", "gambar": "", "benar": true },
+    { "teks": "重い", "gambar": "", "benar": false }
+  ],
+  "penjelasan": "Karena ukurannya terlalu besar (<jp>大きすぎます</jp>), orang itu meminta yang lebih kecil dengan <jp>もう少し小さいのはありますか</jp>. <jp>高いの</jp> berarti yang lebih mahal, <jp>新しいの</jp> berarti yang lebih baru, dan <jp>重いの</jp> berarti yang lebih berat, jadi semuanya tidak menyelesaikan masalah ukuran."
+}
