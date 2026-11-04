@@ -1,1 +1,18 @@
-
+{
+  "label": "Pindah rumah",
+  "situasi": {
+    "teks": "友だちが新しい部屋に来ました。あなたはげんかんで言います。\n「どうぞ、上がってください。ここで（　　）をぬいでくださいね。」",
+    "gambar": ""
+  },
+  "pertanyaan": {
+    "teks": "（　　）に入る言葉はどれですか。",
+    "gambar": ""
+  },
+  "pilihan": [
+    { "teks": "くつ", "gambar": "", "benar": true },
+    { "teks": "かさ", "gambar": "", "benar": false },
+    { "teks": "かぎ", "gambar": "", "benar": false },
+    { "teks": "手紙", "gambar": "", "benar": false }
+  ],
+  "penjelasan": "<jp>ぬぐ</jp> dipakai untuk melepas pakaian atau alas kaki. Di Jepang, orang melepas <jp>くつ</jp> (sepatu) di <jp>げんかん</jp> sebelum masuk rumah. <jp>かさ</jp> (payung) biasanya ditutup atau ditaruh, <jp>かぎ</jp> (kunci) dipakai untuk membuka pintu, dan <jp>手紙</jp> (surat) dibaca atau dikirim, jadi tidak cocok dengan <jp>ぬぐ</jp>."
+}
