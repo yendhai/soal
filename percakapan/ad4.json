@@ -1,1 +1,18 @@
-
+{
+  "label": "Memilih barang",
+  "situasi": {
+    "teks": "友だちとケーキ屋にいます。ケーキが五つあります。友だちが言いました。\n「この中で、どれが（　　）好きですか。」",
+    "gambar": ""
+  },
+  "pertanyaan": {
+    "teks": "（　　）に入る言葉はどれですか。",
+    "gambar": ""
+  },
+  "pilihan": [
+    { "teks": "あまり", "gambar": "", "benar": false },
+    { "teks": "ぜんぜん", "gambar": "", "benar": false },
+    { "teks": "いつも", "gambar": "", "benar": false },
+    { "teks": "いちばん", "gambar": "", "benar": true }
+  ],
+  "penjelasan": "<jp>いちばん</jp> berarti 'paling', jadi <jp>どれがいちばん好きですか</jp> artinya 'yang mana yang paling kamu suka'. Ini pola untuk memilih satu dari tiga barang atau lebih. <jp>あまり</jp> dan <jp>ぜんぜん</jp> dipakai bersama bentuk negatif, sedangkan <jp>いつも</jp> berarti 'selalu' dan tidak cocok untuk pertanyaan memilih."
+}
