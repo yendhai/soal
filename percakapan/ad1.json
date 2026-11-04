@@ -1,1 +1,18 @@
-
+{
+  "label": "Memilih barang",
+  "situasi": {
+    "teks": "友だちと店で赤いかばんと黒いかばんを見ています。あなたは黒いかばんが好きです。友だちが言いました。\n「赤いかばんと黒いかばんと、どちらがいいですか。」",
+    "gambar": ""
+  },
+  "pertanyaan": {
+    "teks": "あなたは何と言いますか。",
+    "gambar": ""
+  },
+  "pilihan": [
+    { "teks": "はい、黒いです。", "gambar": "", "benar": false },
+    { "teks": "赤いほうがいいです。", "gambar": "", "benar": false },
+    { "teks": "黒いほうがいいです。", "gambar": "", "benar": true },
+    { "teks": "どういたしまして。", "gambar": "", "benar": false }
+  ],
+  "penjelasan": "<jp>どちらがいいですか</jp> meminta kita memilih salah satu dari dua barang. Karena kamu lebih suka tas hitam, jawab dengan <jp>黒いほうがいいです</jp>. <jp>赤いほうがいいです</jp> berarti memilih yang merah, <jp>はい、黒いです</jp> tidak menjawab pilihan, dan <jp>どういたしまして</jp> adalah jawaban atas ucapan terima kasih."
+}
