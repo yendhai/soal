@@ -1,1 +1,18 @@
-
+{
+  "label": "Membeli baju",
+  "situasi": {
+    "teks": "白いTシャツがほしいです。店に入ると、店員さんが言いました。\n「いらっしゃいませ。何かお探しですか。」",
+    "gambar": ""
+  },
+  "pertanyaan": {
+    "teks": "あなたは何と言いますか。",
+    "gambar": ""
+  },
+  "pilihan": [
+    { "teks": "いいえ、白いTシャツはきらいです。", "gambar": "", "benar": false },
+    { "teks": "ありがとうございました。また来ます。", "gambar": "", "benar": false },
+    { "teks": "いってきます。白いTシャツを買います。", "gambar": "", "benar": false },
+    { "teks": "白いTシャツをさがしています。", "gambar": "", "benar": true }
+  ],
+  "penjelasan": "Pelayan bertanya <jp>何かお探しですか</jp>, artinya 'Anda mencari sesuatu?'. Jawaban yang tepat adalah <jp>白いTシャツをさがしています</jp>. <jp>白いTシャツはきらいです</jp> bertentangan dengan keinginan membeli kaus putih, <jp>ありがとうございました</jp> dipakai untuk menutup percakapan saat pergi, dan <jp>いってきます</jp> diucapkan saat berangkat dari rumah."
+}
