@@ -1,1 +1,18 @@
-
+{
+  "label": "Membeli baju",
+  "situasi": {
+    "teks": "服の店に来ました。気に入った服があります。着てみたいので、店員さんに話します。",
+    "gambar": ""
+  },
+  "pertanyaan": {
+    "teks": "何と言いますか。",
+    "gambar": ""
+  },
+  "pilihan": [
+    { "teks": "この服を、洗ってもいいですか。", "gambar": "", "benar": false },
+    { "teks": "この服を、着てみてもいいですか。", "gambar": "", "benar": true },
+    { "teks": "この服を、借りてもいいですか。", "gambar": "", "benar": false },
+    { "teks": "この服を、切ってもいいですか。", "gambar": "", "benar": false }
+  ],
+  "penjelasan": "Untuk meminta izin mencoba pakaian di toko, pakai <jp>着てみてもいいですか</jp>, yang berarti 'bolehkah saya mencobanya'. <jp>洗ってもいいですか</jp> meminta izin mencuci, <jp>借りてもいいですか</jp> meminta izin meminjam, dan <jp>切ってもいいですか</jp> meminta izin memotong, sehingga tidak cocok untuk situasi ini."
+}
