@@ -1,1 +1,18 @@
-
+{
+  "label": "Memesan makanan di restoran",
+  "situasi": {
+    "teks": "メニューを見ながら、友だちと話しています。\n「私はカレー（　　）します。あなたは？」",
+    "gambar": ""
+  },
+  "pertanyaan": {
+    "teks": "（　　）に入る言葉はどれですか。",
+    "gambar": ""
+  },
+  "pilihan": [
+    { "teks": "を", "gambar": "", "benar": false },
+    { "teks": "に", "gambar": "", "benar": true },
+    { "teks": "が", "gambar": "", "benar": false },
+    { "teks": "で", "gambar": "", "benar": false }
+  ],
+  "penjelasan": "<jp>〜にします</jp> dipakai untuk menyatakan pilihan, jadi <jp>カレーにします</jp> berarti 'saya pilih kari'. Partikel <jp>を</jp>, <jp>が</jp>, dan <jp>で</jp> tidak membentuk ungkapan memilih bersama <jp>します</jp> dalam kalimat ini."
+}
