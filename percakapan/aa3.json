@@ -1,1 +1,18 @@
-
+{
+  "label": "Pindah rumah",
+  "situasi": {
+    "teks": "新しいアパートの管理人さんが言いました。\n「ごみは、月曜日と木曜日の朝に出してください。」",
+    "gambar": ""
+  },
+  "pertanyaan": {
+    "teks": "あなたは何と言いますか。",
+    "gambar": ""
+  },
+  "pilihan": [
+    { "teks": "おめでとうございます。", "gambar": "", "benar": false },
+    { "teks": "いってらっしゃい。", "gambar": "", "benar": false },
+    { "teks": "どういたしまして。", "gambar": "", "benar": false },
+    { "teks": "はい、わかりました。月曜日と木曜日ですね。", "gambar": "", "benar": true }
+  ],
+  "penjelasan": "Setelah diberi tahu aturan oleh pengelola apartemen, jawaban yang wajar adalah <jp>はい、わかりました</jp> lalu mengulang informasi pentingnya, yaitu <jp>月曜日と木曜日ですね</jp>, untuk memastikan. <jp>おめでとうございます</jp> diucapkan untuk memberi selamat, <jp>いってらっしゃい</jp> diucapkan kepada orang yang akan pergi, dan <jp>どういたしまして</jp> adalah jawaban atas ucapan terima kasih."
+}
