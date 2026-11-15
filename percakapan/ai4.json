@@ -1,0 +1,18 @@
+{
+  "label": "Di kelas",
+  "situasi": {
+    "teks": "授業中に、トイレに行きたくなりました。先生に聞きます。\n「先生、トイレに（　　）もいいですか。」",
+    "gambar": ""
+  },
+  "pertanyaan": {
+    "teks": "（　　）に入る言葉はどれですか。",
+    "gambar": ""
+  },
+  "pilihan": [
+    { "teks": "行く", "gambar": "", "benar": false },
+    { "teks": "行って", "gambar": "", "benar": true },
+    { "teks": "行った", "gambar": "", "benar": false },
+    { "teks": "行きます", "gambar": "", "benar": false }
+  ],
+  "penjelasan": "Pola meminta izin adalah <jp>〜てもいいですか</jp> yang memakai bentuk te. Bentuk te dari <jp>行く</jp> adalah <jp>行って</jp>, jadi <jp>トイレに行ってもいいですか</jp> berarti 'bolehkah saya pergi ke toilet'. Bentuk <jp>行く</jp>, <jp>行った</jp>, dan <jp>行きます</jp> tidak bisa dipasang langsung pada <jp>もいいですか</jp> dalam pola izin ini."
+}
