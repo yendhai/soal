@@ -1,0 +1,23 @@
+{
+  "label": ["Jadwal"],
+  "bacaan": {
+    "jenis": "tabel",
+    "judul": "今週の予定",
+    "tabel": {
+      "kepala": ["曜日", "時間", "内容"],
+      "baris": [
+        ["月", "9:00", "会議"],
+        ["水", "13:00", "工場見学"],
+        ["金", "15:00", "そうじ"]
+      ]
+    }
+  },
+  "pertanyaan": { "teks": "工場見学は、何曜日の何時からですか。" },
+  "pilihan": [
+    { "teks": "月曜日の9時", "benar": false },
+    { "teks": "金曜日の15時", "benar": false },
+    { "teks": "水曜日の9時", "benar": false },
+    { "teks": "水曜日の13時", "benar": true }
+  ],
+  "penjelasan": "Di tabel, <jp>工場見学</jp> (kunjungan pabrik) ada di baris hari <jp>水</jp> (Rabu) pukul <jp>13:00</jp>."
+}
