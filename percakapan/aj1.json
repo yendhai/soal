@@ -1,0 +1,18 @@
+{
+  "label": "Kampung halaman",
+  "situasi": {
+    "teks": "新しい友だちに、ふるさとのことを話します。あなたのふるさとは、海の近くの小さい町です。",
+    "gambar": ""
+  },
+  "pertanyaan": {
+    "teks": "何と言いますか。",
+    "gambar": ""
+  },
+  "pilihan": [
+    { "teks": "私のふるさとは、海から遠い小さい町です。", "gambar": "", "benar": false },
+    { "teks": "私のふるさとは、海の近くの小さい町です。", "gambar": "", "benar": true },
+    { "teks": "私のふるさとは、海の中の小さい町です。", "gambar": "", "benar": false },
+    { "teks": "私のふるさとは、海がきらいな小さい町です。", "gambar": "", "benar": false }
+  ],
+  "penjelasan": "<jp>〜の近く</jp> berarti 'dekat ...', jadi <jp>海の近くの小さい町です</jp> berarti 'kota kecil dekat laut'. <jp>海から遠い</jp> berarti jauh dari laut sehingga berlawanan, <jp>海の中</jp> berarti di dalam laut, dan <jp>海がきらいな</jp> berarti 'tidak suka laut' yang bukan keadaan sebuah kota."
+}
