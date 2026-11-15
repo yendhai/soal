@@ -1,0 +1,18 @@
+{
+  "label": "Jalan-jalan",
+  "situasi": {
+    "teks": "友だちと旅行の話をしています。\n「京都のお寺を（　　）たいです。」",
+    "gambar": ""
+  },
+  "pertanyaan": {
+    "teks": "（　　）に入る言葉はどれですか。",
+    "gambar": ""
+  },
+  "pilihan": [
+    { "teks": "見る", "gambar": "", "benar": false },
+    { "teks": "見", "gambar": "", "benar": true },
+    { "teks": "見て", "gambar": "", "benar": false },
+    { "teks": "見た", "gambar": "", "benar": false }
+  ],
+  "penjelasan": "<jp>〜たい</jp> berarti 'ingin ...' dan dipasang pada bentuk dasar sebelum <jp>ます</jp>. <jp>見ます</jp> menjadi <jp>見たい</jp>, jadi <jp>お寺を見たいです</jp> berarti 'saya ingin melihat kuil'. Bentuk <jp>見る</jp>, <jp>見て</jp>, dan <jp>見た</jp> tidak bisa langsung diikuti <jp>たい</jp>."
+}
