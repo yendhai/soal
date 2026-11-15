@@ -1,0 +1,16 @@
+{
+  "label": ["Pekerjaan"],
+  "bacaan": {
+    "jenis": "teks",
+    "judul": "私の仕事",
+    "isi": "私は先月から、食品工場で働いています。\n仕事は朝7時に始まります。\n昼ごはんは、会社の食堂で友だちと食べます。\n仕事のあとは、日本語の勉強をします。"
+  },
+  "pertanyaan": { "teks": "この人は、仕事のあとで何をしますか。" },
+  "pilihan": [
+    { "teks": "友だちと食堂で食べます", "benar": false },
+    { "teks": "食品工場で働きます", "benar": false },
+    { "teks": "日本語の勉強をします", "benar": true },
+    { "teks": "朝7時に起きます", "benar": false }
+  ],
+  "penjelasan": "Kalimat terakhir berbunyi <jp>仕事のあとは、日本語の勉強をします</jp>. Jadi setelah bekerja, orang ini belajar bahasa Jepang."
+}
