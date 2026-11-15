@@ -1,0 +1,18 @@
+{
+  "label": "Membeli barang di konbini",
+  "situasi": {
+    "teks": "コンビニでお弁当を買いました。食べる前に、店員さんにあたためてほしいです。",
+    "gambar": ""
+  },
+  "pertanyaan": {
+    "teks": "何と言いますか。",
+    "gambar": ""
+  },
+  "pilihan": [
+    { "teks": "お弁当を、冷やしてください。", "gambar": "", "benar": false },
+    { "teks": "お弁当を、あたためてください。", "gambar": "", "benar": true },
+    { "teks": "お弁当を、作ってください。", "gambar": "", "benar": false },
+    { "teks": "お弁当を、食べてください。", "gambar": "", "benar": false }
+  ],
+  "penjelasan": "Untuk meminta makanan dihangatkan di mikrowave konbini, pakai <jp>あたためてください</jp>. <jp>冷やしてください</jp> berarti 'tolong dinginkan', <jp>作ってください</jp> berarti 'tolong buatkan', dan <jp>食べてください</jp> berarti 'tolong makan', sehingga tidak sesuai dengan keinginan menghangatkan bekal."
+}
