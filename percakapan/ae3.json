@@ -1,0 +1,18 @@
+{
+  "label": "Membeli barang di konbini",
+  "situasi": {
+    "teks": "お金をはらうとき、店員さんが言いました。\n「ポイントカードはありますか。」あなたはポイントカードを持っていません。",
+    "gambar": ""
+  },
+  "pertanyaan": {
+    "teks": "あなたは何と言いますか。",
+    "gambar": ""
+  },
+  "pilihan": [
+    { "teks": "はい、いただきます。", "gambar": "", "benar": false },
+    { "teks": "いいえ、おいしいです。", "gambar": "", "benar": false },
+    { "teks": "はい、行きました。", "gambar": "", "benar": false },
+    { "teks": "いいえ、持っていません。", "gambar": "", "benar": true }
+  ],
+  "penjelasan": "Pelayan menanyakan apakah kamu punya kartu poin. Karena tidak punya, jawab <jp>いいえ、持っていません</jp>. <jp>いただきます</jp> diucapkan sebelum makan, <jp>おいしいです</jp> berarti 'enak', dan <jp>行きました</jp> berarti 'sudah pergi', jadi ketiganya tidak menjawab pertanyaan itu."
+}
