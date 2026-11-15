@@ -1,0 +1,18 @@
+{
+  "label": "Hujan",
+  "situasi": {
+    "teks": "雨がふっています。友だちに話します。\n「雨がふっているので、かさを（　　）て出かけます。」",
+    "gambar": ""
+  },
+  "pertanyaan": {
+    "teks": "（　　）に入る言葉はどれですか。",
+    "gambar": ""
+  },
+  "pilihan": [
+    { "teks": "のり", "gambar": "", "benar": false },
+    { "teks": "さし", "gambar": "", "benar": true },
+    { "teks": "はき", "gambar": "", "benar": false },
+    { "teks": "き", "gambar": "", "benar": false }
+  ],
+  "penjelasan": "Untuk memakai payung, pakai <jp>かさをさす</jp>, sehingga bentuknya menjadi <jp>かさをさして</jp>. <jp>のる</jp> berarti naik kendaraan, <jp>はく</jp> berarti memakai celana atau sepatu, dan <jp>きる</jp> berarti memakai baju, jadi tidak cocok dengan <jp>かさ</jp>."
+}
