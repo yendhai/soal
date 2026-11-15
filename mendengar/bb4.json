@@ -1,1 +1,20 @@
-
+{
+  "label": "Pesta ulang tahun Sakura",
+  "situasi": {
+    "teks": "夫と妻が、娘のさくらさんの誕生日パーティーについて、家で話しています",
+    "gambar": ""
+  },
+  "audio": "bb",
+  "pertanyaan": {
+    "teks": "二人は、土曜日に何をしますか。",
+    "gambar": ""
+  },
+  "pilihan": [
+    { "teks": "パーティーをする", "gambar": "", "benar": false },
+    { "teks": "ピンクの自転車を買いに行く", "gambar": "", "benar": true },
+    { "teks": "いちごを買いに行く", "gambar": "", "benar": false },
+    { "teks": "さくらさんの友だちに会う", "gambar": "", "benar": false }
+  ],
+  "penjelasan": "Sang istri mengajak pergi membeli hadiah bersama pada hari Sabtu, sehari sebelum pesta (<jp>パーティーの前の日の土曜日に、二人で買いに行こう</jp>). Hadiahnya adalah sepeda yang diinginkan Sakura, dan menurut sang suami ia menginginkan yang berwarna pink (<jp>ピンクのがいいって言ってたよ</jp>). Pesta diadakan hari Minggu. Membeli stroberi dan bertemu teman Sakura tidak disebutkan sebagai rencana hari Sabtu.",
+  "transkrip": "女：ねえ、来週の日曜日は、さくらの6歳の誕生日だね。\n男：もう6歳か。早いなあ。生まれたときのこと、昨日みたいに覚えてるよ。\n女：私も。パーティーは、どうする？\n男：家でやろう。さくらの友だちを5人ぐらい呼ぼうか。\n女：いいね。何時からにする？\n男：午後2時はどう？\n女：2時ね。ケーキは、どうする？\n男：買うより、作らない？さくらは、いちごが好きだから。\n女：いいね！いちごのケーキは、私が作るよ。あなたは、飾りつけをお願い。\n男：わかった。風船と、「おたんじょうびおめでとう」の紙を作るよ。\n女：プレゼントは、何にする？さくら、自転車が欲しいって言ってたよね。\n男：自転車は、ちょっと高いな。でも、6歳のお祝いだし、買おうか。ピンクのがいいって言ってたよ。\n女：パーティーの前の日の土曜日に、二人で買いに行こう。\n男：うん。さくら、喜ぶだろうな。"
+}
