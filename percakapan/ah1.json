@@ -1,0 +1,18 @@
+{
+  "label": "Di apotek",
+  "situasi": {
+    "teks": "頭が痛いので、薬を買いたいです。薬局の人に話します。",
+    "gambar": ""
+  },
+  "pertanyaan": {
+    "teks": "何と言いますか。",
+    "gambar": ""
+  },
+  "pilihan": [
+    { "teks": "すみません、頭が痛いので、薬を作りました。", "gambar": "", "benar": false },
+    { "teks": "すみません、頭が痛いので、薬をください。", "gambar": "", "benar": true },
+    { "teks": "すみません、頭が痛いので、薬を返します。", "gambar": "", "benar": false },
+    { "teks": "すみません、頭が痛いので、薬はおいしいです。", "gambar": "", "benar": false }
+  ],
+  "penjelasan": "Untuk meminta obat sambil menyebut keluhan, pakai <jp>頭が痛いので、薬をください</jp>, yang berarti 'karena kepala saya sakit, tolong beri saya obat'. <jp>〜ので</jp> menyatakan alasan. <jp>薬を作りました</jp> berarti 'membuat obat', <jp>薬を返します</jp> berarti 'mengembalikan obat', dan <jp>薬はおいしいです</jp> berarti 'obatnya enak', jadi tidak ada yang berupa permintaan."
+}
