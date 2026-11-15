@@ -1,0 +1,18 @@
+{
+  "label": "Di apotek",
+  "situasi": {
+    "teks": "薬局の人が薬のことを説明しています。\n「ねる（　　）、この薬を飲んでください。」",
+    "gambar": ""
+  },
+  "pertanyaan": {
+    "teks": "（　　）に入る言葉はどれですか。",
+    "gambar": ""
+  },
+  "pilihan": [
+    { "teks": "ので", "gambar": "", "benar": false },
+    { "teks": "まで", "gambar": "", "benar": false },
+    { "teks": "ながら", "gambar": "", "benar": false },
+    { "teks": "まえに", "gambar": "", "benar": true }
+  ],
+  "penjelasan": "<jp>ねるまえに</jp> berarti 'sebelum tidur', jadi <jp>ねるまえに、この薬を飲んでください</jp> artinya 'minumlah obat ini sebelum tidur'. <jp>ので</jp> berarti 'karena', <jp>まで</jp> berarti 'sampai', dan <jp>ながら</jp> berarti 'sambil', sehingga tidak membentuk petunjuk minum obat yang wajar di sini."
+}
