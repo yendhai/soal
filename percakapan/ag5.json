@@ -1,0 +1,18 @@
+{
+  "label": "Di kebun binatang",
+  "situasi": {
+    "teks": "動物園をたくさん歩きました。つかれたので、友だちに話します。",
+    "gambar": ""
+  },
+  "pertanyaan": {
+    "teks": "何と言いますか。",
+    "gambar": ""
+  },
+  "pilihan": [
+    { "teks": "もっと走りませんか。", "gambar": "", "benar": false },
+    { "teks": "ここで泳ぎませんか。", "gambar": "", "benar": false },
+    { "teks": "ちょっとベンチで休みませんか。", "gambar": "", "benar": true },
+    { "teks": "ごはんを作りませんか。", "gambar": "", "benar": false }
+  ],
+  "penjelasan": "Pola <jp>〜ませんか</jp> dipakai untuk mengajak, jadi <jp>ちょっとベンチで休みませんか</jp> berarti 'bagaimana kalau istirahat sebentar di bangku'. <jp>もっと走りませんか</jp> mengajak berlari lagi, <jp>ここで泳ぎませんか</jp> mengajak berenang, dan <jp>ごはんを作りませんか</jp> mengajak memasak, sehingga tidak cocok dengan keadaan yang sedang lelah."
+}
