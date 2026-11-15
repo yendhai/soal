@@ -1,0 +1,18 @@
+{
+  "label": "Di apotek",
+  "situasi": {
+    "teks": "これから車で出かけます。薬を飲んだあと、ねむくならないか心配です。薬局の人に聞きます。",
+    "gambar": ""
+  },
+  "pertanyaan": {
+    "teks": "何と言いますか。",
+    "gambar": ""
+  },
+  "pilihan": [
+    { "teks": "すみません、この薬は何色ですか。", "gambar": "", "benar": false },
+    { "teks": "すみません、この薬はどこで作りましたか。", "gambar": "", "benar": false },
+    { "teks": "すみません、この薬を飲むと、ねむくなりますか。", "gambar": "", "benar": true },
+    { "teks": "すみません、この薬を、昨日飲みましたか。", "gambar": "", "benar": false }
+  ],
+  "penjelasan": "Untuk menanyakan efek obat, pakai <jp>この薬を飲むと、ねむくなりますか</jp>, yang berarti 'kalau minum obat ini, apakah jadi mengantuk'. <jp>何色ですか</jp> menanyakan warna, <jp>どこで作りましたか</jp> menanyakan tempat pembuatan, dan <jp>昨日飲みましたか</jp> menanyakan apakah sudah minum kemarin, jadi tidak sesuai dengan kekhawatiran tentang rasa kantuk."
+}
