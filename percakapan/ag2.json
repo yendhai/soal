@@ -1,0 +1,18 @@
+{
+  "label": "Di kebun binatang",
+  "situasi": {
+    "teks": "動物園の入口で、地図を見ています。友だちに言います。\n「あそこに、大きいぞうが（　　）。」",
+    "gambar": ""
+  },
+  "pertanyaan": {
+    "teks": "（　　）に入る言葉はどれですか。",
+    "gambar": ""
+  },
+  "pilihan": [
+    { "teks": "あります", "gambar": "", "benar": false },
+    { "teks": "ください", "gambar": "", "benar": false },
+    { "teks": "います", "gambar": "", "benar": true },
+    { "teks": "いきます", "gambar": "", "benar": false }
+  ],
+  "penjelasan": "Untuk makhluk hidup seperti gajah, pakai <jp>います</jp>, jadi <jp>大きいぞうがいます</jp> berarti 'ada gajah besar'. <jp>あります</jp> dipakai untuk benda mati, <jp>ください</jp> dipakai untuk meminta sesuatu, dan <jp>いきます</jp> berarti 'pergi', sehingga tidak cocok dengan kalimat ini."
+}
