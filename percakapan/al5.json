@@ -1,0 +1,18 @@
+{
+  "label": "Hujan",
+  "situasi": {
+    "teks": "日曜日にテニスをする約束です。でも、天気予報は雨です。友だちに電話で言います。",
+    "gambar": ""
+  },
+  "pertanyaan": {
+    "teks": "何と言いますか。",
+    "gambar": ""
+  },
+  "pilihan": [
+    { "teks": "日曜日は雨なので、テニスは昨日にしませんか。", "gambar": "", "benar": false },
+    { "teks": "日曜日は雨なので、テニスは外でしませんか。", "gambar": "", "benar": false },
+    { "teks": "日曜日は雨なので、テニスは来週にしませんか。", "gambar": "", "benar": true },
+    { "teks": "日曜日は雨なので、テニスを見に行きましたか。", "gambar": "", "benar": false }
+  ],
+  "penjelasan": "Karena hari Minggu hujan, usulkan mengganti jadwal dengan <jp>テニスは来週にしませんか</jp>, yang berarti 'bagaimana kalau tenisnya minggu depan'. <jp>昨日にしませんか</jp> mengusulkan hari kemarin yang sudah lewat, <jp>外でしませんか</jp> mengajak bermain di luar padahal hujan, dan <jp>見に行きましたか</jp> menanyakan apakah sudah pergi menonton, jadi tidak ada yang menyelesaikan masalah hujan."
+}
