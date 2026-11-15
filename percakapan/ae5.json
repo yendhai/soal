@@ -1,0 +1,18 @@
+{
+  "label": "Membeli barang di konbini",
+  "situasi": {
+    "teks": "買い物のあと、お金をはらいました。会社で使うので、レシートがほしいです。店員さんに言います。",
+    "gambar": ""
+  },
+  "pertanyaan": {
+    "teks": "何と言いますか。",
+    "gambar": ""
+  },
+  "pilihan": [
+    { "teks": "すみません、トイレを借りてもいいですか。", "gambar": "", "benar": false },
+    { "teks": "すみません、ゴミ箱はどこですか。", "gambar": "", "benar": false },
+    { "teks": "すみません、レシートをください。", "gambar": "", "benar": true },
+    { "teks": "すみません、袋はいりません。", "gambar": "", "benar": false }
+  ],
+  "penjelasan": "Untuk meminta struk, pakai <jp>レシートをください</jp>. <jp>トイレを借りてもいいですか</jp> meminta izin memakai toilet, <jp>ゴミ箱はどこですか</jp> menanyakan letak tempat sampah, dan <jp>袋はいりません</jp> berarti 'saya tidak perlu kantong', sehingga tidak sesuai dengan keinginan mendapatkan struk."
+}
