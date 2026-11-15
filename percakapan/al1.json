@@ -1,0 +1,18 @@
+{
+  "label": "Hujan",
+  "situasi": {
+    "teks": "外で雨がふっています。でも、あなたはかさを持っていません。友だちにかさを借りたいです。",
+    "gambar": ""
+  },
+  "pertanyaan": {
+    "teks": "何と言いますか。",
+    "gambar": ""
+  },
+  "pilihan": [
+    { "teks": "すみません、かさを返してもらえませんか。", "gambar": "", "benar": false },
+    { "teks": "すみません、かさを買ってもらえませんか。", "gambar": "", "benar": false },
+    { "teks": "すみません、かさを洗ってもらえませんか。", "gambar": "", "benar": false },
+    { "teks": "すみません、かさを貸してもらえませんか。", "gambar": "", "benar": true }
+  ],
+  "penjelasan": "Untuk meminjam payung, pakai <jp>かさを貸してもらえませんか</jp>, yang berarti 'bisakah Anda meminjamkan payung'. <jp>返してもらえませんか</jp> meminta payung dikembalikan, <jp>買ってもらえませんか</jp> meminta dibelikan, dan <jp>洗ってもらえませんか</jp> meminta dicucikan, jadi tidak sesuai dengan keinginan meminjam."
+}
