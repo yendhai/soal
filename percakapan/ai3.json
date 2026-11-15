@@ -1,0 +1,18 @@
+{
+  "label": "Di kelas",
+  "situasi": {
+    "teks": "先生が説明を終えて、聞きました。\n「ここまで、わかりましたか。」あなたはよくわかりませんでした。",
+    "gambar": ""
+  },
+  "pertanyaan": {
+    "teks": "あなたは何と言いますか。",
+    "gambar": ""
+  },
+  "pilihan": [
+    { "teks": "おめでとうございます。", "gambar": "", "benar": false },
+    { "teks": "おやすみなさい。", "gambar": "", "benar": false },
+    { "teks": "どういたしまして。", "gambar": "", "benar": false },
+    { "teks": "すみません、よくわかりませんでした。", "gambar": "", "benar": true }
+  ],
+  "penjelasan": "Guru bertanya <jp>わかりましたか</jp>, artinya 'apakah sudah mengerti'. Jika belum mengerti, jawab jujur dengan <jp>よくわかりませんでした</jp>. <jp>おめでとうございます</jp> diucapkan untuk memberi selamat, <jp>おやすみなさい</jp> diucapkan sebelum tidur, dan <jp>どういたしまして</jp> adalah jawaban atas ucapan terima kasih."
+}
