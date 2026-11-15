@@ -1,0 +1,18 @@
+{
+  "label": "Di apotek",
+  "situasi": {
+    "teks": "かぜをひいたようです。薬局で薬の人に話します。\n「のどが（　　）ので、薬がほしいです。」",
+    "gambar": ""
+  },
+  "pertanyaan": {
+    "teks": "（　　）に入る言葉はどれですか。",
+    "gambar": ""
+  },
+  "pilihan": [
+    { "teks": "痛い", "gambar": "", "benar": true },
+    { "teks": "安い", "gambar": "", "benar": false },
+    { "teks": "広い", "gambar": "", "benar": false },
+    { "teks": "近い", "gambar": "", "benar": false }
+  ],
+  "penjelasan": "<jp>のどが痛い</jp> berarti 'tenggorokan sakit', keluhan yang membuat orang membeli obat. <jp>安い</jp> berarti murah, <jp>広い</jp> berarti luas, dan <jp>近い</jp> berarti dekat, sehingga tidak cocok dipakai dengan <jp>のど</jp> sebagai alasan membeli obat."
+}
