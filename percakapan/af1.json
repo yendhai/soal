@@ -1,0 +1,18 @@
+{
+  "label": "Jalan-jalan",
+  "situasi": {
+    "teks": "友だちと観光地に来ました。きれいな所で、二人の写真をとりたいです。近くにいる人にお願いします。",
+    "gambar": ""
+  },
+  "pertanyaan": {
+    "teks": "何と言いますか。",
+    "gambar": ""
+  },
+  "pilihan": [
+    { "teks": "すみません、写真はどこで買いますか。", "gambar": "", "benar": false },
+    { "teks": "すみません、写真が好きですか。", "gambar": "", "benar": false },
+    { "teks": "すみません、写真をとってもらえませんか。", "gambar": "", "benar": true },
+    { "teks": "すみません、写真を見せてもらえませんか。", "gambar": "", "benar": false }
+  ],
+  "penjelasan": "Untuk meminta orang lain memotret kita, pakai <jp>写真をとってもらえませんか</jp>, yang berarti 'bisakah Anda memotret kami'. <jp>写真はどこで買いますか</jp> menanyakan tempat membeli foto, <jp>写真が好きですか</jp> menanyakan kesukaan, dan <jp>写真を見せてもらえませんか</jp> meminta foto yang sudah ada ditunjukkan."
+}
