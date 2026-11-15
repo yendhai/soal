@@ -1,0 +1,19 @@
+{
+  "label": ["Surat pribadi"],
+  "bacaan": {
+    "jenis": "surat",
+    "tanggal": "11月10日",
+    "kepada": "山田さんへ",
+    "judul": "引っ越しのお知らせ",
+    "isi": "お元気ですか。\n来月の5日に、新しいアパートに引っ越します。\n荷物が多いので、手伝ってくれる人がいたら、教えてください。",
+    "dari": "田中より"
+  },
+  "pertanyaan": { "teks": "田中さんは山田さんに何をお願いしていますか。" },
+  "pilihan": [
+    { "teks": "新しいアパートを紹介してほしい", "benar": false },
+    { "teks": "引っ越しを手伝ってくれる人を教えてほしい", "benar": true },
+    { "teks": "荷物を預かってほしい", "benar": false },
+    { "teks": "引っ越しの日を変えてほしい", "benar": false }
+  ],
+  "penjelasan": "Di surat tertulis <jp>手伝ってくれる人がいたら、教えてください</jp>. Artinya Tanaka meminta Yamada memberi tahu kalau ada orang yang bisa membantu pindahan."
+}
