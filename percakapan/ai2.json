@@ -1,0 +1,18 @@
+{
+  "label": "Di kelas",
+  "situasi": {
+    "teks": "宿題をうちに置いてきました。先生に言います。\n「すみません、先生。宿題を（　　）。」",
+    "gambar": ""
+  },
+  "pertanyaan": {
+    "teks": "（　　）に入る言葉はどれですか。",
+    "gambar": ""
+  },
+  "pilihan": [
+    { "teks": "わすれました", "gambar": "", "benar": true },
+    { "teks": "あげました", "gambar": "", "benar": false },
+    { "teks": "おしえました", "gambar": "", "benar": false },
+    { "teks": "あらいました", "gambar": "", "benar": false }
+  ],
+  "penjelasan": "<jp>宿題をわすれました</jp> berarti 'saya lupa membawa PR'. <jp>あげました</jp> berarti 'memberikan', <jp>おしえました</jp> berarti 'mengajari', dan <jp>あらいました</jp> berarti 'mencuci', sehingga tidak sesuai dengan keadaan PR yang tertinggal di rumah."
+}
