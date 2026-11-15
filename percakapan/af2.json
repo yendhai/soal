@@ -1,0 +1,18 @@
+{
+  "label": "Jalan-jalan",
+  "situasi": {
+    "teks": "知らない町に来ました。駅がどこか分かりません。道にいる人に聞きます。\n「すみません、駅へ行く（　　）を教えてください。」",
+    "gambar": ""
+  },
+  "pertanyaan": {
+    "teks": "（　　）に入る言葉はどれですか。",
+    "gambar": ""
+  },
+  "pilihan": [
+    { "teks": "道", "gambar": "", "benar": true },
+    { "teks": "色", "gambar": "", "benar": false },
+    { "teks": "歌", "gambar": "", "benar": false },
+    { "teks": "声", "gambar": "", "benar": false }
+  ],
+  "penjelasan": "Untuk menanyakan jalan, pakai <jp>道を教えてください</jp>, yang berarti 'tolong beri tahu jalannya'. <jp>色</jp> berarti warna, <jp>歌</jp> berarti lagu, dan <jp>声</jp> berarti suara, sehingga tidak cocok dengan <jp>駅へ行く</jp>."
+}
