@@ -1,0 +1,18 @@
+{
+  "label": "Jalan-jalan",
+  "situasi": {
+    "teks": "天気がいい日です。友だちが言いました。\n「公園に行きませんか。」あなたも行きたいです。",
+    "gambar": ""
+  },
+  "pertanyaan": {
+    "teks": "あなたは何と言いますか。",
+    "gambar": ""
+  },
+  "pilihan": [
+    { "teks": "いいえ、行きます。", "gambar": "", "benar": false },
+    { "teks": "いただきます。", "gambar": "", "benar": false },
+    { "teks": "すみません、行きませんでした。", "gambar": "", "benar": false },
+    { "teks": "いいですね。行きましょう。", "gambar": "", "benar": true }
+  ],
+  "penjelasan": "Ajakan dengan <jp>〜ませんか</jp> dijawab setuju dengan <jp>いいですね。行きましょう</jp>, artinya 'bagus, ayo pergi'. <jp>いいえ、行きます</jp> bertentangan di dalam kalimatnya sendiri, <jp>いただきます</jp> diucapkan sebelum makan, dan <jp>行きませんでした</jp> berarti 'tidak pergi' dalam bentuk lampau."
+}
