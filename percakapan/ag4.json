@@ -1,0 +1,18 @@
+{
+  "label": "Di kebun binatang",
+  "situasi": {
+    "teks": "動物園の道に、小さい子どもがたくさんいます。看板に書いてあります。\n「あぶないですから、ここで（　　）ください。」",
+    "gambar": ""
+  },
+  "pertanyaan": {
+    "teks": "（　　）に入る言葉はどれですか。",
+    "gambar": ""
+  },
+  "pilihan": [
+    { "teks": "走って", "gambar": "", "benar": false },
+    { "teks": "走った", "gambar": "", "benar": false },
+    { "teks": "走る", "gambar": "", "benar": false },
+    { "teks": "走らないで", "gambar": "", "benar": true }
+  ],
+  "penjelasan": "Karena tempatnya berbahaya (<jp>あぶないですから</jp>), papan itu melarang berlari dengan <jp>走らないでください</jp>, yang berarti 'tolong jangan berlari'. <jp>走ってください</jp> berarti 'tolong berlari' sehingga bertentangan dengan maksudnya, <jp>走った</jp> adalah bentuk lampau, dan <jp>走る</jp> adalah bentuk kamus yang tidak bisa langsung diikuti <jp>ください</jp>."
+}
