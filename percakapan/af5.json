@@ -1,0 +1,18 @@
+{
+  "label": "Jalan-jalan",
+  "situasi": {
+    "teks": "博物館の前に来ました。何時に閉まるか知りたいので、入口の人に聞きます。",
+    "gambar": ""
+  },
+  "pertanyaan": {
+    "teks": "何と言いますか。",
+    "gambar": ""
+  },
+  "pilihan": [
+    { "teks": "すみません、何時に来ましたか。", "gambar": "", "benar": false },
+    { "teks": "すみません、何時から食べますか。", "gambar": "", "benar": false },
+    { "teks": "すみません、何時まで開いていますか。", "gambar": "", "benar": true },
+    { "teks": "すみません、何時に泳ぎましたか。", "gambar": "", "benar": false }
+  ],
+  "penjelasan": "Untuk menanyakan jam tutup, pakai <jp>何時まで開いていますか</jp>, yang berarti 'buka sampai jam berapa'. <jp>何時に来ましたか</jp> menanyakan jam kedatangan, <jp>何時から食べますか</jp> menanyakan jam mulai makan, dan <jp>何時に泳ぎましたか</jp> menanyakan jam berenang, jadi tidak sesuai dengan situasi di museum."
+}
