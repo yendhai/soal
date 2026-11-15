@@ -1,0 +1,18 @@
+{
+  "label": "Hari libur",
+  "situasi": {
+    "teks": "友だちに休みの日のことを話しています。\n「休みの日は、たいてい家で本を（　　）、テレビを見たりします。」",
+    "gambar": ""
+  },
+  "pertanyaan": {
+    "teks": "（　　）に入る言葉はどれですか。",
+    "gambar": ""
+  },
+  "pilihan": [
+    { "teks": "読んだり", "gambar": "", "benar": true },
+    { "teks": "読んで", "gambar": "", "benar": false },
+    { "teks": "読みます", "gambar": "", "benar": false },
+    { "teks": "読むと", "gambar": "", "benar": false }
+  ],
+  "penjelasan": "<jp>〜たり、〜たりします</jp> dipakai untuk menyebut beberapa contoh kegiatan, 'melakukan ini, itu, dan sebagainya'. Karena bagian akhirnya <jp>テレビを見たりします</jp>, bagian pertama juga harus <jp>本を読んだり</jp>. <jp>読んで</jp>, <jp>読みます</jp>, dan <jp>読むと</jp> tidak bisa berpasangan dengan <jp>見たりします</jp> dalam pola ini."
+}
