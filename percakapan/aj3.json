@@ -1,0 +1,18 @@
+{
+  "label": "Kampung halaman",
+  "situasi": {
+    "teks": "友だちが聞きました。\n「ふるさとには、いつ帰りますか。」あなたは来月の十日に帰ります。",
+    "gambar": ""
+  },
+  "pertanyaan": {
+    "teks": "あなたは何と言いますか。",
+    "gambar": ""
+  },
+  "pilihan": [
+    { "teks": "来月の十日に帰ります。", "gambar": "", "benar": true },
+    { "teks": "来月の十日に帰りました。", "gambar": "", "benar": false },
+    { "teks": "先月の十日に帰ります。", "gambar": "", "benar": false },
+    { "teks": "はい、来月の十日です。", "gambar": "", "benar": false }
+  ],
+  "penjelasan": "<jp>いつ帰りますか</jp> menanyakan waktu pulang di masa depan, jadi jawabannya <jp>来月の十日に帰ります</jp>. <jp>帰りました</jp> adalah bentuk lampau, <jp>先月</jp> berarti bulan lalu dan tidak cocok dengan <jp>帰ります</jp>, dan <jp>はい</jp> tidak dipakai untuk menjawab pertanyaan dengan <jp>いつ</jp>."
+}
