@@ -1,0 +1,18 @@
+{
+  "label": "Di kelas",
+  "situasi": {
+    "teks": "テストの前に、消しゴムを持ってくるのを忘れたことに気がつきました。となりの席の人に聞きます。",
+    "gambar": ""
+  },
+  "pertanyaan": {
+    "teks": "何と言いますか。",
+    "gambar": ""
+  },
+  "pilihan": [
+    { "teks": "すみません、消しゴムをなくしましたか。", "gambar": "", "benar": false },
+    { "teks": "すみません、消しゴムを使いましたか。", "gambar": "", "benar": false },
+    { "teks": "すみません、消しゴムを貸してくれませんか。", "gambar": "", "benar": true },
+    { "teks": "すみません、消しゴムはどこで買いましたか。", "gambar": "", "benar": false }
+  ],
+  "penjelasan": "Untuk meminta pinjaman kepada teman, pakai <jp>貸してくれませんか</jp>, yang berarti 'bisakah kamu meminjamkan'. <jp>なくしましたか</jp> menanyakan apakah barangnya hilang, <jp>使いましたか</jp> menanyakan apakah barangnya sudah dipakai, dan <jp>どこで買いましたか</jp> menanyakan tempat membeli, jadi tidak ada yang berupa permintaan meminjam."
+}
