@@ -1,0 +1,18 @@
+{
+  "label": "Hujan",
+  "situasi": {
+    "teks": "友だちが言いました。\n「雨がふっていますよ。かさを持っていきますか。」あなたはかさを持っていきます。",
+    "gambar": ""
+  },
+  "pertanyaan": {
+    "teks": "あなたは何と言いますか。",
+    "gambar": ""
+  },
+  "pilihan": [
+    { "teks": "はい、持っていきます。ありがとうございます。", "gambar": "", "benar": true },
+    { "teks": "はい、持っていきません。", "gambar": "", "benar": false },
+    { "teks": "いってらっしゃい。", "gambar": "", "benar": false },
+    { "teks": "どういたしまして。", "gambar": "", "benar": false }
+  ],
+  "penjelasan": "Temanmu menanyakan apakah kamu akan membawa payung. Jawab dengan <jp>はい、持っていきます</jp> lalu ucapkan terima kasih dengan <jp>ありがとうございます</jp>. <jp>はい、持っていきません</jp> saling bertentangan, <jp>いってらっしゃい</jp> diucapkan kepada orang yang akan berangkat, dan <jp>どういたしまして</jp> adalah jawaban atas ucapan terima kasih."
+}
