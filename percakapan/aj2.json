@@ -1,0 +1,18 @@
+{
+  "label": "Kampung halaman",
+  "situasi": {
+    "teks": "友だちにふるさとのことを話しています。\n「私のふるさとは、人が少なくて、（　　）です。」",
+    "gambar": ""
+  },
+  "pertanyaan": {
+    "teks": "（　　）に入る言葉はどれですか。",
+    "gambar": ""
+  },
+  "pilihan": [
+    { "teks": "にぎやか", "gambar": "", "benar": false },
+    { "teks": "有名", "gambar": "", "benar": false },
+    { "teks": "大変", "gambar": "", "benar": false },
+    { "teks": "しずか", "gambar": "", "benar": true }
+  ],
+  "penjelasan": "<jp>人が少なくて、しずかです</jp> berarti 'penduduknya sedikit dan tenang'. <jp>にぎやか</jp> berarti ramai sehingga berlawanan dengan <jp>人が少なくて</jp>, <jp>有名</jp> berarti terkenal, dan <jp>大変</jp> berarti repot atau berat, jadi keduanya tidak menyambung dengan kalimat itu."
+}
