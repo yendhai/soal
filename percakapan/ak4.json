@@ -1,0 +1,18 @@
+{
+  "label": "Hari libur",
+  "situasi": {
+    "teks": "友だちに休みの日のことを話しています。\n「休みの日は、（　　）起きて、朝ごはんを食べます。」",
+    "gambar": ""
+  },
+  "pertanyaan": {
+    "teks": "（　　）に入る言葉はどれですか。",
+    "gambar": ""
+  },
+  "pilihan": [
+    { "teks": "ぜんぜん", "gambar": "", "benar": false },
+    { "teks": "ゆっくり", "gambar": "", "benar": true },
+    { "teks": "あまり", "gambar": "", "benar": false },
+    { "teks": "とても", "gambar": "", "benar": false }
+  ],
+  "penjelasan": "<jp>ゆっくり起きる</jp> berarti 'bangun dengan santai', cocok untuk menggambarkan hari libur. <jp>ぜんぜん</jp> dan <jp>あまり</jp> dipakai bersama bentuk negatif, sedangkan <jp>とても</jp> berarti 'sangat' dan tidak cocok dengan <jp>起きて</jp>."
+}
