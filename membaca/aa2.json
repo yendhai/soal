@@ -1,0 +1,17 @@
+{
+  "label": ["Pengumuman"],
+  "bacaan": {
+    "jenis": "pengumuman",
+    "judul": "ごみの日のお知らせ",
+    "isi": "燃えるごみは、月曜日と木曜日です。\n燃えないごみは、第2水曜日です。\n朝8時までに、ごみ置き場に出してください。",
+    "dari": "管理人"
+  },
+  "pertanyaan": { "teks": "燃えるごみは、いつ出しますか。" },
+  "pilihan": [
+    { "teks": "月曜日と木曜日の朝8時まで", "benar": true },
+    { "teks": "第2水曜日の朝8時まで", "benar": false },
+    { "teks": "月曜日と木曜日の夜8時まで", "benar": false },
+    { "teks": "毎日、朝8時まで", "benar": false }
+  ],
+  "penjelasan": "Sampah yang bisa dibakar (<jp>燃えるごみ</jp>) dibuang hari <jp>月曜日と木曜日</jp>, paling lambat <jp>朝8時までに</jp>. Hari Rabu minggu kedua adalah untuk sampah yang tidak bisa dibakar."
+}
