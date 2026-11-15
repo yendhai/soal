@@ -1,0 +1,18 @@
+{
+  "label": "Hujan",
+  "situasi": {
+    "teks": "学校の先生が、遠足の説明をしています。\n「雨が（　　）、遠足は中止です。」",
+    "gambar": ""
+  },
+  "pertanyaan": {
+    "teks": "（　　）に入る言葉はどれですか。",
+    "gambar": ""
+  },
+  "pilihan": [
+    { "teks": "ふっても", "gambar": "", "benar": false },
+    { "teks": "ふらないで", "gambar": "", "benar": false },
+    { "teks": "ふったら", "gambar": "", "benar": true },
+    { "teks": "ふるのに", "gambar": "", "benar": false }
+  ],
+  "penjelasan": "<jp>〜たら</jp> berarti 'kalau ...', jadi <jp>雨がふったら、遠足は中止です</jp> berarti 'kalau hujan, karyawisata dibatalkan'. <jp>ふっても</jp> berarti 'meskipun hujan' sehingga tidak masuk akal dengan <jp>中止です</jp>, <jp>ふらないで</jp> berarti 'tanpa hujan' atau 'jangan hujan', dan <jp>ふるのに</jp> berarti 'padahal hujan'."
+}
