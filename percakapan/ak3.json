@@ -1,0 +1,18 @@
+{
+  "label": "Hari libur",
+  "situasi": {
+    "teks": "友だちが聞きました。\n「あしたは、休みですか。」あなたはあしたも仕事です。",
+    "gambar": ""
+  },
+  "pertanyaan": {
+    "teks": "あなたは何と言いますか。",
+    "gambar": ""
+  },
+  "pilihan": [
+    { "teks": "はい、あしたは休みです。", "gambar": "", "benar": false },
+    { "teks": "いいえ、あしたは休みでした。", "gambar": "", "benar": false },
+    { "teks": "はい、あした仕事に行きます。", "gambar": "", "benar": false },
+    { "teks": "いいえ、あしたも仕事です。", "gambar": "", "benar": true }
+  ],
+  "penjelasan": "<jp>休みですか</jp> menanyakan apakah besok libur. Karena besok masih bekerja, jawab <jp>いいえ、あしたも仕事です</jp>. <jp>はい、あしたは休みです</jp> memberi jawaban kebalikannya, <jp>休みでした</jp> adalah bentuk lampau sehingga tidak cocok untuk hari besok, dan <jp>はい、あした仕事に行きます</jp> mengiyakan libur tetapi isinya bekerja sehingga tidak konsisten."
+}
