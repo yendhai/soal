@@ -1,0 +1,20 @@
+{
+  "label": "Pagi setelah melahirkan",
+  "situasi": {
+    "teks": "出産の次の朝、病院で、夫と妻が話しています",
+    "gambar": ""
+  },
+  "audio": "ba",
+  "pertanyaan": {
+    "teks": "赤ちゃんは、いつ生まれましたか。",
+    "gambar": ""
+  },
+  "pilihan": [
+    { "teks": "今朝", "gambar": "", "benar": false },
+    { "teks": "昨日の朝", "gambar": "", "benar": false },
+    { "teks": "昨日の夜11時", "gambar": "", "benar": true },
+    { "teks": "一昨日の夜", "gambar": "", "benar": false }
+  ],
+  "penjelasan": "Sang suami berkata bahwa bayi perempuan mereka lahir tadi malam pukul 11 (<jp>昨日の夜11時に生まれたんだ</jp>). Pukul 9 pagi adalah waktu saat ini (<jp>朝の9時だよ</jp>), saat istrinya baru bangun, jadi bayi tidak lahir pagi ini.",
+  "transkrip": "男：あ、起きた？おはよう。\n女：ん…、おはよう。今、何時？\n男：朝の9時だよ。よく寝ていたね。\n女：赤ちゃんは？元気？\n男：元気だよ。女の子だよ。昨日の夜11時に生まれたんだ。\n女：よかった…。早く会いたいな。\n男：看護師さんが、10時に連れてきてくれるって。\n女：楽しみ。あなたは、ずっとここにいたの？\n男：うん、ここで寝たよ。ソファが小さくて、ちょっと痛いけど。\n女：ありがとう。ごめんね。\n男：こちらこそ、ありがとう。本当にがんばったね。\n女：名前は、どうする？\n男：「さくら」はどう？春に生まれたから。\n女：いいね。さくら…。"
+}
