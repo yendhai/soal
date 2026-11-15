@@ -1,0 +1,18 @@
+{
+  "label": "Membeli barang di konbini",
+  "situasi": {
+    "teks": "おにぎりが二個とお茶が一本ほしいです。店員さんに言います。\n「おにぎりを（　　）と、お茶を一本ください。」",
+    "gambar": ""
+  },
+  "pertanyaan": {
+    "teks": "（　　）に入る言葉はどれですか。",
+    "gambar": ""
+  },
+  "pilihan": [
+    { "teks": "二つ", "gambar": "", "benar": true },
+    { "teks": "二人", "gambar": "", "benar": false },
+    { "teks": "二枚", "gambar": "", "benar": false },
+    { "teks": "二冊", "gambar": "", "benar": false }
+  ],
+  "penjelasan": "Untuk menghitung barang secara umum, termasuk onigiri, pakai <jp>〜つ</jp>, jadi <jp>おにぎりを二つ</jp> berarti 'dua onigiri'. <jp>二人</jp> dipakai untuk orang, <jp>二枚</jp> untuk benda tipis seperti kertas, dan <jp>二冊</jp> untuk buku."
+}
