@@ -1,0 +1,18 @@
+{
+  "label": "Hari libur",
+  "situasi": {
+    "teks": "休みの日に、雨がふりました。どこにも行きませんでした。月曜日に、友だちに話します。",
+    "gambar": ""
+  },
+  "pertanyaan": {
+    "teks": "何と言いますか。",
+    "gambar": ""
+  },
+  "pilihan": [
+    { "teks": "休みの日は、雨だったので、どこへでも行きました。", "gambar": "", "benar": false },
+    { "teks": "休みの日は、雨だったので、どこかに行きます。", "gambar": "", "benar": false },
+    { "teks": "休みの日は、雨だったので、どこにも行きませんでした。", "gambar": "", "benar": true },
+    { "teks": "休みの日は、晴れだったので、どこにも行きませんでした。", "gambar": "", "benar": false }
+  ],
+  "penjelasan": "<jp>どこにも行きませんでした</jp> berarti 'tidak pergi ke mana pun', sesuai dengan keadaan hujan (<jp>雨だったので</jp>). <jp>どこへでも行きました</jp> berarti 'pergi ke mana saja' sehingga bertentangan, <jp>どこかに行きます</jp> berarti 'akan pergi ke suatu tempat' (masa depan), dan <jp>晴れだったので</jp> berarti 'karena cerah' yang tidak sesuai dengan kenyataan hujan."
+}
