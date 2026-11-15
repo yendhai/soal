@@ -1,0 +1,18 @@
+{
+  "label": "Di kebun binatang",
+  "situasi": {
+    "teks": "動物園で、係の人が言いました。\n「ここで、動物に食べ物をあげないでください。」",
+    "gambar": ""
+  },
+  "pertanyaan": {
+    "teks": "あなたは何と言いますか。",
+    "gambar": ""
+  },
+  "pilihan": [
+    { "teks": "いってきます。", "gambar": "", "benar": false },
+    { "teks": "はい、わかりました。", "gambar": "", "benar": true },
+    { "teks": "はい、あげました。", "gambar": "", "benar": false },
+    { "teks": "すみません、食べ物をください。", "gambar": "", "benar": false }
+  ],
+  "penjelasan": "<jp>〜ないでください</jp> berarti 'tolong jangan ...'. Setelah mendengar larangan, jawab dengan <jp>はい、わかりました</jp>. <jp>いってきます</jp> diucapkan saat berangkat dari rumah, <jp>はい、あげました</jp> berarti 'ya, sudah memberi' sehingga justru melanggar larangan, dan <jp>食べ物をください</jp> berarti 'tolong beri makanan'."
+}
