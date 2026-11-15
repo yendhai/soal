@@ -1,0 +1,18 @@
+{
+  "label": "Kampung halaman",
+  "situasi": {
+    "teks": "日本で働いて三年になりました。ふるさとの家族に会いたくなりました。友だちに話します。",
+    "gambar": ""
+  },
+  "pertanyaan": {
+    "teks": "何と言いますか。",
+    "gambar": ""
+  },
+  "pilihan": [
+    { "teks": "ふるさとの家族に会いました。", "gambar": "", "benar": false },
+    { "teks": "ふるさとの家族に会いたいです。", "gambar": "", "benar": true },
+    { "teks": "ふるさとの家族にあげたいです。", "gambar": "", "benar": false },
+    { "teks": "ふるさとの家族に会いません。", "gambar": "", "benar": false }
+  ],
+  "penjelasan": "<jp>〜たいです</jp> menyatakan keinginan, jadi <jp>家族に会いたいです</jp> berarti 'saya ingin bertemu keluarga'. <jp>会いました</jp> berarti 'sudah bertemu' (lampau), <jp>会いません</jp> berarti 'tidak bertemu' (negatif), dan <jp>あげたいです</jp> berarti 'ingin memberi', sehingga tidak menyatakan keinginan untuk bertemu."
+}
