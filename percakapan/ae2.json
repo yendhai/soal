@@ -1,0 +1,18 @@
+{
+  "label": "Membeli barang di konbini",
+  "situasi": {
+    "teks": "店員さんが「袋は、いりますか。」と聞きました。あなたは袋がいりません。\n「いいえ、袋は（　　）です。」",
+    "gambar": ""
+  },
+  "pertanyaan": {
+    "teks": "（　　）に入る言葉はどれですか。",
+    "gambar": ""
+  },
+  "pilihan": [
+    { "teks": "元気", "gambar": "", "benar": false },
+    { "teks": "ひま", "gambar": "", "benar": false },
+    { "teks": "大丈夫", "gambar": "", "benar": true },
+    { "teks": "上手", "gambar": "", "benar": false }
+  ],
+  "penjelasan": "<jp>大丈夫です</jp> bisa dipakai untuk menolak dengan sopan, jadi <jp>袋は大丈夫です</jp> berarti 'tidak perlu kantong, terima kasih'. <jp>元気</jp> berarti sehat, <jp>ひま</jp> berarti senggang, dan <jp>上手</jp> berarti pandai, sehingga tidak cocok untuk menolak kantong."
+}
