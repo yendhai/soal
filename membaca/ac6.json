@@ -1,0 +1,24 @@
+{
+  "label": ["Stasiun 1"],
+  "bacaan": {
+    "jenis": "tabel",
+    "judul": "さくら駅からの運賃",
+    "tabel": {
+      "kepala": ["行き先", "きっぷ", "ICカード"],
+      "baris": [
+        ["中央駅", "200円", "198円"],
+        ["港駅", "350円", "346円"],
+        ["空港", "780円", "775円"]
+      ]
+    },
+    "catatan": ["※子どもは、半額です。", "※ICカードは、駅の機械でチャージできます。"]
+  },
+  "pertanyaan": { "teks": "子どもが切符で中央駅まで行くと、いくらですか。" },
+  "pilihan": [
+    { "teks": "200円", "benar": false },
+    { "teks": "100円", "benar": true },
+    { "teks": "198円", "benar": false },
+    { "teks": "99円", "benar": false }
+  ],
+  "penjelasan": "Tiket dewasa ke <jp>中央駅</jp> adalah 200 yen, dan catatan menyebut <jp>子どもは、半額です</jp>. Jadi tiket anak 100 yen; 99 yen adalah setengah tarif kartu IC."
+}
