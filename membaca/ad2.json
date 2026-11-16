@@ -1,0 +1,19 @@
+{
+  "label": ["Taman 1"],
+  "bacaan": {
+    "jenis": "surat",
+    "tanggal": "4月3日",
+    "kepada": "ミンさんへ",
+    "judul": "お花見のお知らせ",
+    "isi": "こんにちは。\n来週の日曜日に、桜公園でお花見をします。\n朝9時に、公園の入り口で集まってください。\n私は、お弁当とお茶を持って行きます。\nミンさんは、飲み物とレジャーシートをお願いします。\nもし雨が降ったら、お花見は来月の第1日曜日にします。\n来られるかどうか、金曜日までに教えてください。",
+    "dari": "アンナより"
+  },
+  "pertanyaan": { "teks": "ミンさんは、何を持って行きますか。" },
+  "pilihan": [
+    { "teks": "飲み物とレジャーシート", "benar": true },
+    { "teks": "お弁当とお茶", "benar": false },
+    { "teks": "お弁当と飲み物", "benar": false },
+    { "teks": "レジャーシートとお茶", "benar": false }
+  ],
+  "penjelasan": "Di surat tertulis <jp>ミンさんは、飲み物とレジャーシートをお願いします</jp>. Bekal dan teh dibawa oleh Anna."
+}
