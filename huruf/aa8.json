@@ -1,0 +1,11 @@
+{
+  "label": ["Apartemen 1"],
+  "pertanyaan": { "teks": "申込書に【住（　）】を書きます。\n（　）に入る漢字はどれですか。" },
+  "pilihan": [
+    { "teks": "所", "benar": true },
+    { "teks": "気", "benar": false },
+    { "teks": "話", "benar": false },
+    { "teks": "近", "benar": false }
+  ],
+  "penjelasan": "<jp>住所</jp> dibaca <jp>じゅうしょ</jp>, artinya alamat tempat tinggal."
+}
