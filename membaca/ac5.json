@@ -1,0 +1,16 @@
+{
+  "label": ["Stasiun 1"],
+  "bacaan": {
+    "jenis": "teks",
+    "judul": "駅で道を聞かれた日",
+    "isi": "先週の土曜日、私は友達に会うために、大きい駅へ行きました。\nそこで、困っている外国人の男の人を見ました。\n男の人は、地図を見ながら、「空港行きの電車は、どこですか」と聞きました。\n私は、「空港行きは、3番線です。この階段を下りてください」と教えました。\n男の人は、「ありがとうございます」と言って、笑いました。\n私は、うれしかったです。\nでも、そのせいで、友達との約束の時間に、10分遅れてしまいました。\n次は、遅れないように、もっと早く家を出るつもりです。"
+  },
+  "pertanyaan": { "teks": "「私」は、なぜ約束の時間に遅れましたか。" },
+  "pilihan": [
+    { "teks": "外国人の男の人に道を教えたから", "benar": true },
+    { "teks": "電車が止まったから", "benar": false },
+    { "teks": "駅で道に迷ったから", "benar": false },
+    { "teks": "男の人を空港まで送ったから", "benar": false }
+  ],
+  "penjelasan": "Setelah menolong pria asing, tertulis <jp>そのせいで、友達との約束の時間に、10分遅れてしまいました</jp>. Jadi keterlambatan itu karena ia menunjukkan jalan."
+}
