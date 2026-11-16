@@ -1,0 +1,16 @@
+{
+  "label": ["Stasiun 1"],
+  "bacaan": {
+    "jenis": "teks",
+    "judul": "駅で道を聞かれた日",
+    "isi": "先週の土曜日、私は友達に会うために、大きい駅へ行きました。\nそこで、困っている外国人の男の人を見ました。\n男の人は、地図を見ながら、「空港行きの電車は、どこですか」と聞きました。\n私は、「空港行きは、3番線です。この階段を下りてください」と教えました。\n男の人は、「ありがとうございます」と言って、笑いました。\n私は、うれしかったです。\nでも、そのせいで、友達との約束の時間に、10分遅れてしまいました。\n次は、遅れないように、もっと早く家を出るつもりです。"
+  },
+  "pertanyaan": { "teks": "外国人の男の人は、どこへ行きたかったですか。" },
+  "pilihan": [
+    { "teks": "空港", "benar": true },
+    { "teks": "友達の家", "benar": false },
+    { "teks": "駅の北口", "benar": false },
+    { "teks": "3番線の売店", "benar": false }
+  ],
+  "penjelasan": "Pria itu bertanya <jp>空港行きの電車は、どこですか</jp>. Jalur 3 hanya tempat kereta menuju bandara, bukan tujuannya."
+}
