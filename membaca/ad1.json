@@ -1,0 +1,18 @@
+{
+  "label": ["Taman 1"],
+  "bacaan": {
+    "jenis": "pengumuman",
+    "judul": "公園を使う人へ",
+    "isi": "この公園は、朝6時から夜8時まで入ることができます。\n犬を連れてくるときは、ひもをつけてください。\n犬のふんは、持って帰ってください。\n花や木を取ってはいけません。\n火を使うときは、市役所の許可が必要です。\nボール遊びは、広場だけでできます。",
+    "dari": "市役所 公園課",
+    "catatan": "※バーベキューをしたい人は、1週間前までに、市役所に申し込んでください。"
+  },
+  "pertanyaan": { "teks": "バーベキューをしたい人は、どうしますか。" },
+  "pilihan": [
+    { "teks": "1週間前までに市役所に申し込む", "benar": true },
+    { "teks": "当日、公園で管理人に頼む", "benar": false },
+    { "teks": "広場だけでする", "benar": false },
+    { "teks": "夜8時までに申し込む", "benar": false }
+  ],
+  "penjelasan": "Di catatan tertulis <jp>1週間前までに、市役所に申し込んでください</jp>. Penggunaan api memerlukan izin dari kantor kota, bukan dari pengelola di hari acara."
+}
