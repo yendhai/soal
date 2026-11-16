@@ -1,0 +1,11 @@
+{
+  "label": ["Apartemen 1"],
+  "pertanyaan": { "teks": "このアパートは駅から遠いので、（　）で行きます。" },
+  "pilihan": [
+    { "teks": "自転車", "benar": true },
+    { "teks": "電話", "benar": false },
+    { "teks": "新聞", "benar": false },
+    { "teks": "時計", "benar": false }
+  ],
+  "penjelasan": "<jp>自転車</jp> artinya sepeda, cocok dipakai ke stasiun yang jauh. <jp>電話</jp>, <jp>新聞</jp>, dan <jp>時計</jp> tidak bisa dipakai untuk pergi."
+}
