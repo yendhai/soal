@@ -1,0 +1,18 @@
+{
+  "label": ["Taman 1"],
+  "bacaan": {
+    "jenis": "pengumuman",
+    "judul": "子ども広場のイベント",
+    "isi": "11月23日(日)に、子ども広場で「秋のこどもまつり」があります。\n時間は、午前10時から午後3時までです。\n小学生までの子どもは、ゲームやおもちゃを無料で楽しむことができます。\n食べ物や飲み物は、1つ100円で買えます。\n駐車場がありませんので、電車やバスで来てください。\n雨の日は、体育館で行います。",
+    "dari": "公園管理事務所",
+    "catatan": "※体育館は、公園の北門から歩いて5分です。"
+  },
+  "pertanyaan": { "teks": "雨が降ったら、イベントはどこでしますか。" },
+  "pilihan": [
+    { "teks": "体育館", "benar": true },
+    { "teks": "子ども広場", "benar": false },
+    { "teks": "北門の前", "benar": false },
+    { "teks": "駐車場", "benar": false }
+  ],
+  "penjelasan": "Di pengumuman tertulis <jp>雨の日は、体育館で行います</jp>. Gerbang utara hanya penunjuk arah ke gedung olahraga, dan tidak ada tempat parkir."
+}
