@@ -1,0 +1,16 @@
+{
+  "label": ["Taman 1"],
+  "bacaan": {
+    "jenis": "teks",
+    "judul": "公園のそうじ",
+    "isi": "私の町の公園では、毎月第1日曜日に、みんなでそうじをします。\n先月、私は初めて参加しました。\n朝8時に集まって、ごみを拾ったり、草を取ったりしました。\n子どもからお年寄りまで、30人ぐらいが来ていました。\n3時間働くと、公園はとてもきれいになりました。\n終わってから、みんなでお茶を飲みながら話しました。\nそのとき、近所の人と友達になれたので、うれしかったです。\n来月も、また参加したいです。"
+  },
+  "pertanyaan": { "teks": "そうじのあと、みんなは何をしましたか。" },
+  "pilihan": [
+    { "teks": "お茶を飲みながら話した", "benar": true },
+    { "teks": "公園で昼ごはんを食べた", "benar": false },
+    { "teks": "ごみを種類ごとに分けた", "benar": false },
+    { "teks": "新しい花を植えた", "benar": false }
+  ],
+  "penjelasan": "Di teks tertulis <jp>終わってから、みんなでお茶を飲みながら話しました</jp>. Kegiatan membuang sampah dan mencabut rumput dilakukan sebelum itu."
+}
