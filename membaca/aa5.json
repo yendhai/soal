@@ -1,0 +1,17 @@
+{
+  "label": ["Apartemen part 1"],
+  "bacaan": {
+    "jenis": "pengumuman",
+    "judul": "エレベーター工事のお知らせ",
+    "isi": "11月20日と21日は、エレベーターの工事があります。\n両日とも、午前9時から午後3時まで、エレベーターが使えません。\n階段を使ってください。\n大きい荷物がある人は、管理室に連絡してください。",
+    "dari": "管理室"
+  },
+  "pertanyaan": { "teks": "大きい荷物がある人は、どうしなければなりませんか。" },
+  "pilihan": [
+    { "teks": "管理室に連絡する", "benar": true },
+    { "teks": "22日まで待つ", "benar": false },
+    { "teks": "荷物を管理人に預ける", "benar": false },
+    { "teks": "工事の日を変えてもらう", "benar": false }
+  ],
+  "penjelasan": "Di pengumuman tertulis <jp>大きい荷物がある人は、管理室に連絡してください</jp>. Orang yang punya barang besar diminta menghubungi kantor pengelola."
+}
