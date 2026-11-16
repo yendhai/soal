@@ -1,23 +1,25 @@
 {
-  "label": ["Jadwal"],
+  "label": ["Apartemen part 1"],
   "bacaan": {
     "jenis": "tabel",
-    "judul": "今週の予定",
+    "judul": "共用施設のご案内",
     "tabel": {
-      "kepala": ["曜日", "時間", "内容"],
+      "kepala": ["施設", "利用時間", "休み"],
       "baris": [
-        ["月", "9:00", "会議"],
-        ["水", "13:00", "工場見学"],
-        ["金", "15:00", "そうじ"]
+        ["洗濯室", "7:00〜22:00", "なし"],
+        ["会議室", "9:00〜18:00", "日曜日"],
+        ["ジム", "6:00〜23:00", "水曜日"],
+        ["駐輪場", "24時間", "なし"]
       ]
-    }
+    },
+    "isi": "利用する前に、管理室で名前を書いてください。"
   },
-  "pertanyaan": { "teks": "工場見学は、何曜日の何時からですか。" },
+  "pertanyaan": { "teks": "日曜日に使えない施設はどれですか。" },
   "pilihan": [
-    { "teks": "月曜日の9時", "benar": false },
-    { "teks": "金曜日の15時", "benar": false },
-    { "teks": "水曜日の9時", "benar": false },
-    { "teks": "水曜日の13時", "benar": true }
+    { "teks": "洗濯室", "benar": false },
+    { "teks": "会議室", "benar": true },
+    { "teks": "ジム", "benar": false },
+    { "teks": "駐輪場", "benar": false }
   ],
-  "penjelasan": "Di tabel, <jp>工場見学</jp> (kunjungan pabrik) ada di baris hari <jp>水</jp> (Rabu) pukul <jp>13:00</jp>."
+  "penjelasan": "Di tabel, kolom libur untuk <jp>会議室</jp> tertulis <jp>日曜日</jp>. Fasilitas lain libur pada hari Rabu atau tidak pernah libur."
 }
