@@ -1,0 +1,25 @@
+{
+  "label": ["Jadwal sampah"],
+  "bacaan": {
+    "jenis": "tabel",
+    "judul": "ごみの日",
+    "tabel": {
+      "kepala": ["ごみの種類", "曜日"],
+      "baris": [
+        ["燃えるごみ", "月・木"],
+        ["燃えないごみ", "第2水曜日"],
+        ["ペットボトル", "金"]
+      ]
+    },
+    "catatan": "※粗大ごみは、ごみ置き場に出さないでください。\n市役所に電話して、取りに来てもらってください。",
+    "isi": "hanya isi"
+  },
+  "pertanyaan": { "teks": "大きいいすを捨てたいとき、どうしますか。" },
+  "pilihan": [
+    { "teks": "月曜日に、ごみ置き場に出す", "benar": false },
+    { "teks": "市役所に電話する", "benar": true },
+    { "teks": "金曜日に、ペットボトルと出す", "benar": false },
+    { "teks": "第2水曜日に、ごみ置き場に出す", "benar": false }
+  ],
+  "penjelasan": "Kursi besar termasuk sampah besar (<jp>粗大ごみ</jp>). Catatan di bawah tabel menyuruh menelepon <jp>市役所</jp>, bukan membuangnya di tempat sampah."
+}
