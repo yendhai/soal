@@ -1,0 +1,19 @@
+{
+  "label": ["Apartemen 2"],
+  "bacaan": {
+    "jenis": "surat",
+    "tanggal": "4月2日",
+    "kepada": "管理人の佐藤さんへ",
+    "judul": "部屋の水もれについて",
+    "isi": "いつもお世話になっております。\n403号室の田中です。\n3日前から、台所の水道の下から水がもれています。\n自分で直そうとしましたが、できませんでした。\n来週の月曜日と火曜日は、仕事で夜まで部屋にいません。\nですから、水曜日の午後に、見に来ていただけませんか。\nよろしくお願いいたします。",
+    "dari": "田中より"
+  },
+  "pertanyaan": { "teks": "田中さんは、いつ管理人に部屋に来てほしいですか。" },
+  "pilihan": [
+    { "teks": "月曜日の夜", "benar": false },
+    { "teks": "火曜日の午後", "benar": false },
+    { "teks": "水曜日の午後", "benar": true },
+    { "teks": "3日前の午後", "benar": false }
+  ],
+  "penjelasan": "Di surat tertulis <jp>水曜日の午後に、見に来ていただけませんか</jp>. Hari Senin dan Selasa Tanaka tidak ada di kamar sampai malam karena bekerja."
+}
