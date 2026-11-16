@@ -1,6 +1,6 @@
 {
   "label": ["Apartemen 1"],
-  "gambar": "aa_memasak",
+  "gambar": "aa_memasak.jpg",
   "pertanyaan": { "teks": "絵の人は台所で【りょうり】をしています。\n【りょうり】を漢字で書くと、どれですか。" },
   "pilihan": [
     { "teks": "料理", "benar": true },
