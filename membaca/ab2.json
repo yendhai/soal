@@ -1,0 +1,17 @@
+{
+  "label": ["Apartemen 2"],
+  "bacaan": {
+    "jenis": "pengumuman",
+    "judul": "ゴミの出し方のルール",
+    "isi": "来月から、ゴミの出し方が少し変わります。\n燃えるゴミは、月曜日と木曜日の朝8時までに出してください。\n燃えないゴミは、第2・第4土曜日です。\nびん・かん・ペットボトルは、毎週水曜日に出してください。\nゴミは、必ず決まった袋に入れてください。\n袋は1階の管理室で売っています。\n大きいゴミは、管理室に電話をして、予約してください。\nルールを守らないゴミは、持って行きません。",
+    "dari": "管理人"
+  },
+  "pertanyaan": { "teks": "びん・かん・ペットボトルはいつ出しますか。" },
+  "pilihan": [
+    { "teks": "毎週水曜日", "benar": true },
+    { "teks": "第2・第4土曜日", "benar": false },
+    { "teks": "月曜日と木曜日", "benar": false },
+    { "teks": "毎週土曜日", "benar": false }
+  ],
+  "penjelasan": "Di pengumuman tertulis <jp>びん・かん・ペットボトルは、毎週水曜日に出してください</jp>. Hari Sabtu minggu ke-2 dan ke-4 adalah untuk sampah tidak terbakar."
+}
