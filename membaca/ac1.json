@@ -1,25 +1,18 @@
 {
-  "label": ["Jadwal sampah"],
+  "label": ["Stasiun 1"],
   "bacaan": {
-    "jenis": "tabel",
-    "judul": "ごみの日",
-    "tabel": {
-      "kepala": ["ごみの種類", "曜日"],
-      "baris": [
-        ["燃えるごみ", "月・木"],
-        ["燃えないごみ", "第2水曜日"],
-        ["ペットボトル", "金"]
-      ]
-    },
-    "catatan": "※粗大ごみは、ごみ置き場に出さないでください。\n市役所に電話して、取りに来てもらってください。",
-    "isi": "hanya isi"
+    "jenis": "pengumuman",
+    "judul": "電車の運転についてのお知らせ",
+    "isi": "今朝の事故のため、中央線は午前7時ごろから、新宿駅と東京駅の間で止まっています。\n運転は、午前10時ごろに始まる予定です。\nそれまでは、地下鉄やバスを使ってください。\nお急ぎのお客様は、改札の駅員にお知らせください。\n切符は、払い戻しができます。",
+    "dari": "中央線 駅長",
+    "catatan": ["※払い戻しは、駅の窓口でします。", "※自動券売機では、できません。"]
   },
-  "pertanyaan": { "teks": "大きいいすを捨てたいとき、どうしますか。" },
+  "pertanyaan": { "teks": "切符の払い戻しをしたいとき、どこへ行きますか。" },
   "pilihan": [
-    { "teks": "月曜日に、ごみ置き場に出す", "benar": false },
-    { "teks": "市役所に電話する", "benar": true },
-    { "teks": "金曜日に、ペットボトルと出す", "benar": false },
-    { "teks": "第2水曜日に、ごみ置き場に出す", "benar": false }
+    { "teks": "駅の窓口", "benar": true },
+    { "teks": "自動券売機", "benar": false },
+    { "teks": "改札の駅員のところ", "benar": false },
+    { "teks": "地下鉄の駅", "benar": false }
   ],
-  "penjelasan": "Kursi besar termasuk sampah besar (<jp>粗大ごみ</jp>). Catatan di bawah tabel menyuruh menelepon <jp>市役所</jp>, bukan membuangnya di tempat sampah."
+  "penjelasan": "Di catatan tertulis <jp>払い戻しは、駅の窓口でします</jp>. Mesin tiket otomatis tidak bisa dipakai, dan petugas di gerbang hanya diberi tahu oleh penumpang yang terburu-buru."
 }
