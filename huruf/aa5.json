@@ -1,0 +1,12 @@
+{
+  "label": ["Apartemen 1"],
+  "gambar": "aa_memasak",
+  "pertanyaan": { "teks": "絵の人は台所で【りょうり】をしています。\n【りょうり】を漢字で書くと、どれですか。" },
+  "pilihan": [
+    { "teks": "料理", "benar": true },
+    { "teks": "科理", "benar": false },
+    { "teks": "料里", "benar": false },
+    { "teks": "斜理", "benar": false }
+  ],
+  "penjelasan": "<jp>料理</jp> dibaca <jp>りょうり</jp>, artinya masakan atau memasak."
+}
