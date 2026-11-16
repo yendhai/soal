@@ -1,19 +1,19 @@
 {
-  "label": ["Surat pribadi"],
+  "label": ["Apartemen part 1"],
   "bacaan": {
     "jenis": "surat",
-    "tanggal": "11月10日",
-    "kepada": "山田さんへ",
-    "judul": "引っ越しのお知らせ",
-    "isi": "お元気ですか。\n来月の5日に、新しいアパートに引っ越します。\n荷物が多いので、手伝ってくれる人がいたら、教えてください。",
-    "dari": "田中より"
+    "tanggal": "3月15日",
+    "kepada": "ミラさんへ",
+    "judul": "引っ越しの日について",
+    "isi": "お元気ですか。\n今度の土曜日に、新しいアパートに引っ越します。\n午前10時にトラックが来るので、ミラさんも手伝ってくれませんか。\n9時に新しいアパートの前に来てください。",
+    "dari": "リーより"
   },
-  "pertanyaan": { "teks": "田中さんは山田さんに何をお願いしていますか。" },
+  "pertanyaan": { "teks": "ミラさんは土曜日にどうしますか。" },
   "pilihan": [
-    { "teks": "新しいアパートを紹介してほしい", "benar": false },
-    { "teks": "引っ越しを手伝ってくれる人を教えてほしい", "benar": true },
-    { "teks": "荷物を預かってほしい", "benar": false },
-    { "teks": "引っ越しの日を変えてほしい", "benar": false }
+    { "teks": "9時半に新しいアパートの前に行く", "benar": false },
+    { "teks": "9時に新しいアパートの前に行く", "benar": true },
+    { "teks": "10時に古い部屋に行く", "benar": false },
+    { "teks": "9時に駅へトラックを迎えに行く", "benar": false }
   ],
-  "penjelasan": "Di surat tertulis <jp>手伝ってくれる人がいたら、教えてください</jp>. Artinya Tanaka meminta Yamada memberi tahu kalau ada orang yang bisa membantu pindahan."
+  "penjelasan": "Di surat tertulis <jp>9時に新しいアパートの前に来てください</jp>. Artinya Mira diminta datang ke depan apartemen baru jam 9, bukan jam 10 saat truk datang."
 }
