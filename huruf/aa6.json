@@ -1,0 +1,11 @@
+{
+  "label": ["Apartemen 1"],
+  "pertanyaan": { "teks": "部屋が暗いので、（　）をつけました。" },
+  "pilihan": [
+    { "teks": "電気", "benar": true },
+    { "teks": "天気", "benar": false },
+    { "teks": "元気", "benar": false },
+    { "teks": "空気", "benar": false }
+  ],
+  "penjelasan": "<jp>電気をつける</jp> berarti menyalakan lampu. <jp>天気</jp> (cuaca), <jp>元気</jp> (sehat), dan <jp>空気</jp> (udara) tidak cocok dengan <jp>つける</jp>."
+}
