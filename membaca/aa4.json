@@ -1,16 +1,16 @@
 {
-  "label": ["Pekerjaan"],
+  "label": ["Apartemen part 1"],
   "bacaan": {
     "jenis": "teks",
-    "judul": "私の仕事",
-    "isi": "私は先月から、食品工場で働いています。\n仕事は朝7時に始まります。\n昼ごはんは、会社の食堂で友だちと食べます。\n仕事のあとは、日本語の勉強をします。"
+    "judul": "新しい部屋",
+    "isi": "私は先月から、駅の近くのアパートに住んでいます。\n部屋は2階で、とても静かです。\nでも、隣の部屋の人は夜遅くまでテレビを見ているので、時々音が聞こえます。\n先週、管理人さんに音のことを相談しました。\n管理人さんは、隣の人に話してくれると言いました。"
   },
-  "pertanyaan": { "teks": "この人は、仕事のあとで何をしますか。" },
+  "pertanyaan": { "teks": "「私」は管理人さんに何を相談しましたか。" },
   "pilihan": [
-    { "teks": "友だちと食堂で食べます", "benar": false },
-    { "teks": "食品工場で働きます", "benar": false },
-    { "teks": "日本語の勉強をします", "benar": true },
-    { "teks": "朝7時に起きます", "benar": false }
+    { "teks": "隣の部屋から聞こえる音のこと", "benar": true },
+    { "teks": "部屋が2階で高いこと", "benar": false },
+    { "teks": "駅から遠いこと", "benar": false },
+    { "teks": "引っ越しの日のこと", "benar": false }
   ],
-  "penjelasan": "Kalimat terakhir berbunyi <jp>仕事のあとは、日本語の勉強をします</jp>. Jadi setelah bekerja, orang ini belajar bahasa Jepang."
+  "penjelasan": "Di teks tertulis <jp>管理人さんに音のことを相談しました</jp>. Suara itu berasal dari tetangga yang menonton TV sampai larut malam."
 }
