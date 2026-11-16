@@ -1,0 +1,25 @@
+{
+  "label": ["Apartemen 2"],
+  "bacaan": {
+    "jenis": "tabel",
+    "judul": "5月の入居者イベント",
+    "tabel": {
+      "kepala": ["日にち", "時間", "イベント", "場所"],
+      "baris": [
+        ["5月10日(土)", "10:00", "防災訓練", "駐車場"],
+        ["5月17日(土)", "14:00", "そうじ", "1階ロビー"],
+        ["5月24日(土)", "18:00", "新しい人の歓迎会", "集会室"],
+        ["5月31日(土)", "10:00", "フリーマーケット", "駐車場"]
+      ]
+    },
+    "isi": "雨の日は、防災訓練とフリーマーケットは中止です。"
+  },
+  "pertanyaan": { "teks": "集会室で行うイベントはどれですか。" },
+  "pilihan": [
+    { "teks": "防災訓練", "benar": false },
+    { "teks": "そうじ", "benar": false },
+    { "teks": "新しい人の歓迎会", "benar": true },
+    { "teks": "フリーマーケット", "benar": false }
+  ],
+  "penjelasan": "Di tabel, kolom tempat untuk <jp>新しい人の歓迎会</jp> tertulis <jp>集会室</jp>. Acara lain diadakan di tempat parkir atau lobi lantai 1."
+}
