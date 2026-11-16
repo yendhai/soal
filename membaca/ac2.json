@@ -1,0 +1,19 @@
+{
+  "label": ["Stasiun 1"],
+  "bacaan": {
+    "jenis": "surat",
+    "tanggal": "9月8日",
+    "kepada": "ソンさんへ",
+    "judul": "待ち合わせの場所について",
+    "isi": "こんにちは。\n今度の日曜日、いっしょに美術館に行きましょう。\n駅の東口で、午前10時に会いたいです。\n東口には、大きい時計があります。\n北口は人が多いので、わかりにくいです。\nもし電車が遅れたら、私にメールしてください。\n美術館までは、バスで15分ぐらいです。",
+    "dari": "ユキより"
+  },
+  "pertanyaan": { "teks": "二人は、日曜日にどこで会いますか。" },
+  "pilihan": [
+    { "teks": "駅の東口", "benar": true },
+    { "teks": "駅の北口", "benar": false },
+    { "teks": "美術館の前", "benar": false },
+    { "teks": "バス乗り場", "benar": false }
+  ],
+  "penjelasan": "Di surat tertulis <jp>駅の東口で、午前10時に会いたいです</jp>. Pintu utara ramai dan sulit dicari, sedangkan museum baru didatangi setelah naik bus."
+}
