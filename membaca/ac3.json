@@ -1,0 +1,26 @@
+{
+  "label": ["Stasiun 1"],
+  "bacaan": {
+    "jenis": "tabel",
+    "judul": "さくら駅 発車時刻表(平日)",
+    "tabel": {
+      "kepala": ["時間", "行き先", "種類", "ホーム"],
+      "baris": [
+        ["8:10", "空港", "急行", "2番線"],
+        ["8:25", "空港", "各駅停車", "1番線"],
+        ["8:40", "市役所前", "急行", "2番線"],
+        ["8:55", "空港", "特急", "3番線"]
+      ]
+    },
+    "catatan": "※特急に乗るときは、特急券が必要です。\n券は改札の前の券売機で買ってください。",
+    "isi": "さくら駅から出る朝の電車の時刻です。"
+  },
+  "pertanyaan": { "teks": "8時55分の電車に乗るために、しなければならないことは何ですか。" },
+  "pilihan": [
+    { "teks": "特急券を買う", "benar": true },
+    { "teks": "急行券を買う", "benar": false },
+    { "teks": "市役所前行きの切符を買う", "benar": false },
+    { "teks": "1番線で待つ", "benar": false }
+  ],
+  "penjelasan": "Kereta jam 8:55 adalah <jp>特急</jp> di jalur 3. Catatan di bawah tabel menyebut <jp>特急券が必要です</jp>, jadi penumpang harus membeli tiket ekspres khusus."
+}
