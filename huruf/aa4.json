@@ -1,6 +1,6 @@
 {
   "label": ["Apartemen 1"],
-  "situasi": {"gambar": "aa_gosokgigi.jpg"},
+  "situasi": {"gambar": "aa_gosokgigi"},
   "pertanyaan": { "teks": "絵の人は【は】をみがいています。\n【は】を漢字で書くと、どれですか。" },
   "pilihan": [
     { "teks": "歯", "benar": true },
