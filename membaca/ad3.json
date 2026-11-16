@@ -1,0 +1,26 @@
+{
+  "label": ["Taman 1"],
+  "bacaan": {
+    "jenis": "tabel",
+    "judul": "さくら公園の施設のご案内",
+    "tabel": {
+      "kepala": ["施設", "時間", "料金", "予約"],
+      "baris": [
+        ["テニスコート", "9:00〜17:00", "1時間 600円", "必要"],
+        ["野球場", "9:00〜17:00", "2時間 3000円", "必要"],
+        ["ボート", "10:00〜16:00", "30分 800円", "いらない"],
+        ["自転車", "10:00〜17:00", "1時間 300円", "いらない"]
+      ]
+    },
+    "catatan": "※小学生以下の子どもは、大人といっしょに使ってください。\n※雨の日は、ボートは使えません。",
+    "isi": "さくら公園で使える施設の時間と料金です。"
+  },
+  "pertanyaan": { "teks": "雨の日に使えない施設はどれですか。" },
+  "pilihan": [
+    { "teks": "テニスコート", "benar": false },
+    { "teks": "野球場", "benar": false },
+    { "teks": "ボート", "benar": true },
+    { "teks": "自転車", "benar": false }
+  ],
+  "penjelasan": "Di catatan tertulis <jp>雨の日は、ボートは使えません</jp>. Fasilitas lain tidak disebut dilarang saat hujan."
+}
