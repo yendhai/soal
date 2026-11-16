@@ -1,6 +1,6 @@
 {
   "label": ["Apartemen 1"],
-  "gambar": "aa_tidur.jpg",
+  "situasi": { "gambar": "aa_tidur" },
   "pertanyaan": { "teks": "絵の人は【寝て】います。\n【寝て】の読み方はどれですか。" },
   "pilihan": [
     { "teks": "ねて", "benar": true },
