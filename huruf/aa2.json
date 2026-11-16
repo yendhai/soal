@@ -1,0 +1,11 @@
+{
+  "label": ["Apartemen 1"],
+  "pertanyaan": { "teks": "このアパートは【部屋】が二つあります。\n【部屋】の読み方はどれですか。" },
+  "pilihan": [
+    { "teks": "へや", "benar": true },
+    { "teks": "へいや", "benar": false },
+    { "teks": "べや", "benar": false },
+    { "teks": "ふや", "benar": false }
+  ],
+  "penjelasan": "<jp>部屋</jp> dibaca <jp>へや</jp>, artinya kamar atau ruangan."
+}
