@@ -1,0 +1,25 @@
+{
+  "label": ["Apartemen part 1"],
+  "bacaan": {
+    "jenis": "tabel",
+    "judul": "空き部屋のご案内",
+    "tabel": {
+      "kepala": ["部屋", "広さ", "家賃", "駅から"],
+      "baris": [
+        ["201号室", "25㎡", "5万5000円", "徒歩5分"],
+        ["305号室", "30㎡", "6万3000円", "徒歩5分"],
+        ["402号室", "30㎡", "6万円", "徒歩10分"],
+        ["501号室", "20㎡", "5万円", "徒歩15分"]
+      ]
+    },
+    "isi": "家賃に管理費は入っていません。"
+  },
+  "pertanyaan": { "teks": "広さが30㎡で、家賃が一番安い部屋はどれですか。" },
+  "pilihan": [
+    { "teks": "201号室", "benar": false },
+    { "teks": "305号室", "benar": false },
+    { "teks": "402号室", "benar": true },
+    { "teks": "501号室", "benar": false }
+  ],
+  "penjelasan": "Kamar berukuran 30㎡ ada dua: <jp>305号室</jp> (63.000 yen) dan <jp>402号室</jp> (60.000 yen). Yang lebih murah adalah 402."
+}
