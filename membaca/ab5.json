@@ -1,0 +1,16 @@
+{
+  "label": ["Apartemen 2"],
+  "bacaan": {
+    "jenis": "teks",
+    "judul": "アパートでの生活",
+    "isi": "私は半年前に、このアパートに引っ越してきました。\n部屋は少し小さいですが、駅から歩いて3分なので、とても便利です。\nこのアパートには、洗濯室と自転車置き場があります。\n洗濯室は、朝7時から夜10時まで使えます。\n最初は、洗濯機の使い方がわかりませんでした。\nでも、隣の部屋のキムさんが、親切に教えてくれました。\nそれから、キムさんとはよく話すようになりました。\n今は、休みの日に、いっしょに料理をして食べることもあります。"
+  },
+  "pertanyaan": { "teks": "「私」は、だれに洗濯機の使い方を教えてもらいましたか。" },
+  "pilihan": [
+    { "teks": "管理人さん", "benar": false },
+    { "teks": "隣の部屋のキムさん", "benar": true },
+    { "teks": "同じ会社の人", "benar": false },
+    { "teks": "前の部屋に住んでいた人", "benar": false }
+  ],
+  "penjelasan": "Di teks tertulis <jp>隣の部屋のキムさんが、親切に教えてくれました</jp>. Kim adalah tetangga sebelah kamar yang mengajarkan cara memakai mesin cuci."
+}
