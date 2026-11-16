@@ -1,0 +1,19 @@
+{
+  "label": ["Taman 1"],
+  "bacaan": {
+    "jenis": "surat",
+    "tanggal": "6月12日",
+    "kepada": "公園管理事務所の皆様へ",
+    "judul": "忘れ物について",
+    "isi": "先週の土曜日の午後、さくら公園のベンチに、青い傘を忘れました。\n白い取っ手がついていて、名前のシールが付いています。\n3時ごろまで、池の近くのベンチにいました。\nもし見つかったら、連絡をいただけませんか。\n平日は夜7時まで電話に出られませんので、メールでお願いします。",
+    "dari": "鈴木より"
+  },
+  "pertanyaan": { "teks": "鈴木さんは、見つかったらどうしてほしいですか。" },
+  "pilihan": [
+    { "teks": "メールで連絡してほしい", "benar": true },
+    { "teks": "夜7時前に電話してほしい", "benar": false },
+    { "teks": "管理事務所に預けてほしい", "benar": false },
+    { "teks": "家まで届けてほしい", "benar": false }
+  ],
+  "penjelasan": "Di surat tertulis <jp>平日は夜7時まで電話に出られませんので、メールでお願いします</jp>. Jadi Suzuki ingin dihubungi lewat email."
+}
