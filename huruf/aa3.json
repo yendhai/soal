@@ -1,0 +1,11 @@
+{
+  "label": ["Apartemen 1"],
+  "pertanyaan": { "teks": "【台所】で料理をします。\n【台所】の読み方はどれですか。" },
+  "pilihan": [
+    { "teks": "だいどころ", "benar": true },
+    { "teks": "たいどころ", "benar": false },
+    { "teks": "だいところ", "benar": false },
+    { "teks": "だいしょ", "benar": false }
+  ],
+  "penjelasan": "<jp>台所</jp> dibaca <jp>だいどころ</jp>, artinya dapur."
+}
