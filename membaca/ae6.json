@@ -1,0 +1,19 @@
+{
+  "label": ["Konbini 1"],
+  "bacaan": {
+    "jenis": "surat",
+    "tanggal": "12月10日",
+    "kepada": "リンさんへ",
+    "judul": "宅配便のお受け取りについて",
+    "isi": "いつもさくらマートをご利用いただき、ありがとうございます。\nリンさん宛ての荷物が、12月9日に当店に届きました。\n荷物は、受け取りの期限まで、レジの後ろで預かっています。\n期限は、12月16日の午後8時までです。\n受け取るときは、この連絡のメールと、身分証明書を持ってきてください。\n期限を過ぎると、荷物は送り主に戻されます。\n12月12日は、棚卸しのため、午前中は荷物を渡すことができません。\nご不便をおかけして、申し訳ございません。",
+    "dari": "さくらマート 駅前店"
+  },
+  "pertanyaan": { "teks": "荷物を受け取ることができないのは、いつですか。" },
+  "pilihan": [
+    { "teks": "12月10日の午後", "benar": false },
+    { "teks": "12月12日の午前中", "benar": true },
+    { "teks": "12月12日の午後", "benar": false },
+    { "teks": "12月15日の夜", "benar": false }
+  ],
+  "penjelasan": "Di surat tertulis <jp>12月12日は、棚卸しのため、午前中は荷物を渡すことができません</jp>. Pada waktu lain sampai batas 16 Desember pukul 20.00 paket masih bisa diambil."
+}
