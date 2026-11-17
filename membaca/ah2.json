@@ -1,0 +1,25 @@
+{
+  "label": ["Gunung 1"],
+  "bacaan": {
+    "jenis": "tabel",
+    "judul": "ふじみ山 登山コースの案内",
+    "tabel": {
+      "kepala": ["コース", "歩く時間", "むずかしさ", "山小屋"],
+      "baris": [
+        ["Aコース", "3時間", "やさしい", "ある"],
+        ["Bコース", "4時間30分", "ふつう", "ない"],
+        ["Cコース", "6時間", "むずかしい", "ある"]
+      ]
+    },
+    "catatan": "※Cコースは、7月から9月だけ通れます。\n※山小屋に泊まる人は、1か月前までに予約してください。\n※下りは、のぼりの半分の時間で歩けます。",
+    "isi": "ふじみ山には、3つのコースがあります。歩く時間は、のぼりの時間です。"
+  },
+  "pertanyaan": { "teks": "Bコースを下りるとき、どのぐらい時間がかかりますか。" },
+  "pilihan": [
+    { "teks": "4時間30分", "benar": false },
+    { "teks": "2時間15分", "benar": true },
+    { "teks": "3時間", "benar": false },
+    { "teks": "2時間", "benar": false }
+  ],
+  "penjelasan": "Waktu naik jalur B adalah 4 jam 30 menit, dan catatan menyebut <jp>下りは、のぼりの半分の時間で歩けます</jp>. Setengahnya adalah 2 jam 15 menit."
+}
