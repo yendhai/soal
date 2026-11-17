@@ -1,0 +1,11 @@
+{
+  "label": ["Mendekati gunung"],
+  "pertanyaan": { "teks": "山の上は風がつよくて、（　）ので、上着を着ました。" },
+  "pilihan": [
+    { "teks": "寒い", "benar": true },
+    { "teks": "暑い", "benar": false },
+    { "teks": "重い", "benar": false },
+    { "teks": "長い", "benar": false }
+  ],
+  "penjelasan": "<jp>寒い</jp> dibaca <jp>さむい</jp>, artinya dingin, sehingga cocok sebagai alasan memakai jaket. <jp>暑い</jp> (panas) berlawanan arti."
+}
