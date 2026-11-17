@@ -1,0 +1,18 @@
+{
+  "label": "Membuang sampah",
+  "situasi": {
+    "teks": "空のペットボトルがあります。どうやって分けて捨てるか分かりません。友だちに聞きます。",
+    "gambar": ""
+  },
+  "pertanyaan": {
+    "teks": "何と言いますか。",
+    "gambar": ""
+  },
+  "pilihan": [
+    { "teks": "すみません、このペットボトルは、どうやって飲みますか。", "gambar": "", "benar": false },
+    { "teks": "すみません、このペットボトルは、どのごみに入れますか。", "gambar": "", "benar": true },
+    { "teks": "すみません、このペットボトルは、いつ買いましたか。", "gambar": "", "benar": false },
+    { "teks": "すみません、このペットボトルは、いくらですか。", "gambar": "", "benar": false }
+  ],
+  "penjelasan": "Untuk menanyakan jenis sampah yang tepat, pakai <jp>どのごみに入れますか</jp>, yang berarti 'dimasukkan ke jenis sampah yang mana'. <jp>どうやって飲みますか</jp> menanyakan cara meminum, <jp>いつ買いましたか</jp> menanyakan waktu membeli, dan <jp>いくらですか</jp> menanyakan harga, jadi tidak sesuai dengan keinginan memilah sampah."
+}
