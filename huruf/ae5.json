@@ -1,0 +1,11 @@
+{
+  "label": ["Musim panas"],
+  "pertanyaan": { "teks": "のどがかわいたので、冷たい【みず】をのみました。\n【みず】を漢字で書くと、どれですか。" },
+  "pilihan": [
+    { "teks": "水", "benar": true },
+    { "teks": "氷", "benar": false },
+    { "teks": "永", "benar": false },
+    { "teks": "求", "benar": false }
+  ],
+  "penjelasan": "<jp>水</jp> dibaca <jp>みず</jp>, artinya air. <jp>氷</jp> (es) dan <jp>永</jp> (abadi) bentuknya mirip tetapi artinya berbeda."
+}
