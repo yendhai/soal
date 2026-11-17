@@ -1,0 +1,12 @@
+{
+  "label": ["Mendekati gunung"],
+  "situasi": { "gambar": "ad_melukis" },
+  "pertanyaan": { "teks": "この人は山の【絵】をかいています。\n【絵】の読み方はどれですか。" },
+  "pilihan": [
+    { "teks": "え", "benar": true },
+    { "teks": "えい", "benar": false },
+    { "teks": "ええ", "benar": false },
+    { "teks": "いえ", "benar": false }
+  ],
+  "penjelasan": "<jp>絵</jp> dibaca <jp>え</jp>, artinya gambar atau lukisan. <jp>絵をかく</jp> berarti melukis."
+}
