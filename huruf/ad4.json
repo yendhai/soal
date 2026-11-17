@@ -1,5 +1,5 @@
 {
-  "label": ["Mendekati gunung"],
+  "label": ["Mendaki gunung"],
   "pertanyaan": { "teks": "山の上の【そら】はとてもあおいです。\n【そら】を漢字で書くと、どれですか。" },
   "pilihan": [
     { "teks": "空", "benar": true },
