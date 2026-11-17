@@ -1,0 +1,11 @@
+{
+  "label": ["Taman 1"],
+  "pertanyaan": { "teks": "日曜日に【公園】へ行きます。\n【公園】の読み方はどれですか。" },
+  "pilihan": [
+    { "teks": "こうえん", "benar": true },
+    { "teks": "こうえい", "benar": false },
+    { "teks": "ごうえん", "benar": false },
+    { "teks": "こえん", "benar": false }
+  ],
+  "penjelasan": "<jp>公園</jp> dibaca <jp>こうえん</jp>, artinya taman atau taman bermain."
+}
