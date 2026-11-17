@@ -1,0 +1,11 @@
+{
+  "label": ["Apartemen 2"],
+  "pertanyaan": { "teks": "新しいアパートは台所が【ひろい】です。\n【ひろい】を漢字で書くと、どれですか。" },
+  "pilihan": [
+    { "teks": "広い", "benar": true },
+    { "teks": "庁い", "benar": false },
+    { "teks": "応い", "benar": false },
+    { "teks": "店い", "benar": false }
+  ],
+  "penjelasan": "<jp>広い</jp> dibaca <jp>ひろい</jp>, artinya luas."
+}
