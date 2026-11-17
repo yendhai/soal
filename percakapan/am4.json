@@ -1,0 +1,18 @@
+{
+  "label": "Membuang sampah",
+  "situasi": {
+    "teks": "アパートのごみのルールを読んでいます。\n「ごみは朝の八時までに出します。夜は、ごみを出して（　　）。」",
+    "gambar": ""
+  },
+  "pertanyaan": {
+    "teks": "（　　）に入る言葉はどれですか。",
+    "gambar": ""
+  },
+  "pilihan": [
+    { "teks": "もいいです", "gambar": "", "benar": false },
+    { "teks": "ください", "gambar": "", "benar": false },
+    { "teks": "はいけません", "gambar": "", "benar": true },
+    { "teks": "あげます", "gambar": "", "benar": false }
+  ],
+  "penjelasan": "<jp>〜てはいけません</jp> berarti 'tidak boleh ...', jadi <jp>夜は、ごみを出してはいけません</jp> artinya 'pada malam hari tidak boleh membuang sampah'. <jp>出してもいいです</jp> berarti 'boleh mengeluarkan', <jp>出してください</jp> berarti 'tolong keluarkan', dan <jp>出してあげます</jp> berarti 'saya keluarkan untuk Anda', sehingga bertentangan dengan aturan yang menyebut batas jam pagi."
+}
