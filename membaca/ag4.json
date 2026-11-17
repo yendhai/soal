@@ -1,0 +1,26 @@
+{
+  "label": ["Pantai 1"],
+  "bacaan": {
+    "jenis": "tabel",
+    "judul": "潮干狩りができる時間(8月)",
+    "tabel": {
+      "kepala": ["日にち", "干潮の時間", "天気"],
+      "baris": [
+        ["8月1日(土)", "10:30", "晴れ"],
+        ["8月2日(日)", "11:20", "雨"],
+        ["8月3日(月)", "12:10", "くもり"],
+        ["8月4日(火)", "13:00", "晴れ"]
+      ]
+    },
+    "catatan": "※雨の日は、潮干狩りができません。\n※入場料は、大人500円、子ども300円です。",
+    "isi": "潮干狩りは、干潮の時間の1時間前から1時間後まで、合わせて2時間できます。"
+  },
+  "pertanyaan": { "teks": "8月3日に潮干狩りができるのは、何時から何時までですか。" },
+  "pilihan": [
+    { "teks": "午前11時10分から午後1時10分まで", "benar": true },
+    { "teks": "午後12時10分から午後2時10分まで", "benar": false },
+    { "teks": "午前11時20分から午後1時20分まで", "benar": false },
+    { "teks": "午前10時10分から午後0時10分まで", "benar": false }
+  ],
+  "penjelasan": "Surut pada 3 Agustus jam 12:10 dan cuacanya berawan, jadi masih boleh. Karena boleh <jp>1時間前から1時間後まで</jp>, waktunya 11:10 sampai 13:10."
+}
