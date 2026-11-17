@@ -1,0 +1,11 @@
+{
+  "label": ["Mendekati gunung"],
+  "pertanyaan": { "teks": "山の上の【そら】はとてもあおいです。\n【そら】を漢字で書くと、どれですか。" },
+  "pilihan": [
+    { "teks": "空", "benar": true },
+    { "teks": "突", "benar": false },
+    { "teks": "究", "benar": false },
+    { "teks": "穴", "benar": false }
+  ],
+  "penjelasan": "<jp>空</jp> dibaca <jp>そら</jp>, artinya langit."
+}
