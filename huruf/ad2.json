@@ -1,5 +1,5 @@
 {
-  "label": ["Mendekati gunung"],
+  "label": ["Mendaki gunung"],
   "situasi": { "gambar": "ad_melukis" },
   "pertanyaan": { "teks": "この人は山の【絵】をかいています。\n【絵】の読み方はどれですか。" },
   "pilihan": [
