@@ -1,0 +1,18 @@
+{
+  "label": ["Pantai 1"],
+  "bacaan": {
+    "jenis": "pengumuman",
+    "judul": "さくら海水浴場からのお願い",
+    "isi": "海水浴ができるのは、7月15日から8月31日までです。\n泳げる時間は、午前9時から午後4時までです。\nライフセーバーがいるのは、青い旗が立っている所だけです。必ず、その近くで泳いでください。\nお酒を飲んで、海に入ってはいけません。\n花火は、決まった場所でしてください。海岸の砂浜では、花火はできません。\nごみは、持って帰ってください。\n貴重品は、ロッカーに入れてください。ロッカーは、1回500円です。",
+    "dari": "さくら町 観光課",
+    "catatan": ["※バーベキューは、駐車場の横の広場だけでできます。", "※ペットは、海に入れません。"]
+  },
+  "pertanyaan": { "teks": "花火をしたいとき、どうしなければなりませんか。" },
+  "pilihan": [
+    { "teks": "決まった場所でする", "benar": true },
+    { "teks": "砂浜の端でする", "benar": false },
+    { "teks": "駐車場の横の広場でする", "benar": false },
+    { "teks": "午後4時までにする", "benar": false }
+  ],
+  "penjelasan": "Di pengumuman tertulis <jp>花火は、決まった場所でしてください</jp>. Lapangan di samping parkir hanya untuk barbekyu, dan di pasir pantai kembang api tidak boleh."
+}
