@@ -1,0 +1,18 @@
+{
+  "label": ["Gunung 1"],
+  "bacaan": {
+    "jenis": "pengumuman",
+    "judul": "登山者の皆様へ(大切なお知らせ)",
+    "isi": "10月からは、山の上の気温が、0度ぐらいまで下がります。\n登る前に、天気予報を必ず見てください。\n午後は天気が悪くなることが多いので、朝5時までに出発することをおすすめします。\n水は、1人1リットル以上持って行ってください。山小屋では、水を売っていますが、1本400円です。\n登山届は、入り口のポストに入れてください。\nトイレは、山小屋の前にしかありません。\nごみは、必ず持って帰ってください。",
+    "dari": "ふじみ山 登山管理事務所",
+    "catatan": "※10月15日から、山小屋は冬の準備のため、休みになります。"
+  },
+  "pertanyaan": { "teks": "10月20日に登る人は、どうしなければなりませんか。" },
+  "pilihan": [
+    { "teks": "山小屋で水を買う", "benar": false },
+    { "teks": "水を1リットル以上持って行く", "benar": true },
+    { "teks": "山小屋に泊まって、朝出発する", "benar": false },
+    { "teks": "登山届を山小屋に出す", "benar": false }
+  ],
+  "penjelasan": "Pondok tutup mulai 15 Oktober, jadi air tidak bisa dibeli di sana. Karena itu harus membawa sendiri, sesuai <jp>水は、1人1リットル以上持って行ってください</jp>."
+}
