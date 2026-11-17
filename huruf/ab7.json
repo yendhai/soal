@@ -1,0 +1,11 @@
+{
+  "label": ["Apartemen 2"],
+  "pertanyaan": { "teks": "このテレビは（　）ので、新しいのを買いました。" },
+  "pilihan": [
+    { "teks": "古い", "benar": true },
+    { "teks": "暗い", "benar": false },
+    { "teks": "短い", "benar": false },
+    { "teks": "近い", "benar": false }
+  ],
+  "penjelasan": "<jp>古い</jp> dibaca <jp>ふるい</jp>, artinya tua atau lama, sehingga cocok sebagai alasan membeli yang baru."
+}
