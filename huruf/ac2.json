@@ -1,0 +1,12 @@
+{
+  "label": ["Taman 1"],
+  "situasi": { "gambar": "ac_memancing" },
+  "pertanyaan": { "teks": "絵の人は川で【さかな】をつっています。\n【さかな】を漢字で書くと、どれですか。" },
+  "pilihan": [
+    { "teks": "魚", "benar": true },
+    { "teks": "漁", "benar": false },
+    { "teks": "鳥", "benar": false },
+    { "teks": "馬", "benar": false }
+  ],
+  "penjelasan": "<jp>魚</jp> dibaca <jp>さかな</jp>, artinya ikan. <jp>魚をつる</jp> berarti memancing ikan."
+}
