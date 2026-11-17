@@ -1,0 +1,12 @@
+{
+  "label": ["Musim panas"],
+  "situasi": { "gambar": "ae_pantai" },
+  "pertanyaan": { "teks": "絵の人は海で【泳いで】います。\n【泳いで】の読み方はどれですか。" },
+  "pilihan": [
+    { "teks": "およいで", "benar": true },
+    { "teks": "およんで", "benar": false },
+    { "teks": "おようで", "benar": false },
+    { "teks": "ながいで", "benar": false }
+  ],
+  "penjelasan": "<jp>泳いで</jp> dibaca <jp>およいで</jp>, bentuk te dari <jp>泳ぐ</jp>, artinya berenang."
+}
