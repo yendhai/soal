@@ -1,0 +1,18 @@
+{
+  "label": "Membuang sampah",
+  "situasi": {
+    "teks": "朝、となりの人が言いました。\n「今日は、燃えるごみの日ですよ。」あなたは知りませんでした。",
+    "gambar": ""
+  },
+  "pertanyaan": {
+    "teks": "あなたは何と言いますか。",
+    "gambar": ""
+  },
+  "pilihan": [
+    { "teks": "あ、そうですか。教えてくれて、ありがとうございます。", "gambar": "", "benar": true },
+    { "teks": "あ、そうですか。いってきます。", "gambar": "", "benar": false },
+    { "teks": "あ、そうですか。ごめんください。", "gambar": "", "benar": false },
+    { "teks": "あ、そうですか。いただきます。", "gambar": "", "benar": false }
+  ],
+  "penjelasan": "Setelah tetangga memberi tahu bahwa hari ini jadwal sampah yang bisa dibakar (<jp>燃えるごみ</jp>), ucapkan terima kasih dengan <jp>教えてくれて、ありがとうございます</jp>, 'terima kasih sudah memberi tahu'. <jp>いってきます</jp> diucapkan saat berangkat dari rumah, <jp>ごめんください</jp> diucapkan saat bertamu, dan <jp>いただきます</jp> diucapkan sebelum makan."
+}
