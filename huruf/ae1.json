@@ -1,0 +1,12 @@
+{
+  "label": ["Musim panas"],
+  "situasi": { "gambar": "ae_kepanasan" },
+  "pertanyaan": { "teks": "絵の人は家の中でも【暑い】と言っています。\n【暑い】の読み方はどれですか。" },
+  "pilihan": [
+    { "teks": "あつい", "benar": true },
+    { "teks": "あっつい", "benar": false },
+    { "teks": "あづい", "benar": false },
+    { "teks": "あずい", "benar": false }
+  ],
+  "penjelasan": "<jp>暑い</jp> dibaca <jp>あつい</jp>, artinya panas (cuaca atau suhu udara)."
+}
