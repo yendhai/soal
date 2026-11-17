@@ -1,5 +1,5 @@
 {
-  "label": ["Mendekati gunung"],
+  "label": ["Mendaki gunung"],
   "pertanyaan": { "teks": "山で道がわからなくなったので、（　）を見ました。" },
   "pilihan": [
     { "teks": "地図", "benar": true },
