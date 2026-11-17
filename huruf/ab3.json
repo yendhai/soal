@@ -1,0 +1,12 @@
+{
+  "label": ["Apartemen 2"],
+  "situasi": { "gambar": "ab_lapmeja" },
+  "pertanyaan": { "teks": "絵の人は【つくえ】をふいています。\n【つくえ】を漢字で書くと、どれですか。" },
+  "pilihan": [
+    { "teks": "机", "benar": true },
+    { "teks": "札", "benar": false },
+    { "teks": "村", "benar": false },
+    { "teks": "材", "benar": false }
+  ],
+  "penjelasan": "<jp>机</jp> dibaca <jp>つくえ</jp>, artinya meja (meja belajar atau meja kerja)."
+}
