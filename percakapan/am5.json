@@ -1,0 +1,18 @@
+{
+  "label": "Membuang sampah",
+  "situasi": {
+    "teks": "新しいアパートに住み始めました。燃えるごみを出す曜日が分かりません。となりの人に聞きます。",
+    "gambar": ""
+  },
+  "pertanyaan": {
+    "teks": "何と言いますか。",
+    "gambar": ""
+  },
+  "pilihan": [
+    { "teks": "すみません、ごみ袋は、何枚ありますか。", "gambar": "", "benar": false },
+    { "teks": "すみません、燃えるごみは、何曜日に出しますか。", "gambar": "", "benar": true },
+    { "teks": "すみません、燃えるごみの日は、きのうでしたか。", "gambar": "", "benar": false },
+    { "teks": "すみません、燃えるごみは、だれが出しましたか。", "gambar": "", "benar": false }
+  ],
+  "penjelasan": "Untuk menanyakan hari pembuangan sampah, pakai <jp>何曜日に出しますか</jp>, yang berarti 'dikeluarkan pada hari apa'. <jp>ごみ袋は、何枚ありますか</jp> menanyakan jumlah kantong sampah, <jp>きのうでしたか</jp> menanyakan apakah jadwalnya kemarin, dan <jp>だれが出しましたか</jp> menanyakan siapa yang mengeluarkan, jadi tidak sesuai dengan keinginan mengetahui hari pembuangan."
+}
