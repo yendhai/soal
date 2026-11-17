@@ -1,5 +1,5 @@
 {
-  "label": ["Mendekati gunung"],
+  "label": ["Mendaki gunung"],
   "pertanyaan": { "teks": "日本には【火（　）】がたくさんあります。\n（　）に入る漢字はどれですか。" },
   "pilihan": [
     { "teks": "山", "benar": true },
