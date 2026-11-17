@@ -1,0 +1,18 @@
+{
+  "label": "Membuang sampah",
+  "situasi": {
+    "teks": "ごみの出し方を友だちに教えています。\n「ペットボトルは、ふたとラベルを（　　）から、出してください。」",
+    "gambar": ""
+  },
+  "pertanyaan": {
+    "teks": "（　　）に入る言葉はどれですか。",
+    "gambar": ""
+  },
+  "pilihan": [
+    { "teks": "つけて", "gambar": "", "benar": false },
+    { "teks": "のせて", "gambar": "", "benar": false },
+    { "teks": "かけて", "gambar": "", "benar": false },
+    { "teks": "とって", "gambar": "", "benar": true }
+  ],
+  "penjelasan": "<jp>ふたとラベルをとって</jp> berarti 'lepaskan tutup dan labelnya'. <jp>つけて</jp> berarti memasang, yang berlawanan dengan melepas, <jp>のせて</jp> berarti meletakkan di atas, dan <jp>かけて</jp> berarti menggantung atau memasang, sehingga tidak cocok untuk menyiapkan botol plastik sebelum dibuang."
+}
