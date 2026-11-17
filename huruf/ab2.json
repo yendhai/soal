@@ -1,0 +1,12 @@
+{
+  "label": ["Apartemen 2"],
+  "situasi": { "gambar": "ab_bersih" },
+  "pertanyaan": { "teks": "絵の人は部屋の【掃除】をしています。\n【掃除】の読み方はどれですか。" },
+  "pilihan": [
+    { "teks": "そうじ", "benar": true },
+    { "teks": "そうし", "benar": false },
+    { "teks": "そじ", "benar": false },
+    { "teks": "しょうじ", "benar": false }
+  ],
+  "penjelasan": "<jp>掃除</jp> dibaca <jp>そうじ</jp>, artinya bersih-bersih atau membersihkan."
+}
