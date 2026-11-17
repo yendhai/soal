@@ -1,0 +1,19 @@
+{
+  "label": ["Pantai 1"],
+  "bacaan": {
+    "jenis": "surat",
+    "tanggal": "7月20日",
+    "kepada": "アリさんへ",
+    "judul": "海に行く相談",
+    "isi": "お元気ですか。毎日暑いですね。\n来月の8日(土)に、会社の友達4人で、海に行くことになりました。アリさんもいっしょに行きませんか。\n朝6時に、駅の前に集まって、車で行きます。海までは、高速道路で2時間ぐらいかかります。\n車は、田中さんが運転してくれます。ガソリン代と高速代は、みんなで分けます。1人2000円ぐらいになると思います。\n海では、泳いだり、バーベキューをしたりする予定です。肉や野菜は、私が買っておきます。\nアリさんは、飲み物とタオルをお願いします。水着も忘れないでくださいね。\n帰りは、夕方5時に海を出る予定です。\n行けるかどうか、今月の25日までに、返事をください。",
+    "dari": "ゆうこより"
+  },
+  "pertanyaan": { "teks": "アリさんは、いつまでに返事をしなければなりませんか。" },
+  "pilihan": [
+    { "teks": "7月25日まで", "benar": true },
+    { "teks": "8月8日まで", "benar": false },
+    { "teks": "8月25日まで", "benar": false },
+    { "teks": "7月20日まで", "benar": false }
+  ],
+  "penjelasan": "Surat ini bertanggal 20 Juli dan tertulis <jp>今月の25日までに、返事をください</jp>. Jadi batasnya 25 Juli, bukan 8 Agustus yang merupakan hari pergi ke pantai."
+}
