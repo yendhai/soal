@@ -1,0 +1,12 @@
+{
+  "label": ["Apartemen 2"],
+  "situasi": { "gambar": "ab_membaca" },
+  "pertanyaan": { "teks": "絵の人は本を【読んで】います。\n【読んで】の読み方はどれですか。" },
+  "pilihan": [
+    { "teks": "よんで", "benar": true },
+    { "teks": "よって", "benar": false },
+    { "teks": "よいで", "benar": false },
+    { "teks": "どんで", "benar": false }
+  ],
+  "penjelasan": "<jp>読んで</jp> dibaca <jp>よんで</jp>, bentuk te dari <jp>読む</jp>, artinya membaca."
+}
