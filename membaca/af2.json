@@ -1,0 +1,19 @@
+{
+  "label": ["Kebun binatang 1"],
+  "bacaan": {
+    "jenis": "surat",
+    "tanggal": "10月20日",
+    "kepada": "保護者の皆様へ",
+    "judul": "動物園への遠足について",
+    "isi": "秋の遠足で、5年生は、さくら動物園に行きます。\n日時は、11月8日(金)、午前8時30分に学校に集まってください。\n動物園までは、バスで行きます。雨が降っても、遠足はあります。\n昼ごはんは、お弁当を持たせてください。飲み物は、水かお茶だけにしてください。\nおやつは、500円までです。\nバスで酔いやすい子は、前の席に座ります。薬が必要な場合は、先生に伝えてください。\n11月1日までに、同意書を出してください。",
+    "dari": "5年1組担任 山本"
+  },
+  "pertanyaan": { "teks": "保護者は、11月1日までに何をしなければなりませんか。" },
+  "pilihan": [
+    { "teks": "同意書を出す", "benar": true },
+    { "teks": "お弁当を学校に預ける", "benar": false },
+    { "teks": "酔い止めの薬を先生に渡す", "benar": false },
+    { "teks": "おやつのお金を払う", "benar": false }
+  ],
+  "penjelasan": "Di surat tertulis <jp>11月1日までに、同意書を出してください</jp>. Soal obat hanya perlu diberi tahu kepada guru jika diperlukan, tanpa batas tanggal."
+}
