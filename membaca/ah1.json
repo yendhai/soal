@@ -1,0 +1,25 @@
+{
+  "label": ["Gunung 1"],
+  "bacaan": {
+    "jenis": "tabel",
+    "judul": "ふじみ山 登山コースの案内",
+    "tabel": {
+      "kepala": ["コース", "歩く時間", "むずかしさ", "山小屋"],
+      "baris": [
+        ["Aコース", "3時間", "やさしい", "ある"],
+        ["Bコース", "4時間30分", "ふつう", "ない"],
+        ["Cコース", "6時間", "むずかしい", "ある"]
+      ]
+    },
+    "catatan": "※Cコースは、7月から9月だけ通れます。\n※山小屋に泊まる人は、1か月前までに予約してください。\n※下りは、のぼりの半分の時間で歩けます。",
+    "isi": "ふじみ山には、3つのコースがあります。歩く時間は、のぼりの時間です。"
+  },
+  "pertanyaan": { "teks": "5月に山小屋に泊まりたい人は、どのコースを選びますか。" },
+  "pilihan": [
+    { "teks": "Aコース", "benar": true },
+    { "teks": "Bコース", "benar": false },
+    { "teks": "Cコース", "benar": false },
+    { "teks": "どのコースも泊まれない", "benar": false }
+  ],
+  "penjelasan": "Jalur yang punya pondok adalah A dan C, tetapi <jp>Cコースは、7月から9月だけ通れます</jp>. Jadi pada bulan Mei yang bisa dipilih hanya jalur A."
+}
