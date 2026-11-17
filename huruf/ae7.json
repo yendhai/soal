@@ -1,0 +1,11 @@
+{
+  "label": ["Musim panas"],
+  "pertanyaan": { "teks": "夏は【つめたい】ジュースがおいしいです。\n【つめたい】を漢字で書くと、どれですか。" },
+  "pilihan": [
+    { "teks": "冷たい", "benar": true },
+    { "teks": "令たい", "benar": false },
+    { "teks": "冶たい", "benar": false },
+    { "teks": "次たい", "benar": false }
+  ],
+  "penjelasan": "<jp>冷たい</jp> dibaca <jp>つめたい</jp>, artinya dingin (untuk benda atau minuman)."
+}
