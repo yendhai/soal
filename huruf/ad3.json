@@ -1,0 +1,12 @@
+{
+  "label": ["Mendekati gunung"],
+  "situasi": { "gambar": "ad_foto" },
+  "pertanyaan": { "teks": "絵の人は山の【写真】をとっています。\n【写真】の読み方はどれですか。" },
+  "pilihan": [
+    { "teks": "しゃしん", "benar": true },
+    { "teks": "しゃじん", "benar": false },
+    { "teks": "しゅしん", "benar": false },
+    { "teks": "しゃんしん", "benar": false }
+  ],
+  "penjelasan": "<jp>写真</jp> dibaca <jp>しゃしん</jp>, artinya foto. <jp>写真をとる</jp> berarti mengambil foto."
+}
