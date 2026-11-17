@@ -1,0 +1,12 @@
+{
+  "label": ["Taman 1"],
+  "situasi": { "gambar": "ac_tertawa" },
+  "pertanyaan": { "teks": "絵の人は【たのしそう】にわらっています。\n【たのしそう】を漢字で書くと、どれですか。" },
+  "pilihan": [
+    { "teks": "楽しそう", "benar": true },
+    { "teks": "薬しそう", "benar": false },
+    { "teks": "業しそう", "benar": false },
+    { "teks": "栄しそう", "benar": false }
+  ],
+  "penjelasan": "<jp>楽しそう</jp> dibaca <jp>たのしそう</jp>, artinya tampak senang. Kanji <jp>楽</jp> sering tertukar dengan <jp>薬</jp> (obat)."
+}
