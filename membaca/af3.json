@@ -1,0 +1,27 @@
+{
+  "label": ["Kebun binatang 1"],
+  "bacaan": {
+    "jenis": "tabel",
+    "judul": "きょうのイベント",
+    "tabel": {
+      "kepala": ["イベント", "時間", "場所", "料金"],
+      "baris": [
+        ["ペンギンのえさやり", "11:00", "ペンギン館", "無料"],
+        ["ライオンのごはん", "13:30", "サバンナ広場", "無料"],
+        ["ゾウの水あび", "14:00", "ゾウ舎", "無料"],
+        ["ウサギにさわる", "10:30〜15:00", "ふれあい広場", "200円"],
+        ["夜の動物園", "18:00", "正門", "1000円"]
+      ]
+    },
+    "catatan": "※雨の日は、サバンナ広場のイベントは中止です。\n※ふれあい広場は、小学生以下の子どもだけが入れます。\n※夜の動物園は、金曜日と土曜日だけです。",
+    "isi": "きょうのイベントの時間と場所、料金です。"
+  },
+  "pertanyaan": { "teks": "大人が一人で参加できて、お金がかかるイベントはどれですか。" },
+  "pilihan": [
+    { "teks": "ウサギにさわる", "benar": false },
+    { "teks": "夜の動物園", "benar": true },
+    { "teks": "ライオンのごはん", "benar": false },
+    { "teks": "ペンギンのえさやり", "benar": false }
+  ],
+  "penjelasan": "Yang berbayar adalah <jp>ウサギにさわる</jp> dan <jp>夜の動物園</jp>. Tetapi catatan menyebut taman kelinci hanya untuk anak SD ke bawah, jadi orang dewasa hanya bisa ikut kebun binatang malam."
+}
