@@ -1,0 +1,11 @@
+{
+  "label": ["Taman 1"],
+  "pertanyaan": { "teks": "公園で【いぬ】があそんでいます。\n【いぬ】を漢字で書くと、どれですか。" },
+  "pilihan": [
+    { "teks": "犬", "benar": true },
+    { "teks": "大", "benar": false },
+    { "teks": "太", "benar": false },
+    { "teks": "天", "benar": false }
+  ],
+  "penjelasan": "<jp>犬</jp> dibaca <jp>いぬ</jp>, artinya anjing. Titik di kanan atas membedakannya dari <jp>大</jp>."
+}
