@@ -1,0 +1,11 @@
+{
+  "label": ["Mendekati gunung"],
+  "pertanyaan": { "teks": "あの山はとても【たかい】です。\n【たかい】を漢字で書くと、どれですか。" },
+  "pilihan": [
+    { "teks": "高い", "benar": true },
+    { "teks": "京い", "benar": false },
+    { "teks": "商い", "benar": false },
+    { "teks": "局い", "benar": false }
+  ],
+  "penjelasan": "<jp>高い</jp> dibaca <jp>たかい</jp>, artinya tinggi (atau mahal)."
+}
