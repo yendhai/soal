@@ -1,0 +1,11 @@
+{
+  "label": ["Mendekati gunung"],
+  "pertanyaan": { "teks": "日本には【火（　）】がたくさんあります。\n（　）に入る漢字はどれですか。" },
+  "pilihan": [
+    { "teks": "山", "benar": true },
+    { "teks": "川", "benar": false },
+    { "teks": "林", "benar": false },
+    { "teks": "池", "benar": false }
+  ],
+  "penjelasan": "<jp>火山</jp> dibaca <jp>かざん</jp>, artinya gunung berapi."
+}
