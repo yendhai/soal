@@ -1,0 +1,11 @@
+{
+  "label": ["Musim panas"],
+  "pertanyaan": { "teks": "夏はプールで【水（　）】をします。\n（　）に入る漢字はどれですか。" },
+  "pilihan": [
+    { "teks": "泳", "benar": true },
+    { "teks": "永", "benar": false },
+    { "teks": "洋", "benar": false },
+    { "teks": "沖", "benar": false }
+  ],
+  "penjelasan": "<jp>水泳</jp> dibaca <jp>すいえい</jp>, artinya renang (olahraga berenang)."
+}
