@@ -1,0 +1,19 @@
+{
+  "label": ["Konbini 2"],
+  "bacaan": {
+    "jenis": "surat",
+    "tanggal": "11月5日",
+    "kepada": "ホアさんへ",
+    "judul": "コンビニのアルバイトについて",
+    "isi": "こんにちは。お元気ですか。\n先週話したコンビニのアルバイトですが、店長に聞いてみました。\n仕事は、朝6時から10時までと、夜10時から朝2時までの2つがあります。\n朝のほうが給料は安いですが、夜は1時間に200円高くなります。\nホアさんは、夜は大学の授業があるので、朝のほうがいいと思います。\n店では、制服を貸してくれますが、くつは自分で用意しなければなりません。\n来週の水曜日の午後3時に、店で面接があります。\n行く前に、履歴書を書いておいてください。\nもし都合が悪かったら、今週中に私に連絡してください。",
+    "dari": "ミナより"
+  },
+  "pertanyaan": { "teks": "ホアさんは、面接の前に何をしなければなりませんか。" },
+  "pilihan": [
+    { "teks": "履歴書を書く", "benar": true },
+    { "teks": "くつを買う", "benar": false },
+    { "teks": "制服を借りる", "benar": false },
+    { "teks": "店長に電話する", "benar": false }
+  ],
+  "penjelasan": "Di surat tertulis <jp>行く前に、履歴書を書いておいてください</jp>. Sepatu dan seragam dibahas untuk saat bekerja, bukan persiapan sebelum wawancara."
+}
