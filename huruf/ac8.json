@@ -1,0 +1,11 @@
+{
+  "label": ["Taman 1"],
+  "pertanyaan": { "teks": "公園のそばで【買い（　）】をしました。\n（　）に入る漢字はどれですか。" },
+  "pilihan": [
+    { "teks": "物", "benar": true },
+    { "teks": "品", "benar": false },
+    { "teks": "事", "benar": false },
+    { "teks": "屋", "benar": false }
+  ],
+  "penjelasan": "<jp>買い物</jp> dibaca <jp>かいもの</jp>, artinya berbelanja."
+}
