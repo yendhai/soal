@@ -1,0 +1,12 @@
+{
+  "label": ["Taman 1"],
+  "situasi": { "gambar": "ac_bersepeda" },
+  "pertanyaan": { "teks": "絵の人は自転車に【乗って】います。\n【乗って】の読み方はどれですか。" },
+  "pilihan": [
+    { "teks": "のって", "benar": true },
+    { "teks": "のんで", "benar": false },
+    { "teks": "のうて", "benar": false },
+    { "teks": "のいて", "benar": false }
+  ],
+  "penjelasan": "<jp>乗って</jp> dibaca <jp>のって</jp>, bentuk te dari <jp>乗る</jp>, artinya naik atau menaiki."
+}
