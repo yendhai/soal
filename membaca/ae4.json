@@ -1,0 +1,26 @@
+{
+  "label": ["Konbini"],
+  "bacaan": {
+    "jenis": "tabel",
+    "judul": "弁当・おにぎり 値引きのお知らせ",
+    "tabel": {
+      "kepala": ["商品", "通常の値段", "20時から", "22時から"],
+      "baris": [
+        ["弁当", "500円", "400円", "250円"],
+        ["おにぎり", "130円", "110円", "65円"],
+        ["サンドイッチ", "280円", "220円", "140円"],
+        ["サラダ", "350円", "350円", "200円"]
+      ]
+    },
+    "catatan": "※サラダは、20時になっても値段が変わりません。\n※ポイントカードを見せると、値引き後の値段から、1つにつき10円安くなります。",
+    "isi": "売れ残りを減らすために、時間によって値段を下げます。20時から22時までと、22時からでは、値段が違います。"
+  },
+  "pertanyaan": { "teks": "ポイントカードを見せて、21時にサンドイッチを1つ買うと、いくらですか。" },
+  "pilihan": [
+    { "teks": "280円", "benar": false },
+    { "teks": "220円", "benar": false },
+    { "teks": "210円", "benar": true },
+    { "teks": "140円", "benar": false }
+  ],
+  "penjelasan": "Jam 21 berada di antara <jp>20時から</jp> dan 22時, jadi harganya 220 yen. Dengan kartu poin dikurangi 10 yen sehingga menjadi 210 yen."
+}
