@@ -1,0 +1,11 @@
+{
+  "label": ["Apartemen 2"],
+  "pertanyaan": { "teks": "日曜日に【洗濯】をします。\n【洗濯】の読み方はどれですか。" },
+  "pilihan": [
+    { "teks": "せんたく", "benar": true },
+    { "teks": "せんだく", "benar": false },
+    { "teks": "せたく", "benar": false },
+    { "teks": "ぜんたく", "benar": false }
+  ],
+  "penjelasan": "<jp>洗濯</jp> dibaca <jp>せんたく</jp>, artinya mencuci pakaian."
+}
