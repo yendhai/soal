@@ -1,0 +1,11 @@
+{
+  "label": ["Musim panas"],
+  "pertanyaan": { "teks": "学校は【夏休み】になりました。\n【夏休み】の読み方はどれですか。" },
+  "pilihan": [
+    { "teks": "なつやすみ", "benar": true },
+    { "teks": "なつやずみ", "benar": false },
+    { "teks": "なっやすみ", "benar": false },
+    { "teks": "かやすみ", "benar": false }
+  ],
+  "penjelasan": "<jp>夏休み</jp> dibaca <jp>なつやすみ</jp>, artinya libur musim panas."
+}
