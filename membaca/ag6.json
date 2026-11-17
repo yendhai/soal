@@ -1,0 +1,17 @@
+{
+  "label": ["Pantai 1"],
+  "bacaan": {
+    "jenis": "pengumuman",
+    "judul": "海の旗の意味",
+    "isi": "海岸には、色のちがう旗が立っています。\n緑の旗は、安全です。海に入ることができます。\n黄色の旗は、波が少し高いので、気をつけてください。子どもは、大人といっしょに入ってください。\n赤い旗は、危険です。海に入ってはいけません。\n黒い旗は、台風などで、海岸に入ることもできません。\n旗の色は、朝9時と午後1時に、変わることがあります。",
+    "dari": "海岸管理事務所"
+  },
+  "pertanyaan": { "teks": "黄色の旗が立っているとき、子どもはどうしなければなりませんか。" },
+  "pilihan": [
+    { "teks": "大人といっしょに入る", "benar": true },
+    { "teks": "海に入ってはいけない", "benar": false },
+    { "teks": "浅い所だけで泳ぐ", "benar": false },
+    { "teks": "旗の色が変わるまで待つ", "benar": false }
+  ],
+  "penjelasan": "Di pengumuman tertulis <jp>黄色の旗は、…子どもは、大人といっしょに入ってください</jp>. Larangan masuk laut sepenuhnya berlaku untuk bendera merah."
+}
