@@ -1,0 +1,12 @@
+{
+  "label": ["Musim panas"],
+  "situasi": { "gambar": "ae_kembangapi" },
+  "pertanyaan": { "teks": "絵の人はゆかたを着て【はなび】をしています。\n【はなび】を漢字で書くと、どれですか。" },
+  "pilihan": [
+    { "teks": "花火", "benar": true },
+    { "teks": "化火", "benar": false },
+    { "teks": "花灰", "benar": false },
+    { "teks": "草火", "benar": false }
+  ],
+  "penjelasan": "<jp>花火</jp> dibaca <jp>はなび</jp>, artinya kembang api. Kanji <jp>花</jp> (bunga) dan <jp>火</jp> (api) membentuk kata ini."
+}
