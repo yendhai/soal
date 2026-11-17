@@ -1,0 +1,12 @@
+{
+  "label": ["Mendekati gunung"],
+  "situasi": { "gambar": "ad_mendaki" },
+  "pertanyaan": { "teks": "絵の人は山に【登って】います。\n【登って】の読み方はどれですか。" },
+  "pilihan": [
+    { "teks": "のぼって", "benar": true },
+    { "teks": "のぼて", "benar": false },
+    { "teks": "のぼんで", "benar": false },
+    { "teks": "とうって", "benar": false }
+  ],
+  "penjelasan": "<jp>登って</jp> dibaca <jp>のぼって</jp>, bentuk te dari <jp>登る</jp>, artinya mendaki atau naik."
+}
