@@ -1,0 +1,11 @@
+{
+  "label": ["Musim panas"],
+  "pertanyaan": { "teks": "夏は（　）が長くて、夜の八時まで明るいです。" },
+  "pilihan": [
+    { "teks": "昼", "benar": true },
+    { "teks": "夜", "benar": false },
+    { "teks": "朝", "benar": false },
+    { "teks": "春", "benar": false }
+  ],
+  "penjelasan": "<jp>昼</jp> dibaca <jp>ひる</jp>, artinya siang. Di musim panas siang hari lebih panjang, sehingga langit masih terang sampai malam."
+}
