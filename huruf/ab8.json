@@ -1,0 +1,11 @@
+{
+  "label": ["Apartemen 2"],
+  "pertanyaan": { "teks": "【花（　）】で花を買いました。\n（　）に入る漢字はどれですか。" },
+  "pilihan": [
+    { "teks": "屋", "benar": true },
+    { "teks": "場", "benar": false },
+    { "teks": "所", "benar": false },
+    { "teks": "室", "benar": false }
+  ],
+  "penjelasan": "<jp>花屋</jp> dibaca <jp>はなや</jp>, artinya toko bunga."
+}
