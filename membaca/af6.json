@@ -1,0 +1,17 @@
+{
+  "label": ["Kebun binatang 1"],
+  "bacaan": {
+    "jenis": "pengumuman",
+    "judul": "臨時休園のお知らせ",
+    "isi": "台風が近づいているため、11月14日(土)は、さくら動物園を休みます。\n14日に使う予定だったチケットは、11月末まで使えます。\n払い戻しを希望する方は、チケットを買った店で手続きをしてください。ただし、動物園の窓口では、払い戻しができません。\n15日(日)は、いつもの時間に開園する予定です。\n台風の様子によって、変わることがあります。くわしくは、ホームページを見てください。",
+    "dari": "さくら動物園"
+  },
+  "pertanyaan": { "teks": "払い戻しをしたい人は、どうしますか。" },
+  "pilihan": [
+    { "teks": "チケットを買った店で手続きをする", "benar": true },
+    { "teks": "動物園の窓口に行く", "benar": false },
+    { "teks": "ホームページで申し込む", "benar": false },
+    { "teks": "11月末に動物園に電話する", "benar": false }
+  ],
+  "penjelasan": "Di pengumuman tertulis <jp>チケットを買った店で手続きをしてください</jp>. Loket kebun binatang tidak melayani pengembalian uang."
+}
