@@ -1,5 +1,5 @@
 {
-  "label": ["Mendekati gunung"],
+  "label": ["Mendaki gunung"],
   "pertanyaan": { "teks": "山の上は風がつよくて、（　）ので、上着を着ました。" },
   "pilihan": [
     { "teks": "寒い", "benar": true },
