@@ -1,0 +1,11 @@
+{
+  "label": ["Apartemen 2"],
+  "pertanyaan": { "teks": "駅に近くて、買い物にも（　）なアパートです。" },
+  "pilihan": [
+    { "teks": "便利", "benar": true },
+    { "teks": "不便", "benar": false },
+    { "teks": "有名", "benar": false },
+    { "teks": "親切", "benar": false }
+  ],
+  "penjelasan": "<jp>便利</jp> dibaca <jp>べんり</jp>, artinya praktis atau nyaman. <jp>不便</jp> (tidak praktis) berlawanan arti, sedangkan <jp>有名</jp> dan <jp>親切</jp> tidak cocok untuk kalimat ini."
+}
