@@ -1,0 +1,19 @@
+{
+  "label": ["Gunung 1"],
+  "bacaan": {
+    "jenis": "surat",
+    "tanggal": "8月2日",
+    "kepada": "山小屋「あさひ」の皆様へ",
+    "judul": "宿泊予約の変更のお願い",
+    "isi": "お世話になっております。\n8月20日に、大人3人で予約していた佐藤です。\n仕事の都合で、1人が行けなくなりました。そのため、人数を2人に変えていただけませんか。\nまた、泊まる日も、8月20日から8月21日に変えたいです。\nもし、21日が満室でしたら、20日のままでかまいません。\n夕食は、3人分のうち、1人分はキャンセルしますが、朝ごはんは2人分お願いします。\nお返事は、メールでお願いいたします。",
+    "dari": "佐藤より"
+  },
+  "pertanyaan": { "teks": "21日が満室だったら、佐藤さんはどうしたいですか。" },
+  "pilihan": [
+    { "teks": "20日に2人で泊まりたい", "benar": true },
+    { "teks": "20日に3人で泊まりたい", "benar": false },
+    { "teks": "21日に2人で泊まりたい", "benar": false },
+    { "teks": "予約をキャンセルしたい", "benar": false }
+  ],
+  "penjelasan": "Di surat tertulis <jp>21日が満室でしたら、20日のままでかまいません</jp>. Jumlah orang tetap diubah menjadi 2 karena satu orang tidak bisa ikut."
+}
