@@ -1,0 +1,11 @@
+{
+  "label": ["Taman 1"],
+  "pertanyaan": { "teks": "毎朝、公園を（　）います。" },
+  "pilihan": [
+    { "teks": "走って", "benar": true },
+    { "teks": "買って", "benar": false },
+    { "teks": "売って", "benar": false },
+    { "teks": "切って", "benar": false }
+  ],
+  "penjelasan": "<jp>走って</jp> dibaca <jp>はしって</jp>, bentuk te dari <jp>走る</jp>, artinya berlari. Kata kerja lainnya tidak cocok dengan <jp>公園を</jp>."
+}
