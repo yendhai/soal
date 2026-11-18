@@ -1,0 +1,11 @@
+{
+  "label": ["Kelas"],
+  "pertanyaan": { "teks": "じゅぎょうの【時（　）】は九時からです。\n（　）に入る漢字はどれですか。" },
+  "pilihan": [
+    { "teks": "間", "benar": true },
+    { "teks": "聞", "benar": false },
+    { "teks": "開", "benar": false },
+    { "teks": "問", "benar": false }
+  ],
+  "penjelasan": "<jp>時間</jp> dibaca <jp>じかん</jp>, artinya waktu atau jam pelajaran."
+}
