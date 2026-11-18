@@ -1,0 +1,11 @@
+{
+  "label": ["Rumah sakit"],
+  "pertanyaan": { "teks": "かぜをひいたので、【びょういん】へ行きました。\n【びょういん】を漢字で書くと、どれですか。" },
+  "pilihan": [
+    { "teks": "病院", "benar": true },
+    { "teks": "病完", "benar": false },
+    { "teks": "疲院", "benar": false },
+    { "teks": "痛院", "benar": false }
+  ],
+  "penjelasan": "<jp>病院</jp> dibaca <jp>びょういん</jp>, artinya rumah sakit."
+}
