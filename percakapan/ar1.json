@@ -1,0 +1,18 @@
+{
+  "label": "Olahraga 2",
+  "situasi": {
+    "teks": "スポーツジムに入りたいです。受付の人に、一か月の料金を聞きます。",
+    "gambar": ""
+  },
+  "pertanyaan": {
+    "teks": "何と言いますか。",
+    "gambar": ""
+  },
+  "pilihan": [
+    { "teks": "すみません、ジムは、何人で行きますか。", "gambar": "", "benar": false },
+    { "teks": "すみません、ジムは、一か月いくらですか。", "gambar": "", "benar": true },
+    { "teks": "すみません、ジムは、昨日休みでしたか。", "gambar": "", "benar": false },
+    { "teks": "すみません、ジムは、きれいでしたか。", "gambar": "", "benar": false }
+  ],
+  "penjelasan": "Untuk menanyakan biaya bulanan, pakai <jp>一か月いくらですか</jp>, yang berarti 'berapa harganya per bulan'. <jp>何人で行きますか</jp> menanyakan jumlah orang yang pergi, <jp>昨日休みでしたか</jp> menanyakan apakah kemarin libur, dan <jp>きれいでしたか</jp> menanyakan apakah tempatnya bersih, jadi tidak sesuai dengan keinginan mengetahui biaya."
+}
