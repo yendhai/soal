@@ -1,0 +1,18 @@
+{
+  "label": "Di pantai",
+  "situasi": {
+    "teks": "海で泳ぎたいです。でも、荷物があります。いっしょに来た友だちにお願いします。",
+    "gambar": ""
+  },
+  "pertanyaan": {
+    "teks": "何と言いますか。",
+    "gambar": ""
+  },
+  "pilihan": [
+    { "teks": "すみません、荷物をあげてもいいですか。", "gambar": "", "benar": false },
+    { "teks": "すみません、荷物は重かったですか。", "gambar": "", "benar": false },
+    { "teks": "すみません、ちょっと荷物を見ていてもらえませんか。", "gambar": "", "benar": true },
+    { "teks": "すみません、荷物はどこで買いましたか。", "gambar": "", "benar": false }
+  ],
+  "penjelasan": "Untuk meminta teman menjaga barang, pakai <jp>荷物を見ていてもらえませんか</jp>, yang berarti 'bisakah kamu menjaga barang saya'. <jp>荷物をあげてもいいですか</jp> meminta izin memberikan barang, <jp>荷物は重かったですか</jp> menanyakan apakah barangnya berat, dan <jp>どこで買いましたか</jp> menanyakan tempat membeli, jadi tidak sesuai dengan permintaan itu."
+}
