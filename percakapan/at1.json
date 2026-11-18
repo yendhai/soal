@@ -1,0 +1,18 @@
+{
+  "label": "Festival 2",
+  "situasi": {
+    "teks": "お祭りで金魚すくいをしたいです。でも、やり方が分かりません。屋台の人に聞きます。",
+    "gambar": ""
+  },
+  "pertanyaan": {
+    "teks": "何と言いますか。",
+    "gambar": ""
+  },
+  "pilihan": [
+    { "teks": "すみません、金魚を食べてもいいですか。", "gambar": "", "benar": false },
+    { "teks": "すみません、やり方を教えてください。", "gambar": "", "benar": true },
+    { "teks": "すみません、金魚は何歳ですか。", "gambar": "", "benar": false },
+    { "teks": "すみません、金魚を返してください。", "gambar": "", "benar": false }
+  ],
+  "penjelasan": "Untuk meminta diajari cara bermain, pakai <jp>やり方を教えてください</jp>, yang berarti 'tolong ajari caranya'. <jp>金魚を食べてもいいですか</jp> menanyakan apakah boleh memakan ikan mas, <jp>金魚は何歳ですか</jp> menanyakan umur ikan, dan <jp>金魚を返してください</jp> meminta ikan dikembalikan, jadi tidak sesuai dengan maksudnya."
+}
