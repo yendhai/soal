@@ -1,0 +1,26 @@
+{
+  "label": ["Random 1"],
+  "bacaan": {
+    "jenis": "tabel",
+    "judul": "さくら映画館 きょうの上映",
+    "tabel": {
+      "kepala": ["映画", "時間", "上映室", "料金"],
+      "baris": [
+        ["動物の冒険", "10:00", "1番", "大人1800円"],
+        ["恋の駅", "12:30", "2番", "大人1800円"],
+        ["ロボット戦争", "15:00", "1番", "大人1800円"],
+        ["夜の町", "20:30", "3番", "大人1300円"]
+      ]
+    },
+    "catatan": "※毎月1日は、全部の映画が、大人1200円です。\n※18歳以下は、毎日1000円です。\n※「夜の町」は、20時以降だけ上映します。",
+    "isi": "きょうの上映の時間と料金です。"
+  },
+  "pertanyaan": { "teks": "11月1日に、大人が「ロボット戦争」を見ると、いくらですか。" },
+  "pilihan": [
+    { "teks": "1800円", "benar": false },
+    { "teks": "1200円", "benar": true },
+    { "teks": "1000円", "benar": false },
+    { "teks": "1300円", "benar": false }
+  ],
+  "penjelasan": "Harga biasa 1800 yen, tetapi catatan menyebut <jp>毎月1日は、全部の映画が、大人1200円です</jp>. Harga 1000 yen hanya untuk usia 18 tahun ke bawah."
+}
