@@ -1,0 +1,11 @@
+{
+  "label": ["Rumah sakit"],
+  "pertanyaan": { "teks": "かぜをひいて【病（　）】になりました。\n（　）に入る漢字はどれですか。" },
+  "pilihan": [
+    { "teks": "気", "benar": true },
+    { "teks": "所", "benar": false },
+    { "teks": "屋", "benar": false },
+    { "teks": "物", "benar": false }
+  ],
+  "penjelasan": "<jp>病気</jp> dibaca <jp>びょうき</jp>, artinya sakit atau penyakit."
+}
