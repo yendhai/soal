@@ -1,0 +1,18 @@
+{
+  "label": "Festival 2",
+  "situasi": {
+    "teks": "お祭りで友だちが見つかりません。電話をしたら、友だちが言いました。\n「今、どこにいますか。」あなたは入口の大きい木の前にいます。",
+    "gambar": ""
+  },
+  "pertanyaan": {
+    "teks": "あなたは何と言いますか。",
+    "gambar": ""
+  },
+  "pilihan": [
+    { "teks": "はい、元気です。ありがとうございます。", "gambar": "", "benar": false },
+    { "teks": "入口の大きい木を食べました。", "gambar": "", "benar": false },
+    { "teks": "いいえ、わかりました。", "gambar": "", "benar": false },
+    { "teks": "入口の大きい木の前にいます。", "gambar": "", "benar": true }
+  ],
+  "penjelasan": "<jp>どこにいますか</jp> menanyakan lokasi, jadi jawab dengan tempat: <jp>入口の大きい木の前にいます</jp>, 'saya ada di depan pohon besar di pintu masuk'. <jp>はい、元気です</jp> menjawab pertanyaan kabar, <jp>木を食べました</jp> berarti 'memakan pohon' yang tidak masuk akal, dan <jp>いいえ、わかりました</jp> tidak menyebut lokasi."
+}
