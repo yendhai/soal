@@ -1,0 +1,26 @@
+{
+  "label": ["Sekolah 1"],
+  "bacaan": {
+    "jenis": "tabel",
+    "judul": "部活動のご案内",
+    "tabel": {
+      "kepala": ["部", "曜日", "時間", "場所"],
+      "baris": [
+        ["サッカー部", "月・水・金", "16:00〜18:00", "運動場"],
+        ["吹奏楽部", "火・木", "16:00〜17:30", "音楽室"],
+        ["美術部", "水", "15:30〜17:00", "美術室"],
+        ["英語部", "月・木", "16:00〜17:00", "図書室"]
+      ]
+    },
+    "catatan": "※テストの1週間前は、すべての部活が休みです。\n※雨の日は、サッカー部は体育館で練習します。",
+    "isi": "新入生のための部活の案内です。"
+  },
+  "pertanyaan": { "teks": "火曜日と木曜日の両方に活動している部はどれですか。" },
+  "pilihan": [
+    { "teks": "サッカー部", "benar": false },
+    { "teks": "吹奏楽部", "benar": true },
+    { "teks": "美術部", "benar": false },
+    { "teks": "英語部", "benar": false }
+  ],
+  "penjelasan": "Klub orkestra tiup (<jp>吹奏楽部</jp>) berkegiatan pada hari Selasa dan Kamis. Klub bahasa Inggris hanya bertemu hari Senin dan Kamis."
+}
