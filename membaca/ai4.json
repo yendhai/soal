@@ -1,0 +1,26 @@
+{
+  "label": ["Gunung 2"],
+  "bacaan": {
+    "jenis": "tabel",
+    "judul": "山小屋のレンタル用品",
+    "tabel": {
+      "kepala": ["用品", "1日目", "2日目から", "保証金"],
+      "baris": [
+        ["くつ", "1500円", "500円", "3000円"],
+        ["ストック", "500円", "200円", "1000円"],
+        ["レインコート", "800円", "300円", "なし"],
+        ["ヘルメット", "300円", "100円", "1000円"]
+      ]
+    },
+    "catatan": "※2日目からの料金は、1日ごとの料金です。\n※くつは、25cm以下の小さいサイズだけ、借りることができます。",
+    "isi": "山小屋の受付で借りることができます。保証金は、用品を返すときにお返しします。"
+  },
+  "pertanyaan": { "teks": "くつとストックを2日間借りると、料金は全部でいくらですか。" },
+  "pilihan": [
+    { "teks": "2700円", "benar": true },
+    { "teks": "4000円", "benar": false },
+    { "teks": "3700円", "benar": false },
+    { "teks": "2000円", "benar": false }
+  ],
+  "penjelasan": "Sepatu 1500+500=2000 yen dan tongkat 500+200=700 yen, totalnya 2700 yen. Uang jaminan dikembalikan sehingga <jp>保証金は、…お返しします</jp> tidak dihitung."
+}
