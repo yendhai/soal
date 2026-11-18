@@ -1,0 +1,11 @@
+{
+  "label": ["Kelas"],
+  "pertanyaan": { "teks": "先生がクラスで日本語を【おしえて】います。\n【おしえて】を漢字で書くと、どれですか。" },
+  "pilihan": [
+    { "teks": "教えて", "benar": true },
+    { "teks": "数えて", "benar": false },
+    { "teks": "救えて", "benar": false },
+    { "teks": "敬えて", "benar": false }
+  ],
+  "penjelasan": "<jp>教えて</jp> dibaca <jp>おしえて</jp>, bentuk te dari <jp>教える</jp>, artinya mengajar. <jp>数える</jp> (menghitung) bentuknya mirip tetapi artinya berbeda."
+}
