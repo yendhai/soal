@@ -1,0 +1,18 @@
+{
+  "label": "Perayaan 2",
+  "situasi": {
+    "teks": "友だちの誕生日パーティーに来ました。友だちにプレゼントをわたします。",
+    "gambar": ""
+  },
+  "pertanyaan": {
+    "teks": "何と言いますか。",
+    "gambar": ""
+  },
+  "pilihan": [
+    { "teks": "これ、わすれ物ですか。", "gambar": "", "benar": false },
+    { "teks": "これ、いくらですか。", "gambar": "", "benar": false },
+    { "teks": "これ、返してください。", "gambar": "", "benar": false },
+    { "teks": "これ、プレゼントです。どうぞ。", "gambar": "", "benar": true }
+  ],
+  "penjelasan": "Saat memberikan hadiah, pakai <jp>プレゼントです。どうぞ</jp>, yang berarti 'ini hadiah, silakan'. <jp>わすれ物ですか</jp> menanyakan barang yang tertinggal, <jp>いくらですか</jp> menanyakan harga, dan <jp>返してください</jp> meminta barang dikembalikan, jadi tidak sesuai dengan situasi memberi hadiah."
+}
