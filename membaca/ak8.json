@@ -1,0 +1,19 @@
+{
+  "label": ["Random 1"],
+  "bacaan": {
+    "jenis": "surat",
+    "tanggal": "5月2日",
+    "kepada": "ケンさんへ",
+    "judul": "お店の予約について",
+    "isi": "こんにちは。\n今度の金曜日の食事会のお店を予約しました。\n駅の北口を出て、まっすぐ5分ぐらい歩くと、赤い看板のイタリア料理の店があります。\n店の名前は「ベラ」です。\n予約は、午後7時で、8人です。\n店は、6時まで準備中なので、早く来ても入れません。\nもし、人数が変わったら、前の日の夕方までに、私に電話してください。\n当日の連絡は、店に直接してください。\nケーキは、私が買って持って行きます。",
+    "dari": "マリより"
+  },
+  "pertanyaan": { "teks": "ケンさんは、当日、遅れそうなとき、どこに連絡しますか。" },
+  "pilihan": [
+    { "teks": "マリさん", "benar": false },
+    { "teks": "店", "benar": true },
+    { "teks": "駅", "benar": false },
+    { "teks": "ほかの参加者", "benar": false }
+  ],
+  "penjelasan": "Di surat tertulis <jp>当日の連絡は、店に直接してください</jp>. Telepon ke Mari hanya untuk perubahan jumlah orang sampai sore hari sebelumnya."
+}
