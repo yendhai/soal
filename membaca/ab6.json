@@ -1,0 +1,25 @@
+{
+  "label": ["Apartemen 2"],
+  "bacaan": {
+    "jenis": "tabel",
+    "judul": "駐輪場・駐車場の料金",
+    "tabel": {
+      "kepala": ["種類", "1か月", "1年", "申し込み"],
+      "baris": [
+        ["自転車", "500円", "5000円", "管理室"],
+        ["バイク", "2000円", "20000円", "管理室"],
+        ["車", "8000円", "80000円", "管理会社"],
+        ["来客用の車", "1日500円", "なし", "管理室"]
+      ]
+    },
+    "isi": "利用する人は、先に申し込んでください。"
+  },
+  "pertanyaan": { "teks": "バイクを1年分まとめて払うと、いくらですか。" },
+  "pilihan": [
+    { "teks": "2000円", "benar": false },
+    { "teks": "5000円", "benar": false },
+    { "teks": "20000円", "benar": true },
+    { "teks": "24000円", "benar": false }
+  ],
+  "penjelasan": "Di tabel, baris <jp>バイク</jp> pada kolom <jp>1年</jp> tertulis <jp>20000円</jp>. Angka 2000 yen adalah biaya untuk 1 bulan."
+}
