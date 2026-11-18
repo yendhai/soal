@@ -7,5 +7,12 @@
     "dari": "さくら山ロープウェイ",
     "catatan": ["※65歳以上の方は、往復料金が1割引きになります。", "※4歳以下の子どもは、無料です。"]
   },
-  "pertanyaン": { "teks": "" }
+  "pertanyaan": { "teks": "夏のロープウェイは、何時まで運転しますか。" },
+  "pilihan": [
+    { "teks": "午後4時30分", "benar": false },
+    { "teks": "午後5時", "benar": false },
+    { "teks": "午後5時30分", "benar": true },
+    { "teks": "午後6時", "benar": false }
+  ],
+  "penjelasan": "Jadwal musim dingin berakhir pukul 16.30 dan <jp>夏より1時間早く終わります</jp>. Artinya jadwal musim panas berakhir pukul 17.30."
 }
