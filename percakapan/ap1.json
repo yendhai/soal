@@ -1,0 +1,18 @@
+{
+  "label": "Di kuil",
+  "situasi": {
+    "teks": "お寺に来ました。お守りを買いたいです。売り場の人に話します。",
+    "gambar": ""
+  },
+  "pertanyaan": {
+    "teks": "何と言いますか。",
+    "gambar": ""
+  },
+  "pilihan": [
+    { "teks": "すみません、お守りを返してください。", "gambar": "", "benar": false },
+    { "teks": "すみません、お守りを作ってください。", "gambar": "", "benar": false },
+    { "teks": "すみません、お守りを洗ってください。", "gambar": "", "benar": false },
+    { "teks": "すみません、お守りをください。", "gambar": "", "benar": true }
+  ],
+  "penjelasan": "Untuk membeli jimat, pakai <jp>お守りをください</jp>, yang berarti 'tolong beri saya jimat'. <jp>返してください</jp> berarti 'tolong kembalikan', <jp>作ってください</jp> berarti 'tolong buatkan', dan <jp>洗ってください</jp> berarti 'tolong cucikan', jadi tidak sesuai dengan keinginan membeli."
+}
