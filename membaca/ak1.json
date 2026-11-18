@@ -1,0 +1,18 @@
+{
+  "label": ["Random 1"],
+  "bacaan": {
+    "jenis": "pengumuman",
+    "judul": "さくら病院 外来診療のお知らせ",
+    "isi": "12月から、外来の受付時間が変わります。\n午前の受付は、8時30分から11時30分までです。以前より30分短くなります。\n午後の受付は、1時から4時までです。ただし、木曜日の午後は、休診です。\n初めて来る人は、保険証を受付に出して、問診票に書いてください。\n診察券を持っている人は、自動受付機を使ってください。\n予約をしている人は、予約の時間の15分前までに、受付をしてください。\n電話での予約は、平日の午後2時から5時までです。",
+    "dari": "さくら病院",
+    "catatan": "※日曜日と祝日は、救急の患者さんだけです。"
+  },
+  "pertanyaan": { "teks": "診察券を持っている人は、受付でどうしますか。" },
+  "pilihan": [
+    { "teks": "自動受付機を使う", "benar": true },
+    { "teks": "保険証を受付に出す", "benar": false },
+    { "teks": "問診票に書く", "benar": false },
+    { "teks": "予約の15分前に電話する", "benar": false }
+  ],
+  "penjelasan": "Di pengumuman tertulis <jp>診察券を持っている人は、自動受付機を使ってください</jp>. Menyerahkan kartu asuransi dan mengisi formulir hanya untuk pasien yang baru pertama kali datang."
+}
