@@ -1,0 +1,11 @@
+{
+  "label": ["Kelas"],
+  "pertanyaan": { "teks": "テストがあるので、【べんきょう】をしています。\n【べんきょう】を漢字で書くと、どれですか。" },
+  "pilihan": [
+    { "teks": "勉強", "benar": true },
+    { "teks": "免強", "benar": false },
+    { "teks": "勉弱", "benar": false },
+    { "teks": "勉張", "benar": false }
+  ],
+  "penjelasan": "<jp>勉強</jp> dibaca <jp>べんきょう</jp>, artinya belajar."
+}
