@@ -1,0 +1,18 @@
+{
+  "label": "Sejarah 2",
+  "situasi": {
+    "teks": "歴史の授業で、先生が言いました。\n「むかしの人は、くるまがなかったので、（　　）に乗りました。」",
+    "gambar": ""
+  },
+  "pertanyaan": {
+    "teks": "（　　）に入る言葉はどれですか。",
+    "gambar": ""
+  },
+  "pilihan": [
+    { "teks": "ひこうき", "gambar": "", "benar": false },
+    { "teks": "しんかんせん", "gambar": "", "benar": false },
+    { "teks": "馬", "gambar": "", "benar": true },
+    { "teks": "バス", "gambar": "", "benar": false }
+  ],
+  "penjelasan": "Pada zaman dulu orang belum punya mobil, jadi mereka menunggang kuda: <jp>馬に乗りました</jp>. <jp>ひこうき</jp> berarti pesawat, <jp>しんかんせん</jp> berarti kereta cepat, dan <jp>バス</jp> berarti bus, yaitu kendaraan modern yang tidak cocok dengan keadaan zaman dulu."
+}
