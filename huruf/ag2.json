@@ -1,0 +1,12 @@
+{
+  "label": ["Kelas"],
+  "situasi": { "gambar": "ag_bento" },
+  "pertanyaan": { "teks": "絵の人は教室でおべんとうを【食べて】います。\n【食べて】の読み方はどれですか。" },
+  "pilihan": [
+    { "teks": "たべて", "benar": true },
+    { "teks": "たべって", "benar": false },
+    { "teks": "だべて", "benar": false },
+    { "teks": "たえて", "benar": false }
+  ],
+  "penjelasan": "<jp>食べて</jp> dibaca <jp>たべて</jp>, bentuk te dari <jp>食べる</jp>, artinya makan."
+}
