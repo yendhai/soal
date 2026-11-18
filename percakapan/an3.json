@@ -1,0 +1,18 @@
+{
+  "label": "Gempa",
+  "situasi": {
+    "teks": "地震のあと、会社の人が聞きました。\n「だいじょうぶでしたか。」あなたはけがをしませんでした。",
+    "gambar": ""
+  },
+  "pertanyaan": {
+    "teks": "あなたは何と言いますか。",
+    "gambar": ""
+  },
+  "pilihan": [
+    { "teks": "はい、だいじょうぶでした。けがもありませんでした。", "gambar": "", "benar": true },
+    { "teks": "はい、だいじょうぶです。けがをしました。", "gambar": "", "benar": false },
+    { "teks": "いってきます。", "gambar": "", "benar": false },
+    { "teks": "いただきます。", "gambar": "", "benar": false }
+  ],
+  "penjelasan": "<jp>だいじょうぶでしたか</jp> menanyakan apakah kamu baik-baik saja. Karena tidak terluka, jawab <jp>はい、だいじょうぶでした。けがもありませんでした</jp>. <jp>けがをしました</jp> berarti 'terluka' sehingga bertentangan dengan <jp>だいじょうぶ</jp>, <jp>いってきます</jp> diucapkan saat berangkat, dan <jp>いただきます</jp> diucapkan sebelum makan."
+}
