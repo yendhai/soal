@@ -16,4 +16,5 @@
     { "teks": "SサイズとLサイズ", "gambar": "", "benar": false }
   ],
   "penjelasan": "Pegawai menjelaskan bahwa ukuran M cukup untuk 2-3 orang (<jp>Mサイズは、2、3人分です</jp>). Wanita itu akan makan bersama empat orang, lalu memutuskan memilih ukuran M (<jp>今日は、4人で食べるので、Mサイズにします</jp>). Pegawai juga mengulang pesanan dengan ukuran M di akhir percakapan. Ukuran S dan L hanya disebut sebagai pilihan yang tersedia.",
-  "transkrip": "男：お電話ありがとうございます。ピザ・ジャパンです。\n女：もしもし、ピザを注文したいんですが。\n男：はい、ありがとうございます。サイズは、どうなさいますか。Sサイズ、Mサイズ、Lサイズがございます。\n女：Mサイズは、何人分ですか。\n男：Mサイズは、2、3人分です。\n女：今日は、4人で食べるので、Mサイズにします。\n男：かしこまりました。種類は、何になさいますか。\n女：
+  "transkrip": "男：お電話ありがとうございます。ピザ・ジャパンです。\n女：もしもし、ピザを注文したいんですが。\n男：はい、ありがとうございます。サイズは、どうなさいますか。Sサイズ、Mサイズ、Lサイズがございます。\n女：Mサイズは、何人分ですか。\n男：Mサイズは、2、3人分です。\n女：今日は、4人で食べるので、Mサイズにします。\n男：かしこまりました。種類は、何になさいますか。\n女：マルゲリータを2枚と、シーフードを1枚ください。\n男：はい。シーフードは、えびとイカがのっています。\n女：おいしそうですね。あ、シーフードに、コーンも追加できますか。\n男：はい、できます。コーンは、100円です。\n女：じゃあ、お願いします。\n男：かしこまりました。マルゲリータのMサイズが2枚と、コーンを追加したシーフードのMサイズが1枚ですね。\n女：はい、お願いします。\n男：30分ぐらいで、お届けします。\n女：はい。よろしくお願いします。"
+}
