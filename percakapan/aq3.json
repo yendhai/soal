@@ -1,0 +1,18 @@
+{
+  "label": "Olahraga 1",
+  "situasi": {
+    "teks": "友だちと公園で走りました。つかれたので、休みたいです。友だちに話します。",
+    "gambar": ""
+  },
+  "pertanyaan": {
+    "teks": "何と言いますか。",
+    "gambar": ""
+  },
+  "pilihan": [
+    { "teks": "すみません、もっと速く走りましょう。", "gambar": "", "benar": false },
+    { "teks": "すみません、今から泳ぎに行きましょう。", "gambar": "", "benar": false },
+    { "teks": "すみません、つかれたので、ちょっと休んでもいいですか。", "gambar": "", "benar": true },
+    { "teks": "すみません、つかれたので、もう一回走ってください。", "gambar": "", "benar": false }
+  ],
+  "penjelasan": "<jp>つかれたので、ちょっと休んでもいいですか</jp> berarti 'karena lelah, bolehkah saya istirahat sebentar'. <jp>もっと速く走りましょう</jp> mengajak berlari lebih cepat, <jp>泳ぎに行きましょう</jp> mengajak pergi berenang, dan <jp>もう一回走ってください</jp> meminta berlari lagi, sehingga semuanya bertentangan dengan keadaan yang sedang lelah."
+}
