@@ -1,0 +1,18 @@
+{
+  "label": "Perayaan 1",
+  "situasi": {
+    "teks": "今日は友だちの誕生日です。友だちに会いました。お祝いの言葉を言います。",
+    "gambar": ""
+  },
+  "pertanyaan": {
+    "teks": "何と言いますか。",
+    "gambar": ""
+  },
+  "pilihan": [
+    { "teks": "お誕生日、いってきます。", "gambar": "", "benar": false },
+    { "teks": "お誕生日、おめでとう。", "gambar": "", "benar": true },
+    { "teks": "お誕生日、ごちそうさま。", "gambar": "", "benar": false },
+    { "teks": "お誕生日、おつかれさま。", "gambar": "", "benar": false }
+  ],
+  "penjelasan": "<jp>おめでとう</jp> adalah ucapan selamat, jadi <jp>お誕生日おめでとう</jp> berarti 'selamat ulang tahun'. <jp>いってきます</jp> diucapkan saat berangkat dari rumah, <jp>ごちそうさま</jp> diucapkan setelah makan, dan <jp>おつかれさま</jp> diucapkan kepada orang yang sudah selesai bekerja."
+}
