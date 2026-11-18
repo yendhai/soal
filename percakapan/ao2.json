@@ -1,0 +1,18 @@
+{
+  "label": "Di pantai",
+  "situasi": {
+    "teks": "夏の海は日ざしが強いです。友だちに言います。\n「日ざしが強いので、日やけ止めを（　　）ほうがいいですよ。」",
+    "gambar": ""
+  },
+  "pertanyaan": {
+    "teks": "（　　）に入る言葉はどれですか。",
+    "gambar": ""
+  },
+  "pilihan": [
+    { "teks": "ぬった", "gambar": "", "benar": true },
+    { "teks": "のんだ", "gambar": "", "benar": false },
+    { "teks": "たべた", "gambar": "", "benar": false },
+    { "teks": "きた", "gambar": "", "benar": false }
+  ],
+  "penjelasan": "<jp>日やけ止めをぬる</jp> berarti 'mengoleskan tabir surya', dan <jp>〜たほうがいいです</jp> berarti 'sebaiknya ...', jadi <jp>ぬったほうがいいです</jp> berarti 'sebaiknya dioleskan'. <jp>のんだ</jp> berarti minum, <jp>たべた</jp> berarti makan, dan <jp>きた</jp> berarti memakai baju, sehingga tidak cocok dengan <jp>日やけ止め</jp>."
+}
