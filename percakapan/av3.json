@@ -1,0 +1,18 @@
+{
+  "label": "Perayaan 2",
+  "situasi": {
+    "teks": "会社の人が言いました。\n「来月、結婚します。」",
+    "gambar": ""
+  },
+  "pertanyaan": {
+    "teks": "あなたは何と言いますか。",
+    "gambar": ""
+  },
+  "pilihan": [
+    { "teks": "それは、残念ですね。", "gambar": "", "benar": false },
+    { "teks": "それは、大変ですね。", "gambar": "", "benar": false },
+    { "teks": "それは、おめでとうございます。", "gambar": "", "benar": true },
+    { "teks": "それは、お大事に。", "gambar": "", "benar": false }
+  ],
+  "penjelasan": "Untuk kabar baik seperti pernikahan, ucapkan <jp>それは、おめでとうございます</jp>, 'wah, selamat'. <jp>残念ですね</jp> berarti 'sayang sekali', <jp>大変ですね</jp> berarti 'repot ya', dan <jp>お大事に</jp> diucapkan kepada orang yang sakit, jadi tidak cocok untuk kabar bahagia."
+}
