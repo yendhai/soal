@@ -1,0 +1,18 @@
+{
+  "label": ["Sekolah 1"],
+  "bacaan": {
+    "jenis": "pengumuman",
+    "judul": "避難訓練のお知らせ",
+    "isi": "来週の木曜日、10時30分から、火事を想定した避難訓練を行います。\n授業中に、非常ベルが鳴ります。ベルが鳴ったら、先生の指示を聞いて、話さずに、静かに運動場に出てください。\n運動場には、うわばきのままで出てかまいません。\n運動場では、クラスごとに並んで、出席を取ります。\n訓練は、20分ぐらいで終わります。\n雨の日は、体育館で行います。\n当日、欠席する人は、前の日までに、担任の先生に連絡してください。",
+    "dari": "安全委員会",
+    "catatan": "※訓練の間は、携帯電話を使ってはいけません。"
+  },
+  "pertanyaan": { "teks": "非常ベルが鳴ったとき、生徒はどうしなければなりませんか。" },
+  "pilihan": [
+    { "teks": "先生の指示を聞いて、静かに運動場に出る", "benar": true },
+    { "teks": "くつをはき替えてから運動場に出る", "benar": false },
+    { "teks": "話しながら、急いで運動場に出る", "benar": false },
+    { "teks": "携帯電話で家族に連絡する", "benar": false }
+  ],
+  "penjelasan": "Di pengumuman tertulis <jp>先生の指示を聞いて、話さずに、静かに運動場に出てください</jp>. Sepatu tidak perlu diganti, dan ponsel tidak boleh dipakai selama latihan."
+}
