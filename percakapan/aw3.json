@@ -1,0 +1,18 @@
+{
+  "label": "Sejarah 1",
+  "situasi": {
+    "teks": "友だちが聞きました。\n「日本の歴史に、きょうみがありますか。」あなたは歴史が好きです。",
+    "gambar": ""
+  },
+  "pertanyaan": {
+    "teks": "あなたは何と言いますか。",
+    "gambar": ""
+  },
+  "pilihan": [
+    { "teks": "いいえ、とてもきょうみがあります。", "gambar": "", "benar": false },
+    { "teks": "はい、きょうみがありません。", "gambar": "", "benar": false },
+    { "teks": "どういたしまして。", "gambar": "", "benar": false },
+    { "teks": "はい、とてもきょうみがあります。昔の話がおもしろいです。", "gambar": "", "benar": true }
+  ],
+  "penjelasan": "<jp>きょうみがありますか</jp> menanyakan apakah kamu tertarik. Karena kamu suka sejarah, jawab <jp>はい、とてもきょうみがあります</jp> lalu beri alasan <jp>昔の話がおもしろいです</jp>. <jp>いいえ、とてもきょうみがあります</jp> dan <jp>はい、きょうみがありません</jp> saling bertentangan, sedangkan <jp>どういたしまして</jp> adalah jawaban atas ucapan terima kasih."
+}
