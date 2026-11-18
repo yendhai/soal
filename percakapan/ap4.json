@@ -1,0 +1,18 @@
+{
+  "label": "Di kuil",
+  "situasi": {
+    "teks": "お寺の中には、お祈りをしている人がたくさんいます。友だちに言います。\n「お寺の中では、（　　）はなしてください。」",
+    "gambar": ""
+  },
+  "pertanyaan": {
+    "teks": "（　　）に入る言葉はどれですか。",
+    "gambar": ""
+  },
+  "pilihan": [
+    { "teks": "大きく", "gambar": "", "benar": false },
+    { "teks": "にぎやかに", "gambar": "", "benar": false },
+    { "teks": "しずかに", "gambar": "", "benar": true },
+    { "teks": "あぶなく", "gambar": "", "benar": false }
+  ],
+  "penjelasan": "Di tempat orang berdoa, pakai <jp>しずかにはなしてください</jp>, yang berarti 'tolong bicara dengan tenang'. <jp>大きく</jp> berarti besar, <jp>にぎやかに</jp> berarti ramai dan meriah, dan <jp>あぶなく</jp> berarti berbahaya, sehingga tidak cocok untuk tempat yang perlu ketenangan."
+}
