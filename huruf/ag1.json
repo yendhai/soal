@@ -1,0 +1,12 @@
+{
+  "label": ["Kelas"],
+  "situasi": { "gambar": "ag_menulis" },
+  "pertanyaan": { "teks": "絵の人はノートに字を【書いて】います。\n【書いて】の読み方はどれですか。" },
+  "pilihan": [
+    { "teks": "かいて", "benar": true },
+    { "teks": "かって", "benar": false },
+    { "teks": "かえて", "benar": false },
+    { "teks": "かいで", "benar": false }
+  ],
+  "penjelasan": "<jp>書いて</jp> dibaca <jp>かいて</jp>, bentuk te dari <jp>書く</jp>, artinya menulis."
+}
