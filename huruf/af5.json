@@ -1,0 +1,11 @@
+{
+  "label": ["Rumah sakit"],
+  "pertanyaan": { "teks": "朝ごはんのあとで、【くすり】を飲みます。\n【くすり】を漢字で書くと、どれですか。" },
+  "pilihan": [
+    { "teks": "薬", "benar": true },
+    { "teks": "楽", "benar": false },
+    { "teks": "葉", "benar": false },
+    { "teks": "率", "benar": false }
+  ],
+  "penjelasan": "<jp>薬</jp> dibaca <jp>くすり</jp>, artinya obat. <jp>楽</jp> (senang) bentuknya mirip tetapi tidak memiliki bagian rumput di atasnya."
+}
