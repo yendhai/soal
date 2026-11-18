@@ -1,0 +1,18 @@
+{
+  "label": "Sejarah 2",
+  "situasi": {
+    "teks": "博物館で、古い絵を見ています。この絵のことを知りたいです。ガイドの人に聞きます。",
+    "gambar": ""
+  },
+  "pertanyaan": {
+    "teks": "何と言いますか。",
+    "gambar": ""
+  },
+  "pilihan": [
+    { "teks": "すみません、この絵について、教えてください。", "gambar": "", "benar": true },
+    { "teks": "すみません、この絵を、もらってもいいですか。", "gambar": "", "benar": false },
+    { "teks": "すみません、この絵を、さわってもいいですか。", "gambar": "", "benar": false },
+    { "teks": "すみません、この絵は、いくらでしたか。", "gambar": "", "benar": false }
+  ],
+  "penjelasan": "<jp>〜について教えてください</jp> berarti 'tolong jelaskan tentang ...', cocok untuk meminta penjelasan soal lukisan. <jp>もらってもいいですか</jp> meminta izin mengambilnya, <jp>さわってもいいですか</jp> meminta izin menyentuhnya, dan <jp>いくらでしたか</jp> menanyakan harga, sehingga tidak sesuai dengan keinginan mengetahui tentang lukisan itu."
+}
