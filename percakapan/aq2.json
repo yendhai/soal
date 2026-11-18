@@ -1,0 +1,18 @@
+{
+  "label": "Olahraga 1",
+  "situasi": {
+    "teks": "運動を始める前に、先生が言いました。\n「けがをしないように、（　　）運動をしましょう。」",
+    "gambar": ""
+  },
+  "pertanyaan": {
+    "teks": "（　　）に入る言葉はどれですか。",
+    "gambar": ""
+  },
+  "pilihan": [
+    { "teks": "準備", "gambar": "", "benar": true },
+    { "teks": "勉強", "gambar": "", "benar": false },
+    { "teks": "仕事", "gambar": "", "benar": false },
+    { "teks": "買い物", "gambar": "", "benar": false }
+  ],
+  "penjelasan": "<jp>準備運動</jp> berarti 'pemanasan', yaitu gerakan sebelum olahraga agar tidak cedera (<jp>けが</jp>). <jp>勉強運動</jp>, <jp>仕事運動</jp>, dan <jp>買い物運動</jp> bukan kata yang dipakai dalam bahasa Jepang."
+}
