@@ -1,0 +1,18 @@
+{
+  "label": "Di pantai",
+  "situasi": {
+    "teks": "夏の海は日ざしが強いです。友だちに言います。\n「海へ行くとき、ぼうしを（　　）ください。」",
+    "gambar": ""
+  },
+  "pertanyaan": {
+    "teks": "（　　）に入る言葉はどれですか。",
+    "gambar": ""
+  },
+  "pilihan": [
+    { "teks": "はいて", "gambar": "", "benar": false },
+    { "teks": "かぶって", "gambar": "", "benar": true },
+    { "teks": "きて", "gambar": "", "benar": false },
+    { "teks": "ぬいで", "gambar": "", "benar": false }
+  ],
+  "penjelasan": "<jp>ぼうしをかぶる</jp> berarti 'memakai topi', jadi <jp>かぶってください</jp> berarti 'tolong pakai'. <jp>はく</jp> dipakai untuk sepatu atau celana, <jp>きる</jp> dipakai untuk baju, dan <jp>ぬぐ</jp> berarti melepas, yang berlawanan dengan maksud melindungi diri dari matahari."
+}
