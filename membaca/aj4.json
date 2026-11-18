@@ -1,0 +1,27 @@
+{
+  "label": ["Sekolah 1"],
+  "bacaan": {
+    "jenis": "tabel",
+    "judul": "1年生の時間割",
+    "tabel": {
+      "kepala": ["曜日", "1時間目", "2時間目", "3時間目"],
+      "baris": [
+        ["月", "国語", "数学", "英語"],
+        ["火", "体育", "理科", "音楽"],
+        ["水", "数学", "美術", "英語"],
+        ["木", "理科", "国語", "社会"],
+        ["金", "英語", "数学", "体育"]
+      ]
+    },
+    "catatan": "※体育の日は、体育着を持ってきてください。\n※金曜日の3時間目は、プールの授業のため、水着が必要です。\n※水曜日は、3時間目で授業が終わります。",
+    "isi": "1年生の時間割です。1時間目は、8時50分から始まります。"
+  },
+  "pertanyaan": { "teks": "数学の授業は、1週間に何回ありますか。" },
+  "pilihan": [
+    { "teks": "2回", "benar": false },
+    { "teks": "3回", "benar": true },
+    { "teks": "4回", "benar": false },
+    { "teks": "5回", "benar": false }
+  ],
+  "penjelasan": "Di tabel, <jp>数学</jp> ada pada hari Senin (jam ke-2), Rabu (jam ke-1), dan Jumat (jam ke-2). Jadi totalnya 3 kali seminggu."
+}
