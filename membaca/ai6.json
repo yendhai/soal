@@ -1,0 +1,26 @@
+{
+  "label": ["Gunung 2"],
+  "bacaan": {
+    "jenis": "tabel",
+    "judul": "登山口から駅へのバス",
+    "tabel": {
+      "kepala": ["バス", "登山口発", "駅着", "運行日"],
+      "baris": [
+        ["1番", "12:00", "12:30", "毎日"],
+        ["2番", "14:30", "15:00", "土・日・祝"],
+        ["3番", "16:00", "16:30", "毎日"],
+        ["4番", "17:30", "18:00", "毎日"]
+      ]
+    },
+    "catatan": "※11月から3月までは、4番のバスはありません。\n※バス代は、大人400円、子ども200円です。",
+    "isi": "登山口から駅まで帰るバスの時刻です。"
+  },
+  "pertanyaan": { "teks": "12月の火曜日に、登山口から駅へ帰る一番遅いバスは、何時に駅に着きますか。" },
+  "pilihan": [
+    { "teks": "15:00", "benar": false },
+    { "teks": "16:30", "benar": true },
+    { "teks": "18:00", "benar": false },
+    { "teks": "12:30", "benar": false }
+  ],
+  "penjelasan": "Selasa bukan akhir pekan, jadi bus 2 tidak jalan. Bus 4 tidak ada pada <jp>11月から3月まで</jp>, sehingga bus terakhir adalah bus 3 yang tiba pukul 16:30."
+}
