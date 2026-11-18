@@ -1,0 +1,18 @@
+{
+  "label": "Sejarah 1",
+  "situasi": {
+    "teks": "昔のお城に来ました。このお城がいつできたか知りたいです。係の人に聞きます。",
+    "gambar": ""
+  },
+  "pertanyaan": {
+    "teks": "何と言いますか。",
+    "gambar": ""
+  },
+  "pilihan": [
+    { "teks": "すみません、このお城は、いくらですか。", "gambar": "", "benar": false },
+    { "teks": "すみません、このお城に、泊まってもいいですか。", "gambar": "", "benar": false },
+    { "teks": "すみません、このお城は、いつごろできましたか。", "gambar": "", "benar": true },
+    { "teks": "すみません、このお城は、何人で行きますか。", "gambar": "", "benar": false }
+  ],
+  "penjelasan": "Untuk menanyakan kapan sebuah bangunan dibuat, pakai <jp>いつごろできましたか</jp>, yang berarti 'kira-kira kapan dibangun'. <jp>いくらですか</jp> menanyakan harga, <jp>泊まってもいいですか</jp> meminta izin menginap, dan <jp>何人で行きますか</jp> menanyakan jumlah orang yang pergi, jadi tidak sesuai dengan keinginan mengetahui usia bangunan."
+}
