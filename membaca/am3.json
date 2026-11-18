@@ -1,0 +1,26 @@
+{
+  "label": ["Gempa 1"],
+  "bacaan": {
+    "jenis": "tabel",
+    "judul": "さくら市の避難所",
+    "tabel": {
+      "kepala": ["避難所", "場所", "受け入れる人数", "ペット"],
+      "baris": [
+        ["さくら小学校", "駅の北", "500人", "できない"],
+        ["中央公民館", "駅の南", "200人", "できる"],
+        ["みどり中学校", "市役所の東", "800人", "できない"],
+        ["市民体育館", "公園の横", "1000人", "できる"]
+      ]
+    },
+    "catatan": "※津波のときは、「市民体育館」には、行かないでください。海に近いからです。\n※ペットは、決まった場所だけで飼うことができます。",
+    "isi": "地震のときに、避難できる場所です。"
+  },
+  "pertanyaan": { "teks": "津波が心配なとき、犬を連れて避難するなら、どこがいいですか。" },
+  "pilihan": [
+    { "teks": "さくら小学校", "benar": false },
+    { "teks": "中央公民館", "benar": true },
+    { "teks": "みどり中学校", "benar": false },
+    { "teks": "市民体育館", "benar": false }
+  ],
+  "penjelasan": "Tempat yang menerima hewan peliharaan adalah balai warga dan gedung olahraga. Namun catatan menyebut <jp>津波のときは、「市民体育館」には、行かないでください</jp>, jadi pilihannya balai warga."
+}
