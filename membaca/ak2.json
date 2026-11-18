@@ -1,0 +1,19 @@
+{
+  "label": ["Random 1"],
+  "bacaan": {
+    "jenis": "surat",
+    "tanggal": "6月3日",
+    "kepada": "山本課長へ",
+    "judul": "来週の出張について",
+    "isi": "お疲れ様です。\n来週の出張について、ご報告します。\n大阪の会社には、6月10日(月)の午後2時に伺う予定です。\n新幹線は、朝9時に東京駅を出発する予定ですが、チケットは、まだ取っていません。\n先方から、資料を前の日までに送ってほしいと言われましたので、金曜日までに、準備します。\n出張のあとは、大阪に1泊して、火曜日の朝に帰ります。\nホテルは、駅の近くに予約しました。\n何かご指示がありましたら、教えてください。",
+    "dari": "リーより"
+  },
+  "pertanyaan": { "teks": "リーさんは、金曜日までに何をしなければなりませんか。" },
+  "pilihan": [
+    { "teks": "新幹線のチケットを取る", "benar": false },
+    { "teks": "先方に送る資料を準備する", "benar": true },
+    { "teks": "ホテルを予約する", "benar": false },
+    { "teks": "大阪の会社に伺う", "benar": false }
+  ],
+  "penjelasan": "Di surat tertulis bahwa pihak sana meminta dokumen sehari sebelumnya, dan <jp>金曜日までに、準備します</jp>. Hotel sudah dipesan, dan kunjungan ke Osaka dilakukan hari Senin."
+}
