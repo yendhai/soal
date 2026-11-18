@@ -1,0 +1,17 @@
+{
+  "label": ["Random 2"],
+  "bacaan": {
+    "jenis": "pengumuman",
+    "judul": "さくら銀行 ATMのご利用について",
+    "isi": "システムの点検のため、次の時間は、ATMが使えなくなります。\n12月14日(土)の午後10時から、15日(日)の午前6時まで。\nこの間は、お金を出すことも、入れることも、できません。\n振り込みも、できません。\nなお、窓口は、土曜日と日曜日は、もともと休みです。\nお金が必要な人は、14日の午後10時までに、出しておいてください。\nコンビニのATMは、いつもどおり使えます。",
+    "dari": "さくら銀行"
+  },
+  "pertanyaan": { "teks": "14日の夜11時に、お金を出したいとき、どうすればいいですか。" },
+  "pilihan": [
+    { "teks": "さくら銀行のATMを使う", "benar": false },
+    { "teks": "さくら銀行の窓口に行く", "benar": false },
+    { "teks": "コンビニのATMを使う", "benar": true },
+    { "teks": "15日の午前5時まで待つ", "benar": false }
+  ],
+  "penjelasan": "Di pengumuman tertulis <jp>コンビニのATMは、いつもどおり使えます</jp>. ATM bank dan loket tidak bisa dipakai pada waktu itu."
+}
