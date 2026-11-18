@@ -1,0 +1,12 @@
+{
+  "label": ["Rumah sakit"],
+  "situasi": { "gambar": "af_dijenguk" },
+  "pertanyaan": { "teks": "絵の人の【家族】がお見舞いに来ています。\n【家族】の読み方はどれですか。" },
+  "pilihan": [
+    { "teks": "かぞく", "benar": true },
+    { "teks": "がぞく", "benar": false },
+    { "teks": "かそく", "benar": false },
+    { "teks": "かぞう", "benar": false }
+  ],
+  "penjelasan": "<jp>家族</jp> dibaca <jp>かぞく</jp>, artinya keluarga. <jp>お見舞い</jp> berarti menjenguk orang sakit."
+}
