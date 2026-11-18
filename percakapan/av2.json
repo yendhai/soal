@@ -1,0 +1,18 @@
+{
+  "label": "Perayaan 2",
+  "situasi": {
+    "teks": "結婚のお祝いのパーティーです。みんなが飲み物を持ちました。友だちが言いました。\n「みなさん、おめでとうございます。（　　）しましょう。」",
+    "gambar": ""
+  },
+  "pertanyaan": {
+    "teks": "（　　）に入る言葉はどれですか。",
+    "gambar": ""
+  },
+  "pilihan": [
+    { "teks": "乾杯", "gambar": "", "benar": true },
+    { "teks": "洗濯", "gambar": "", "benar": false },
+    { "teks": "質問", "gambar": "", "benar": false },
+    { "teks": "掃除", "gambar": "", "benar": false }
+  ],
+  "penjelasan": "<jp>乾杯しましょう</jp> berarti 'mari bersulang', diucapkan saat semua orang memegang minuman di pesta. <jp>洗濯</jp> berarti mencuci pakaian, <jp>質問</jp> berarti pertanyaan, dan <jp>掃除</jp> berarti membersihkan, sehingga tidak cocok untuk situasi perayaan ini."
+}
