@@ -1,0 +1,18 @@
+{
+  "label": "Di kuil",
+  "situasi": {
+    "teks": "お寺でおみくじをひきたいです。いくらか知りたいので、近くの人に聞きます。",
+    "gambar": ""
+  },
+  "pertanyaan": {
+    "teks": "何と言いますか。",
+    "gambar": ""
+  },
+  "pilihan": [
+    { "teks": "すみません、おみくじは、どこで買いましたか。", "gambar": "", "benar": false },
+    { "teks": "すみません、おみくじは、何時に来ましたか。", "gambar": "", "benar": false },
+    { "teks": "すみません、おみくじは、いくらですか。", "gambar": "", "benar": true },
+    { "teks": "すみません、おみくじは、おいしかったですか。", "gambar": "", "benar": false }
+  ],
+  "penjelasan": "Untuk menanyakan harga ramalan <jp>おみくじ</jp>, pakai <jp>いくらですか</jp>. <jp>どこで買いましたか</jp> menanyakan tempat membeli, <jp>何時に来ましたか</jp> menanyakan jam kedatangan, dan <jp>おいしかったですか</jp> menanyakan rasa makanan, jadi tidak sesuai dengan keinginan mengetahui harga."
+}
