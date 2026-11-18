@@ -1,0 +1,18 @@
+{
+  "label": "Di pantai",
+  "situasi": {
+    "teks": "海に来ました。ここで泳ぎたいです。近くにいる係の人に聞きます。",
+    "gambar": ""
+  },
+  "pertanyaan": {
+    "teks": "何と言いますか。",
+    "gambar": ""
+  },
+  "pilihan": [
+    { "teks": "すみません、ここで泳いだことがありますか。", "gambar": "", "benar": false },
+    { "teks": "すみません、ここで泳がなくてもいいですか。", "gambar": "", "benar": false },
+    { "teks": "すみません、ここで泳いでもいいですか。", "gambar": "", "benar": true },
+    { "teks": "すみません、ここで泳ぐ人は何人ですか。", "gambar": "", "benar": false }
+  ],
+  "penjelasan": "<jp>〜てもいいですか</jp> dipakai untuk meminta izin, jadi <jp>ここで泳いでもいいですか</jp> berarti 'bolehkah saya berenang di sini'. <jp>泳いだことがありますか</jp> menanyakan pengalaman berenang, <jp>泳がなくてもいいですか</jp> menanyakan apakah tidak perlu berenang, dan <jp>泳ぐ人は何人ですか</jp> menanyakan jumlah orang yang berenang."
+}
