@@ -1,0 +1,12 @@
+{
+  "label": ["Kelas"],
+  "situasi": { "gambar": "ag_mengobrol" },
+  "pertanyaan": { "teks": "絵の人は友達と【話して】います。\n【話して】の読み方はどれですか。" },
+  "pilihan": [
+    { "teks": "はなして", "benar": true },
+    { "teks": "はなって", "benar": false },
+    { "teks": "はなんで", "benar": false },
+    { "teks": "はなさて", "benar": false }
+  ],
+  "penjelasan": "<jp>話して</jp> dibaca <jp>はなして</jp>, bentuk te dari <jp>話す</jp>, artinya berbicara atau mengobrol."
+}
