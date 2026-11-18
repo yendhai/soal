@@ -1,0 +1,18 @@
+{
+  "label": "Di pantai",
+  "situasi": {
+    "teks": "友だちが聞きました。\n「海の水は、つめたいですか。」あなたは先に水に入りました。ちょうどいいあたたかさでした。",
+    "gambar": ""
+  },
+  "pertanyaan": {
+    "teks": "あなたは何と言いますか。",
+    "gambar": ""
+  },
+  "pilihan": [
+    { "teks": "はい、とてもつめたいです。", "gambar": "", "benar": false },
+    { "teks": "いいえ、とてもつめたいです。", "gambar": "", "benar": false },
+    { "teks": "はい、つめたくないです。", "gambar": "", "benar": false },
+    { "teks": "いいえ、つめたくないです。ちょうどいいです。", "gambar": "", "benar": true }
+  ],
+  "penjelasan": "Karena airnya tidak dingin, jawab <jp>いいえ、つめたくないです</jp> lalu tambahkan <jp>ちょうどいいです</jp> yang berarti 'suhunya pas'. <jp>はい、とてもつめたいです</jp> berarti airnya memang dingin sehingga bertentangan, <jp>いいえ、とてもつめたいです</jp> memakai 'tidak' tetapi isinya dingin sehingga janggal, dan <jp>はい、つめたくないです</jp> mencampur 'ya' dengan bentuk negatif."
+}
