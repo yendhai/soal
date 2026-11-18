@@ -1,0 +1,18 @@
+{
+  "label": "Olahraga 1",
+  "situasi": {
+    "teks": "友だちが聞きました。\n「何かスポーツをしていますか。」あなたは毎週日曜日にテニスをしています。",
+    "gambar": ""
+  },
+  "pertanyaan": {
+    "teks": "あなたは何と言いますか。",
+    "gambar": ""
+  },
+  "pilihan": [
+    { "teks": "はい、きのうテニスを買いました。", "gambar": "", "benar": false },
+    { "teks": "いいえ、毎週日曜日にテニスをしています。", "gambar": "", "benar": false },
+    { "teks": "はい、毎週日曜日にテニスを見ています。", "gambar": "", "benar": false },
+    { "teks": "はい、毎週日曜日にテニスをしています。", "gambar": "", "benar": true }
+  ],
+  "penjelasan": "<jp>何かスポーツをしていますか</jp> menanyakan apakah kamu berolahraga. Karena kamu bermain tenis tiap Minggu, jawab <jp>はい、毎週日曜日にテニスをしています</jp>. <jp>きのうテニスを買いました</jp> tidak menjawab pertanyaan, <jp>いいえ</jp> bertentangan dengan isi kalimatnya, dan <jp>テニスを見ています</jp> berarti 'sedang menonton tenis', bukan bermain."
+}
