@@ -1,0 +1,18 @@
+{
+  "label": "Gempa",
+  "situasi": {
+    "teks": "大きい地震のあと、ひなんしなければなりません。近くにいる人に聞きます。",
+    "gambar": ""
+  },
+  "pertanyaan": {
+    "teks": "何と言いますか。",
+    "gambar": ""
+  },
+  "pilihan": [
+    { "teks": "すみません、いちばん近いひなん場所は、いつですか。", "gambar": "", "benar": false },
+    { "teks": "すみません、いちばん近いひなん場所は、どこですか。", "gambar": "", "benar": true },
+    { "teks": "すみません、いちばん近いひなん場所は、だれですか。", "gambar": "", "benar": false },
+    { "teks": "すみません、いちばん近いひなん場所は、いくらですか。", "gambar": "", "benar": false }
+  ],
+  "penjelasan": "Untuk menanyakan tempat evakuasi terdekat, pakai <jp>いちばん近いひなん場所は、どこですか</jp>. <jp>いつですか</jp> menanyakan waktu, <jp>だれですか</jp> menanyakan orang, dan <jp>いくらですか</jp> menanyakan harga, sehingga tidak sesuai untuk menanyakan lokasi."
+}
