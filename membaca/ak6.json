@@ -1,0 +1,18 @@
+{
+  "label": ["Random 1"],
+  "bacaan": {
+    "jenis": "pengumuman",
+    "judul": "年末セールのお知らせ",
+    "isi": "さくらスーパーでは、12月26日から30日まで、年末セールを行います。\n毎日、午前9時から午前11時まで、野菜と果物が3割引きになります。\n12月28日と29日は、お肉が全部2割引きです。\n30日は、魚の日です。刺身を2パック買うと、1パックはただになります。\n会員カードを持っている人は、1000円以上買い物をすると、お米5キロが当たるくじを引くことができます。\n31日は、午後3時で店を閉めます。\n1月1日から3日までは、休みです。",
+    "dari": "さくらスーパー",
+    "catatan": "※割引は、会員カードがなくても受けられます。"
+  },
+  "pertanyaan": { "teks": "12月29日の午前10時に、野菜とお肉を買うと、どうなりますか。" },
+  "pilihan": [
+    { "teks": "どちらも安くなる", "benar": true },
+    { "teks": "野菜だけ安くなる", "benar": false },
+    { "teks": "お肉だけ安くなる", "benar": false },
+    { "teks": "どちらも安くならない", "benar": false }
+  ],
+  "penjelasan": "Sayuran didiskon setiap hari pukul 9 sampai 11, dan daging didiskon pada 28 dan 29 Desember. Jadi pada 29 Desember pukul 10 keduanya lebih murah, bahkan tanpa kartu anggota."
+}
