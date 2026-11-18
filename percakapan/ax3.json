@@ -1,0 +1,18 @@
+{
+  "label": "Sejarah 2",
+  "situasi": {
+    "teks": "友だちが言いました。\n「このお寺は、千年前にできました。」",
+    "gambar": ""
+  },
+  "pertanyaan": {
+    "teks": "あなたは何と言いますか。",
+    "gambar": ""
+  },
+  "pilihan": [
+    { "teks": "そうですか。とても新しいですね。", "gambar": "", "benar": false },
+    { "teks": "そうですか。とても古いですね。", "gambar": "", "benar": true },
+    { "teks": "そうですか。とても安いですね。", "gambar": "", "benar": false },
+    { "teks": "そうですか。いってきます。", "gambar": "", "benar": false }
+  ],
+  "penjelasan": "Karena kuil itu dibangun seribu tahun yang lalu, tanggapan yang wajar adalah <jp>そうですか。とても古いですね</jp>, 'oh begitu, tua sekali ya'. <jp>新しい</jp> berarti baru sehingga bertentangan, <jp>安い</jp> berarti murah sehingga tidak berhubungan dengan usia kuil, dan <jp>いってきます</jp> diucapkan saat berangkat dari rumah."
+}
