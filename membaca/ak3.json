@@ -1,0 +1,26 @@
+{
+  "label": ["Random 1"],
+  "bacaan": {
+    "jenis": "tabel",
+    "judul": "図書館で借りられるもの",
+    "tabel": {
+      "kepala": ["資料", "借りられる数", "期間", "延長"],
+      "baris": [
+        ["本", "10冊", "2週間", "1回できる"],
+        ["雑誌", "5冊", "1週間", "できない"],
+        ["CD", "3枚", "1週間", "1回できる"],
+        ["DVD", "2枚", "1週間", "できない"]
+      ]
+    },
+    "catatan": "※新しく出た本は、延長できません。\n※返す日が閉館日のときは、次の開館日までに返してください。",
+    "isi": "市立図書館で借りることができるものの案内です。"
+  },
+  "pertanyaan": { "teks": "延長することができない資料は、どれとどれですか。" },
+  "pilihan": [
+    { "teks": "雑誌とDVD", "benar": true },
+    { "teks": "本とCD", "benar": false },
+    { "teks": "雑誌とCD", "benar": false },
+    { "teks": "DVDと本", "benar": false }
+  ],
+  "penjelasan": "Di kolom perpanjangan, <jp>雑誌</jp> dan <jp>DVD</jp> tertulis <jp>できない</jp>. Buku dan CD bisa diperpanjang satu kali."
+}
