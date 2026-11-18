@@ -1,0 +1,18 @@
+{
+  "label": "Perayaan 1",
+  "situasi": {
+    "teks": "友だちが言いました。\n「あした、私の誕生日パーティーに来てくれませんか。」あなたは行けます。",
+    "gambar": ""
+  },
+  "pertanyaan": {
+    "teks": "あなたは何と言いますか。",
+    "gambar": ""
+  },
+  "pilihan": [
+    { "teks": "はい、ぜひ行きます。ありがとうございます。", "gambar": "", "benar": true },
+    { "teks": "いいえ、ぜひ行きます。ごめんなさい。", "gambar": "", "benar": false },
+    { "teks": "はい、ぜひ行きました。いただきます。", "gambar": "", "benar": false },
+    { "teks": "いいえ、どういたしまして。", "gambar": "", "benar": false }
+  ],
+  "penjelasan": "Undangan yang diterima dijawab dengan <jp>はい、ぜひ行きます</jp>, 'ya, saya pasti datang', lalu ucapkan <jp>ありがとうございます</jp>. <jp>いいえ、ぜひ行きます</jp> saling bertentangan, <jp>ぜひ行きました</jp> memakai bentuk lampau padahal acaranya besok dan <jp>いただきます</jp> diucapkan sebelum makan, serta <jp>どういたしまして</jp> adalah jawaban atas ucapan terima kasih."
+}
