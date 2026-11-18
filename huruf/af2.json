@@ -1,0 +1,12 @@
+{
+  "label": ["Rumah sakit"],
+  "situasi": { "gambar": "af_demam" },
+  "pertanyaan": { "teks": "絵の人は【熱】があります。\n【熱】の読み方はどれですか。" },
+  "pilihan": [
+    { "teks": "ねつ", "benar": true },
+    { "teks": "ねづ", "benar": false },
+    { "teks": "ねっ", "benar": false },
+    { "teks": "わつ", "benar": false }
+  ],
+  "penjelasan": "<jp>熱</jp> dibaca <jp>ねつ</jp>, artinya demam atau panas badan. <jp>熱がある</jp> berarti sedang demam."
+}
