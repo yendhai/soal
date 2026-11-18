@@ -1,0 +1,11 @@
+{
+  "label": ["Kelas"],
+  "pertanyaan": { "teks": "毎朝、八時に【がっこう】へ行きます。\n【がっこう】を漢字で書くと、どれですか。" },
+  "pilihan": [
+    { "teks": "学校", "benar": true },
+    { "teks": "字校", "benar": false },
+    { "teks": "学枝", "benar": false },
+    { "teks": "学交", "benar": false }
+  ],
+  "penjelasan": "<jp>学校</jp> dibaca <jp>がっこう</jp>, artinya sekolah."
+}
