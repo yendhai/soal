@@ -1,0 +1,18 @@
+{
+  "label": "Di kuil",
+  "situasi": {
+    "teks": "お寺に着きました。入口の近くに、水がある所があります。友だちに言います。\n「お参りの前に、手を（　　）。」",
+    "gambar": ""
+  },
+  "pertanyaan": {
+    "teks": "（　　）に入る言葉はどれですか。",
+    "gambar": ""
+  },
+  "pilihan": [
+    { "teks": "ぬぎます", "gambar": "", "benar": false },
+    { "teks": "あらいます", "gambar": "", "benar": true },
+    { "teks": "かきます", "gambar": "", "benar": false },
+    { "teks": "よみます", "gambar": "", "benar": false }
+  ],
+  "penjelasan": "Sebelum berdoa, orang membersihkan tangan di tempat air, jadi <jp>手をあらいます</jp> berarti 'mencuci tangan'. <jp>ぬぎます</jp> berarti melepas, <jp>かきます</jp> berarti menulis, dan <jp>よみます</jp> berarti membaca, sehingga tidak cocok dengan <jp>手を</jp> dalam kalimat ini."
+}
