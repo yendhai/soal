@@ -1,0 +1,18 @@
+{
+  "label": "Olahraga 2",
+  "situasi": {
+    "teks": "友だちが聞きました。\n「きのうの試合に勝ちましたか。」あなたのチームは負けましたが、楽しかったです。",
+    "gambar": ""
+  },
+  "pertanyaan": {
+    "teks": "あなたは何と言いますか。",
+    "gambar": ""
+  },
+  "pilihan": [
+    { "teks": "いいえ、負けました。でも、楽しかったです。", "gambar": "", "benar": true },
+    { "teks": "はい、負けました。でも、楽しかったです。", "gambar": "", "benar": false },
+    { "teks": "いいえ、勝ちました。でも、楽しくなかったです。", "gambar": "", "benar": false },
+    { "teks": "どういたしまして。", "gambar": "", "benar": false }
+  ],
+  "penjelasan": "<jp>勝ちましたか</jp> menanyakan apakah timmu menang. Karena kalah, jawab <jp>いいえ、負けました</jp> lalu tambahkan <jp>でも、楽しかったです</jp>, 'tetapi menyenangkan'. <jp>はい、負けました</jp> salah karena <jp>はい</jp> berarti 'ya, menang', <jp>いいえ、勝ちました</jp> bertentangan dengan kenyataan, dan <jp>どういたしまして</jp> adalah jawaban atas ucapan terima kasih."
+}
