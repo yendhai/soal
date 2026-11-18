@@ -1,0 +1,19 @@
+{
+  "label": ["Sekolah 1"],
+  "bacaan": {
+    "jenis": "surat",
+    "tanggal": "11月10日",
+    "kepada": "保護者の皆様へ",
+    "judul": "三者面談のお知らせ",
+    "isi": "寒くなってきましたが、いかがお過ごしでしょうか。\n進路について話し合うために、三者面談を行います。\n期間は、11月25日から11月29日までです。1回の面談は、15分です。\n希望の日時を、同封のプリントに書いて、11月15日までに、担任に出してください。\n仕事で都合が悪い場合は、午後5時以降の時間も用意していますので、プリントに書いてください。\n11月15日までにプリントが出ない場合は、こちらで日時を決めます。\n当日は、保護者の方と生徒本人の2人で、教室の前に5分前までに来てください。\n日時が決まったら、11月20日までに、お知らせします。",
+    "dari": "3年2組担任 山口"
+  },
+  "pertanyaan": { "teks": "面談の日時が決まったという知らせは、いつまでにありますか。" },
+  "pilihan": [
+    { "teks": "11月15日まで", "benar": false },
+    { "teks": "11月20日まで", "benar": true },
+    { "teks": "11月25日まで", "benar": false },
+    { "teks": "11月29日まで", "benar": false }
+  ],
+  "penjelasan": "Di surat tertulis <jp>日時が決まったら、11月20日までに、お知らせします</jp>. Tanggal 15 November adalah batas pengumpulan kertas, dan 25 sampai 29 November adalah masa wawancara."
+}
