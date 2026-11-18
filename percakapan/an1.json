@@ -1,0 +1,18 @@
+{
+  "label": "Gempa",
+  "situasi": {
+    "teks": "会社で大きい地震がありました。となりにいる人に、机の下に入るように言います。",
+    "gambar": ""
+  },
+  "pertanyaan": {
+    "teks": "何と言いますか。",
+    "gambar": ""
+  },
+  "pilihan": [
+    { "teks": "あぶないですから、机の上に乗ってください。", "gambar": "", "benar": false },
+    { "teks": "あぶないですから、机の下に入ってください。", "gambar": "", "benar": true },
+    { "teks": "あぶないですから、窓のそばに立ってください。", "gambar": "", "benar": false },
+    { "teks": "あぶないですから、エレベーターに乗ってください。", "gambar": "", "benar": false }
+  ],
+  "penjelasan": "Saat gempa, berlindung di bawah meja melindungi kepala dari benda yang jatuh, jadi katakan <jp>机の下に入ってください</jp>. <jp>机の上に乗ってください</jp> berarti naik ke atas meja yang berbahaya, <jp>窓のそばに立ってください</jp> berarti berdiri dekat jendela yang bisa pecah, dan <jp>エレベーターに乗ってください</jp> berarti naik lift yang tidak aman saat gempa."
+}
