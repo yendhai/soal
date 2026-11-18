@@ -1,0 +1,18 @@
+{
+  "label": "Olahraga 2",
+  "situasi": {
+    "teks": "友だちとスポーツの話をしています。\n「私は、マラソンを走った（　　）があります。」",
+    "gambar": ""
+  },
+  "pertanyaan": {
+    "teks": "（　　）に入る言葉はどれですか。",
+    "gambar": ""
+  },
+  "pilihan": [
+    { "teks": "ほう", "gambar": "", "benar": false },
+    { "teks": "もの", "gambar": "", "benar": false },
+    { "teks": "こと", "gambar": "", "benar": true },
+    { "teks": "ところ", "gambar": "", "benar": false }
+  ],
+  "penjelasan": "<jp>〜たことがあります</jp> berarti 'pernah ...', jadi <jp>マラソンを走ったことがあります</jp> berarti 'saya pernah lari maraton'. <jp>ほう</jp> berarti sisi atau pihak, <jp>もの</jp> berarti benda, dan <jp>ところ</jp> berarti tempat, sehingga tidak membentuk pola pengalaman."
+}
