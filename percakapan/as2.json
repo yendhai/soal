@@ -1,0 +1,18 @@
+{
+  "label": "Festival 1",
+  "situasi": {
+    "teks": "今夜は、花火大会があります。友だちに言います。\n「花火大会は、人が（　　）ので、早く行きましょう。」",
+    "gambar": ""
+  },
+  "pertanyaan": {
+    "teks": "（　　）に入る言葉はどれですか。",
+    "gambar": ""
+  },
+  "pilihan": [
+    { "teks": "少ない", "gambar": "", "benar": false },
+    { "teks": "低い", "gambar": "", "benar": false },
+    { "teks": "高い", "gambar": "", "benar": false },
+    { "teks": "多い", "gambar": "", "benar": true }
+  ],
+  "penjelasan": "<jp>人が多いので、早く行きましょう</jp> berarti 'karena orangnya banyak, ayo pergi lebih awal'. <jp>少ない</jp> berarti sedikit sehingga tidak menjadi alasan untuk berangkat cepat, sedangkan <jp>低い</jp> berarti rendah dan <jp>高い</jp> berarti tinggi atau mahal, sehingga tidak cocok dengan <jp>人が</jp>."
+}
