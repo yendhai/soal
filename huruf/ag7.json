@@ -1,0 +1,11 @@
+{
+  "label": ["Kelas"],
+  "pertanyaan": { "teks": "先生の言うことをよく（　）ので、よくわかりました。" },
+  "pilihan": [
+    { "teks": "聞いた", "benar": true },
+    { "teks": "見た", "benar": false },
+    { "teks": "買った", "benar": false },
+    { "teks": "待った", "benar": false }
+  ],
+  "penjelasan": "<jp>聞いた</jp> dibaca <jp>きいた</jp>, bentuk lampau dari <jp>聞く</jp>, artinya mendengar atau menyimak. Kata kerja lainnya tidak cocok dengan <jp>先生の言うこと</jp>."
+}
