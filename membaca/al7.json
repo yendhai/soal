@@ -1,0 +1,26 @@
+{
+  "label": ["Random 2"],
+  "bacaan": {
+    "jenis": "tabel",
+    "judul": "荷物の送り方と料金",
+    "tabel": {
+      "kepala": ["荷物の種類", "大きさ", "料金", "日数"],
+      "baris": [
+        ["ゆうパック(小)", "60cm以内", "800円", "翌日"],
+        ["ゆうパック(中)", "80cm以内", "1000円", "翌日"],
+        ["ゆうパック(大)", "100cm以内", "1300円", "翌日"],
+        ["普通郵便(荷物)", "60cm以内", "600円", "3日"]
+      ]
+    },
+    "catatan": "※北海道と沖縄は、ゆうパックは、300円高くなります。\n※普通郵便は、日曜日と祝日は、配達しません。",
+    "isi": "郵便局から荷物を送るときの料金です。"
+  },
+  "pertanyaan": { "teks": "沖縄に、70cmの荷物を、ゆうパックで送ると、いくらですか。" },
+  "pilihan": [
+    { "teks": "800円", "benar": false },
+    { "teks": "1000円", "benar": false },
+    { "teks": "1300円", "benar": true },
+    { "teks": "1600円", "benar": false }
+  ],
+  "penjelasan": "Paket 70 cm termasuk ukuran sedang seharga 1000 yen. Ke Okinawa ada tambahan 300 yen, jadi menjadi 1300 yen."
+}
