@@ -1,0 +1,18 @@
+{
+  "label": "Festival 1",
+  "situasi": {
+    "teks": "お祭りで、たこ焼きの屋台に来ました。たこ焼きを一つ買いたいです。",
+    "gambar": ""
+  },
+  "pertanyaan": {
+    "teks": "何と言いますか。",
+    "gambar": ""
+  },
+  "pilihan": [
+    { "teks": "すみません、たこ焼きを一つ返してください。", "gambar": "", "benar": false },
+    { "teks": "すみません、たこ焼きは一つでした。", "gambar": "", "benar": false },
+    { "teks": "すみません、たこ焼きを一つください。", "gambar": "", "benar": true },
+    { "teks": "すみません、たこ焼きは一つもありません。", "gambar": "", "benar": false }
+  ],
+  "penjelasan": "Untuk membeli di kios, pakai <jp>たこ焼きを一つください</jp>, yang berarti 'tolong beri saya satu takoyaki'. <jp>返してください</jp> berarti 'tolong kembalikan', <jp>一つでした</jp> berarti 'tadi satu' dalam bentuk lampau sehingga bukan permintaan, dan <jp>一つもありません</jp> berarti 'tidak ada satu pun'."
+}
