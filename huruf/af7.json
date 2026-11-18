@@ -1,0 +1,11 @@
+{
+  "label": ["Rumah sakit"],
+  "pertanyaan": { "teks": "ゆっくり休んだので、もう（　）になりました。" },
+  "pilihan": [
+    { "teks": "元気", "benar": true },
+    { "teks": "有名", "benar": false },
+    { "teks": "親切", "benar": false },
+    { "teks": "上手", "benar": false }
+  ],
+  "penjelasan": "<jp>元気</jp> dibaca <jp>げんき</jp>, artinya sehat atau bugar. Setelah istirahat cukup, kondisi tubuh menjadi <jp>元気</jp>."
+}
