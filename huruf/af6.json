@@ -1,0 +1,11 @@
+{
+  "label": ["Rumah sakit"],
+  "pertanyaan": { "teks": "頭が（　）ので、今日は会社を休みました。" },
+  "pilihan": [
+    { "teks": "痛い", "benar": true },
+    { "teks": "広い", "benar": false },
+    { "teks": "近い", "benar": false },
+    { "teks": "古い", "benar": false }
+  ],
+  "penjelasan": "<jp>痛い</jp> dibaca <jp>いたい</jp>, artinya sakit. <jp>頭が痛い</jp> berarti kepala sakit, sehingga cocok sebagai alasan tidak masuk kerja."
+}
