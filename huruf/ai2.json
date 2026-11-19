@@ -1,0 +1,12 @@
+{
+  "label": ["Olahraga 2"],
+  "situasi": { "gambar": "ai_lari" },
+  "pertanyaan": { "teks": "絵の人はゴールまで【急いで】います。\n【急いで】の読み方はどれですか。" },
+  "pilihan": [
+    { "teks": "いそいで", "benar": true },
+    { "teks": "いそんで", "benar": false },
+    { "teks": "いそって", "benar": false },
+    { "teks": "きゅういで", "benar": false }
+  ],
+  "penjelasan": "<jp>急いで</jp> dibaca <jp>いそいで</jp>, bentuk te dari <jp>急ぐ</jp>, artinya bergegas. Bacaan <jp>きゅう</jp> adalah bacaan on dan tidak dipakai di sini."
+}
