@@ -1,12 +1,12 @@
 {
   "label": ["Musim panas"],
   "situasi": { "gambar": "ae_pantai" },
-  "pertanyaan": { "teks": "絵の人は海で【泳いで】います。\n【泳いで】の読み方はどれですか。" },
+  "pertanyaan": { "teks": "絵の説明として正しいものはどれですか。" },
   "pilihan": [
-    { "teks": "およいで", "benar": true },
-    { "teks": "およんで", "benar": false },
-    { "teks": "おようで", "benar": false },
-    { "teks": "ながいで", "benar": false }
+    { "teks": "水着を着た女の人が、楽しそうに砂浜を走っています。", "benar": true },
+    { "teks": "男の人が海の中で、サーフィンをして遊んでいます。", "benar": false },
+    { "teks": "女の人がパラソルの下で、冷たいジュースを飲んでいます。", "benar": false },
+    { "teks": "子どもたちが砂浜で、大きい砂のお城を作っています。", "benar": false }
   ],
-  "penjelasan": "<jp>泳いで</jp> dibaca <jp>およいで</jp>, bentuk te dari <jp>泳ぐ</jp>, artinya berenang."
+  "penjelasan": "Pada gambar terlihat seorang perempuan mengenakan baju renang (<jp>水着を着た女の人</jp>) sedang berlari gembira di tepi pantai berpasir (<jp>楽しそうに砂浜を走っています</jp>). Pilihan lain salah karena tidak ada yang berselancar (<jp>サーフィン</jp>), tidak ada yang minum di bawah payung pantai (<jp>パラソル</jp>), dan tidak ada anak-anak membuat istana pasir."
 }
