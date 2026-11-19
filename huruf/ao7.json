@@ -1,0 +1,11 @@
+{
+  "label": ["Hujan"],
+  "pertanyaan": { "teks": "昨日は【大（　）】で、道に水がたまりました。\n（　）に入る漢字はどれですか。" },
+  "pilihan": [
+    { "teks": "雨", "benar": true },
+    { "teks": "右", "benar": false },
+    { "teks": "紙", "benar": false },
+    { "teks": "薬", "benar": false }
+  ],
+  "penjelasan": "<jp>大雨</jp> dibaca <jp>おおあめ</jp>, artinya hujan deras."
+}
