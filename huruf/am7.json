@@ -1,0 +1,11 @@
+{
+  "label": ["Profesi 2"],
+  "pertanyaan": { "teks": "私は日本語の【学（　）】です。\n（　）に入る漢字はどれですか。" },
+  "pilihan": [
+    { "teks": "生", "benar": true },
+    { "teks": "前", "benar": false },
+    { "teks": "天", "benar": false },
+    { "teks": "室", "benar": false }
+  ],
+  "penjelasan": "<jp>学生</jp> dibaca <jp>がくせい</jp>, artinya pelajar atau mahasiswa."
+}
