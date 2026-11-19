@@ -1,12 +1,12 @@
 {
   "label": ["Profesi 1"],
   "situasi": { "gambar": "al_polisi" },
-  "pertanyaan": { "teks": "絵の人は交番で【働いて】います。\n【働いて】の読み方はどれですか。" },
+  "pertanyaan": { "teks": "絵の説明として正しいものはどれですか。" },
   "pilihan": [
-    { "teks": "はたらいて", "benar": true },
-    { "teks": "はたらって", "benar": false },
-    { "teks": "はたらんで", "benar": false },
-    { "teks": "はだらいて", "benar": false }
+    { "teks": "警察官が制服を着て、町の安全を守っています。", "benar": true },
+    { "teks": "駅員がホームに立って、切符をチェックしています。", "benar": false },
+    { "teks": "運転手がバスの前に立って、お客さんを待っています。", "benar": false },
+    { "teks": "消防士が火を消すために、急いで走っています。", "benar": false }
   ],
-  "penjelasan": "<jp>働いて</jp> dibaca <jp>はたらいて</jp>, bentuk te dari <jp>働く</jp>, artinya bekerja. <jp>交番</jp> adalah pos polisi."
+  "penjelasan": "Pada gambar terlihat seorang polisi (<jp>警察官</jp>) mengenakan seragam dinas (<jp>制服を着て</jp>) berjaga di jalan kota. Pilihan lain salah karena ia bukan petugas stasiun (<jp>駅員</jp>), bukan sopir bus (<jp>運転手</jp>), dan bukan petugas pemadam kebakaran (<jp>消防士</jp>)."
 }
