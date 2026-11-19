@@ -1,12 +1,12 @@
 {
   "label": ["Olahraga 2"],
   "situasi": { "gambar": "ai_lari" },
-  "pertanyaan": { "teks": "絵の人はゴールまで【急いで】います。\n【急いで】の読み方はどれですか。" },
+  "pertanyaan": { "teks": "絵の説明として正しいものはどれですか。" },
   "pilihan": [
-    { "teks": "いそいで", "benar": true },
-    { "teks": "いそんで", "benar": false },
-    { "teks": "いそって", "benar": false },
-    { "teks": "きゅういで", "benar": false }
+    { "teks": "男の人が競技場のコースを速く走っています。", "benar": true },
+    { "teks": "男の人が公園の道で犬と散歩しています。", "benar": false },
+    { "teks": "男の人がプールの中で一生懸命泳いでいます。", "benar": false },
+    { "teks": "男の人がサッカーの試合でボールをけっています。", "benar": false }
   ],
-  "penjelasan": "<jp>急いで</jp> dibaca <jp>いそいで</jp>, bentuk te dari <jp>急ぐ</jp>, artinya bergegas. Bacaan <jp>きゅう</jp> adalah bacaan on dan tidak dipakai di sini."
+  "penjelasan": "Pada gambar, seorang laki-laki sedang berlari kencang di lintasan stadion (<jp>競技場のコースを速く走っています</jp>). Pilihan lain salah karena ia tidak sedang jalan-jalan dengan anjing (<jp>散歩しています</jp>), tidak berenang (<jp>泳いでいます</jp>), dan tidak bermain sepak bola (<jp>ボールをけっています</jp>)."
 }
