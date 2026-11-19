@@ -1,0 +1,11 @@
+{
+  "label": ["Kendaraan 1"],
+  "pertanyaan": { "teks": "兄は毎日バスで大学へ（　）います。" },
+  "pilihan": [
+    { "teks": "通って", "benar": true },
+    { "teks": "働いて", "benar": false },
+    { "teks": "習って", "benar": false },
+    { "teks": "使って", "benar": false }
+  ],
+  "penjelasan": "<jp>通って</jp> dibaca <jp>かよって</jp>, bentuk te dari <jp>通う</jp>, artinya pulang-pergi (ke sekolah atau kantor). Kata kerja lain tidak cocok dengan <jp>大学へ</jp>."
+}
