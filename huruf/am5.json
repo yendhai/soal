@@ -1,0 +1,11 @@
+{
+  "label": ["Profesi 2"],
+  "pertanyaan": { "teks": "店員さんに【おかね】をはらいました。\n【おかね】を漢字で書くと、どれですか。" },
+  "pilihan": [
+    { "teks": "お金", "benar": true },
+    { "teks": "お全", "benar": false },
+    { "teks": "お余", "benar": false },
+    { "teks": "お企", "benar": false }
+  ],
+  "penjelasan": "<jp>お金</jp> dibaca <jp>おかね</jp>, artinya uang. <jp>金</jp> bisa juga dibaca <jp>きん</jp> (emas) dalam kata lain."
+}
