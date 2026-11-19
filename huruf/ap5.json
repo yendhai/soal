@@ -1,0 +1,11 @@
+{
+  "label": ["Kuil"],
+  "pertanyaan": { "teks": "今日、【初めて】日本のお寺に行きました。\n【初めて】の読み方はどれですか。" },
+  "pilihan": [
+    { "teks": "はじめて", "benar": true },
+    { "teks": "はじめで", "benar": false },
+    { "teks": "はつめて", "benar": false },
+    { "teks": "しょめて", "benar": false }
+  ],
+  "penjelasan": "<jp>初めて</jp> dibaca <jp>はじめて</jp>, artinya untuk pertama kalinya. Bacaan <jp>はつ</jp> dan <jp>しょ</jp> dipakai pada kata gabungan lain."
+}
