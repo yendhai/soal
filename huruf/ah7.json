@@ -1,0 +1,11 @@
+{
+  "label": ["Olahraga 1"],
+  "pertanyaan": { "teks": "毎朝、公園で体を（　）います。" },
+  "pilihan": [
+    { "teks": "動かして", "benar": true },
+    { "teks": "働いて", "benar": false },
+    { "teks": "歩いて", "benar": false },
+    { "teks": "開けて", "benar": false }
+  ],
+  "penjelasan": "<jp>動かして</jp> dibaca <jp>うごかして</jp>, bentuk te dari <jp>動かす</jp>, artinya menggerakkan. <jp>体を動かす</jp> berarti menggerakkan badan atau berolahraga."
+}
