@@ -1,0 +1,12 @@
+{
+  "label": ["Taman 2"],
+  "situasi": { "gambar": "an_istirahat" },
+  "pertanyaan": { "teks": "絵の人は木の下で【休んで】います。\n【休んで】の読み方はどれですか。" },
+  "pilihan": [
+    { "teks": "やすんで", "benar": true },
+    { "teks": "やすって", "benar": false },
+    { "teks": "やすいで", "benar": false },
+    { "teks": "きゅうんで", "benar": false }
+  ],
+  "penjelasan": "<jp>休んで</jp> dibaca <jp>やすんで</jp>, bentuk te dari <jp>休む</jp>, artinya beristirahat."
+}
