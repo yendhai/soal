@@ -1,0 +1,11 @@
+{
+  "label": ["Olahraga 2"],
+  "pertanyaan": { "teks": "しあいでは【自（　）】の力でがんばります。\n（　）に入る漢字はどれですか。" },
+  "pilihan": [
+    { "teks": "分", "benar": true },
+    { "teks": "今", "benar": false },
+    { "teks": "会", "benar": false },
+    { "teks": "公", "benar": false }
+  ],
+  "penjelasan": "<jp>自分</jp> dibaca <jp>じぶん</jp>, artinya diri sendiri."
+}
