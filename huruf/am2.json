@@ -1,0 +1,12 @@
+{
+  "label": ["Profesi 2"],
+  "situasi": { "gambar": "am_guru" },
+  "pertanyaan": { "teks": "絵の人は学校の【先生】です。\n【先生】の読み方はどれですか。" },
+  "pilihan": [
+    { "teks": "せんせい", "benar": true },
+    { "teks": "せんぜい", "benar": false },
+    { "teks": "せいせん", "benar": false },
+    { "teks": "せんせ", "benar": false }
+  ],
+  "penjelasan": "<jp>先生</jp> dibaca <jp>せんせい</jp>, artinya guru."
+}
