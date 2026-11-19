@@ -1,0 +1,12 @@
+{
+  "label": ["Kendaraan 2"],
+  "situasi": { "gambar": "ak_parkir" },
+  "pertanyaan": { "teks": "絵の人は広い場所に車を【置いて】います。\n【置いて】の読み方はどれですか。" },
+  "pilihan": [
+    { "teks": "おいて", "benar": true },
+    { "teks": "おって", "benar": false },
+    { "teks": "おうて", "benar": false },
+    { "teks": "おきて", "benar": false }
+  ],
+  "penjelasan": "<jp>置いて</jp> dibaca <jp>おいて</jp>, bentuk te dari <jp>置く</jp>, artinya menaruh atau meletakkan. <jp>おきて</jp> adalah bentuk te dari <jp>起きる</jp> (bangun)."
+}
