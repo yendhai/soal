@@ -1,0 +1,11 @@
+{
+  "label": ["Kendaraan 2"],
+  "pertanyaan": { "teks": "電車が駅に【つく】時間を調べます。\n【つく】を漢字で書くと、どれですか。" },
+  "pilihan": [
+    { "teks": "着く", "benar": true },
+    { "teks": "看く", "benar": false },
+    { "teks": "者く", "benar": false },
+    { "teks": "差く", "benar": false }
+  ],
+  "penjelasan": "<jp>着く</jp> dibaca <jp>つく</jp>, artinya tiba atau sampai."
+}
