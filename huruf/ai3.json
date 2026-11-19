@@ -1,0 +1,11 @@
+{
+  "label": ["Olahraga 2"],
+  "pertanyaan": { "teks": "朝から歩いたので、【あし】がいたいです。\n【あし】を漢字で書くと、どれですか。" },
+  "pilihan": [
+    { "teks": "足", "benar": true },
+    { "teks": "是", "benar": false },
+    { "teks": "定", "benar": false },
+    { "teks": "正", "benar": false }
+  ],
+  "penjelasan": "<jp>足</jp> dibaca <jp>あし</jp>, artinya kaki."
+}
