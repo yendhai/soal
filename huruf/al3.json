@@ -1,0 +1,11 @@
+{
+  "label": ["Profesi 1"],
+  "pertanyaan": { "teks": "警察の人が車を【運転】しています。\n【運転】の読み方はどれですか。" },
+  "pilihan": [
+    { "teks": "うんてん", "benar": true },
+    { "teks": "うんでん", "benar": false },
+    { "teks": "うんてい", "benar": false },
+    { "teks": "おんてん", "benar": false }
+  ],
+  "penjelasan": "<jp>運転</jp> dibaca <jp>うんてん</jp>, artinya mengemudi."
+}
