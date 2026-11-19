@@ -1,0 +1,11 @@
+{
+  "label": ["Profesi 2"],
+  "pertanyaan": { "teks": "店員さんは「いらっしゃいませ」と（　）ました。" },
+  "pilihan": [
+    { "teks": "言い", "benar": true },
+    { "teks": "食べ", "benar": false },
+    { "teks": "読み", "benar": false },
+    { "teks": "帰り", "benar": false }
+  ],
+  "penjelasan": "<jp>言いました</jp> dibaca <jp>いいました</jp>, dari <jp>言う</jp>, artinya berkata. Kata kerja lain tidak cocok dengan kalimat sapaan <jp>いらっしゃいませ</jp>."
+}
