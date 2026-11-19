@@ -1,12 +1,12 @@
 {
   "label": ["Kelas"],
   "situasi": { "gambar": "ag_mengobrol" },
-  "pertanyaan": { "teks": "絵の人は友達と【話して】います。\n【話して】の読み方はどれですか。" },
+  "pertanyaan": { "teks": "絵を見て、正しい説明を選びなさい。" },
   "pilihan": [
-    { "teks": "はなして", "benar": true },
-    { "teks": "はなって", "benar": false },
-    { "teks": "はなんで", "benar": false },
-    { "teks": "はなさて", "benar": false }
+    { "teks": "男子生徒は女子生徒と話して、むねがドキドキしています。", "benar": true },
+    { "teks": "二人はテストの点数が悪くて、とても悲しんでいます。", "benar": false },
+    { "teks": "男子生徒は病気で具合が悪くて、つくえにふせています。", "benar": false },
+    { "teks": "二人はけんかをして、おたがいに怒っています。", "benar": false }
   ],
-  "penjelasan": "<jp>話して</jp> dibaca <jp>はなして</jp>, bentuk te dari <jp>話す</jp>, artinya berbicara atau mengobrol."
+  "penjelasan": "Pada gambar terlihat siswa laki-laki dan perempuan mengobrol dengan ekspresi senang, dan terdapat tulisan <jp>ドキドキ</jp> yang menggambarkan jantung berdebar karena gugup atau senang. Pilihan lain salah karena mereka tidak sedih (<jp>悲しんでいます</jp>), tidak sakit (<jp>具合が悪い</jp>), dan tidak sedang bertengkar (<jp>けんかをして</jp>)."
 }
