@@ -1,0 +1,11 @@
+{
+  "label": ["Taman 2"],
+  "pertanyaan": { "teks": "天気がいい日は、公園を【散（　）】します。\n（　）に入る漢字はどれですか。" },
+  "pilihan": [
+    { "teks": "歩", "benar": true },
+    { "teks": "走", "benar": false },
+    { "teks": "少", "benar": false },
+    { "teks": "止", "benar": false }
+  ],
+  "penjelasan": "<jp>散歩</jp> dibaca <jp>さんぽ</jp>, artinya jalan-jalan santai."
+}
