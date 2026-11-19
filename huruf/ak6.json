@@ -1,0 +1,11 @@
+{
+  "label": ["Kendaraan 2"],
+  "pertanyaan": { "teks": "雨がふっていたので、車で友達を駅まで（　）ました。" },
+  "pilihan": [
+    { "teks": "送り", "benar": true },
+    { "teks": "売り", "benar": false },
+    { "teks": "作り", "benar": false },
+    { "teks": "持ち", "benar": false }
+  ],
+  "penjelasan": "<jp>送りました</jp> dibaca <jp>おくりました</jp>, dari <jp>送る</jp>, artinya mengantar. <jp>友達を駅まで送る</jp> berarti mengantar teman sampai stasiun."
+}
