@@ -1,0 +1,11 @@
+{
+  "label": ["Kendaraan 1"],
+  "pertanyaan": { "teks": "父は【自動（　）】を運転します。\n（　）に入る漢字はどれですか。" },
+  "pilihan": [
+    { "teks": "車", "benar": true },
+    { "teks": "店", "benar": false },
+    { "teks": "駅", "benar": false },
+    { "teks": "船", "benar": false }
+  ],
+  "penjelasan": "<jp>自動車</jp> dibaca <jp>じどうしゃ</jp>, artinya mobil."
+}
