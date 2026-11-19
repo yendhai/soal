@@ -1,0 +1,11 @@
+{
+  "label": ["Kuil"],
+  "pertanyaan": { "teks": "このお寺は【有（　）】で、外国人もたくさん来ます。\n（　）に入る漢字はどれですか。" },
+  "pilihan": [
+    { "teks": "名", "benar": true },
+    { "teks": "前", "benar": false },
+    { "teks": "気", "benar": false },
+    { "teks": "目", "benar": false }
+  ],
+  "penjelasan": "<jp>有名</jp> dibaca <jp>ゆうめい</jp>, artinya terkenal."
+}
