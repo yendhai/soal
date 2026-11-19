@@ -1,0 +1,11 @@
+{
+  "label": ["Olahraga 1"],
+  "pertanyaan": { "teks": "ボールを（　）、友達になげました。" },
+  "pilihan": [
+    { "teks": "持って", "benar": true },
+    { "teks": "待って", "benar": false },
+    { "teks": "作って", "benar": false },
+    { "teks": "売って", "benar": false }
+  ],
+  "penjelasan": "<jp>持って</jp> dibaca <jp>もって</jp>, bentuk te dari <jp>持つ</jp>, artinya memegang atau membawa. <jp>待って</jp> (menunggu) bentuknya mirip tetapi tidak cocok dengan <jp>ボール</jp>."
+}
