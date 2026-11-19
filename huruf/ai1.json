@@ -1,0 +1,12 @@
+{
+  "label": ["Olahraga 2"],
+  "situasi": { "gambar": "ai_tenismeja" },
+  "pertanyaan": { "teks": "絵の人はたっきゅうをして、友達と【遊んで】います。\n【遊んで】の読み方はどれですか。" },
+  "pilihan": [
+    { "teks": "あそんで", "benar": true },
+    { "teks": "あそって", "benar": false },
+    { "teks": "あそいで", "benar": false },
+    { "teks": "あぞんで", "benar": false }
+  ],
+  "penjelasan": "<jp>遊んで</jp> dibaca <jp>あそんで</jp>, bentuk te dari <jp>遊ぶ</jp>, artinya bermain."
+}
