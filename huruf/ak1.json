@@ -1,0 +1,12 @@
+{
+  "label": ["Kendaraan 2"],
+  "situasi": { "gambar": "ak_kereta" },
+  "pertanyaan": { "teks": "絵の人は電車を【降りて】います。\n【降りて】の読み方はどれですか。" },
+  "pilihan": [
+    { "teks": "おりて", "benar": true },
+    { "teks": "ふりて", "benar": false },
+    { "teks": "おちて", "benar": false },
+    { "teks": "おりって", "benar": false }
+  ],
+  "penjelasan": "<jp>降りて</jp> dibaca <jp>おりて</jp>, bentuk te dari <jp>降りる</jp>, artinya turun dari kendaraan. <jp>降る</jp> (ふる) dipakai untuk hujan atau salju."
+}
