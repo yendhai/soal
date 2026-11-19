@@ -1,12 +1,12 @@
 {
   "label": ["Kuil"],
   "situasi": { "gambar": "ap_berdoa" },
-  "pertanyaan": { "teks": "絵の人はお寺で【お願い】をしています。\n【お願い】の読み方はどれですか。" },
+  "pertanyaan": { "teks": "絵の説明として正しいものはどれですか。" },
   "pilihan": [
-    { "teks": "おねがい", "benar": true },
-    { "teks": "おねがえ", "benar": false },
-    { "teks": "おねげい", "benar": false },
-    { "teks": "おんがい", "benar": false }
+    { "teks": "男の人が神社の前で手を合わせて、お祈りをしています。", "benar": true },
+    { "teks": "男の人が駅の改札の前で、切符を探しています。", "benar": false },
+    { "teks": "男の人がお店のレジの前で、お金を払っています。", "benar": false },
+    { "teks": "男の人が玄関の前で、くつを脱いで家に入ろうとしています。", "benar": false }
   ],
-  "penjelasan": "<jp>お願い</jp> dibaca <jp>おねがい</jp>, artinya permohonan atau doa harapan. <jp>お願いをする</jp> berarti berdoa atau memohon."
+  "penjelasan": "Pada gambar terlihat seorang laki-laki berdiri di depan kuil Shinto (<jp>神社の前</jp>) sambil menangkupkan kedua tangannya untuk berdoa (<jp>手を合わせて、お祈りをしています</jp>). Pilihan lain salah karena tempat tersebut bukan stasiun (<jp>駅</jp>), toko (<jp>お店</jp>), maupun pintu masuk rumah (<jp>玄関</jp>)."
 }
