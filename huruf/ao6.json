@@ -1,0 +1,11 @@
+{
+  "label": ["Hujan"],
+  "pertanyaan": { "teks": "雨がたくさんふったので、池の水が（　）なりました。" },
+  "pilihan": [
+    { "teks": "多く", "benar": true },
+    { "teks": "少なく", "benar": false },
+    { "teks": "古く", "benar": false },
+    { "teks": "暗く", "benar": false }
+  ],
+  "penjelasan": "<jp>多く</jp> dibaca <jp>おおく</jp>, dari <jp>多い</jp>, artinya banyak. Setelah hujan deras, air kolam menjadi banyak. <jp>少なく</jp> (sedikit) berlawanan arti."
+}
