@@ -1,0 +1,11 @@
+{
+  "label": ["Olahraga 1"],
+  "pertanyaan": { "teks": "私は毎朝、【運動】をします。\n【運動】の読み方はどれですか。" },
+  "pilihan": [
+    { "teks": "うんどう", "benar": true },
+    { "teks": "うんとう", "benar": false },
+    { "teks": "うどう", "benar": false },
+    { "teks": "おんどう", "benar": false }
+  ],
+  "penjelasan": "<jp>運動</jp> dibaca <jp>うんどう</jp>, artinya olahraga atau gerak badan."
+}
