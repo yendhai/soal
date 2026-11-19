@@ -1,12 +1,12 @@
 {
   "label": ["Kendaraan 2"],
   "situasi": { "gambar": "ak_parkir" },
-  "pertanyaan": { "teks": "絵の人は広い場所に車を【置いて】います。\n【置いて】の読み方はどれですか。" },
+  "pertanyaan": { "teks": "絵の説明として正しいものはどれですか。" },
   "pilihan": [
-    { "teks": "おいて", "benar": true },
-    { "teks": "おって", "benar": false },
-    { "teks": "おうて", "benar": false },
-    { "teks": "おきて", "benar": false }
+    { "teks": "駐車場に車が何台か止まっています。", "benar": true },
+    { "teks": "広い道路をたくさんの車が速く走っています。", "benar": false },
+    { "teks": "運転手が車から降りて、車の洗車をしています。", "benar": false },
+    { "teks": "狭い道で車と自転車がぶつかってしまいました。", "benar": false }
   ],
-  "penjelasan": "<jp>置いて</jp> dibaca <jp>おいて</jp>, bentuk te dari <jp>置く</jp>, artinya menaruh atau meletakkan. <jp>おきて</jp> adalah bentuk te dari <jp>起きる</jp> (bangun)."
+  "penjelasan": "Pada gambar terlihat tanda huruf <jp>「P」</jp> yang menandakan tempat parkir (<jp>駐車場</jp>), dan beberapa mobil terparkir rapi di sana (<jp>車が何台か止まっています</jp>). Pilihan lain salah karena mobil-mobil tersebut tidak sedang melaju di jalan raya (<jp>道路を走っています</jp>) dan tidak ada orang di gambar."
 }
