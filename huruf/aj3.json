@@ -1,0 +1,11 @@
+{
+  "label": ["Kendaraan 1"],
+  "pertanyaan": { "teks": "毎朝、【でんしゃ】で会社へ行きます。\n【でんしゃ】を漢字で書くと、どれですか。" },
+  "pilihan": [
+    { "teks": "電車", "benar": true },
+    { "teks": "雷車", "benar": false },
+    { "teks": "電東", "benar": false },
+    { "teks": "電事", "benar": false }
+  ],
+  "penjelasan": "<jp>電車</jp> dibaca <jp>でんしゃ</jp>, artinya kereta listrik."
+}
