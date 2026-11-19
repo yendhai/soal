@@ -1,0 +1,12 @@
+{
+  "label": ["Olahraga 1"],
+  "situasi": { "gambar": "ah_renang" },
+  "pertanyaan": { "teks": "絵の人はおよぐのが【はやい】です。\n【はやい】を漢字で書くと、どれですか。" },
+  "pilihan": [
+    { "teks": "速い", "benar": true },
+    { "teks": "遠い", "benar": false },
+    { "teks": "連い", "benar": false },
+    { "teks": "述い", "benar": false }
+  ],
+  "penjelasan": "<jp>速い</jp> dibaca <jp>はやい</jp>, artinya cepat. <jp>遠い</jp> dibaca <jp>とおい</jp> (jauh) dan bentuknya mirip."
+}
