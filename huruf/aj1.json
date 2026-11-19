@@ -1,0 +1,12 @@
+{
+  "label": ["Kendaraan 1"],
+  "situasi": { "gambar": "aj_sepeda" },
+  "pertanyaan": { "teks": "絵の人は自転車で【道】を行きます。\n【道】の読み方はどれですか。" },
+  "pilihan": [
+    { "teks": "みち", "benar": true },
+    { "teks": "どうち", "benar": false },
+    { "teks": "みじ", "benar": false },
+    { "teks": "まち", "benar": false }
+  ],
+  "penjelasan": "<jp>道</jp> dibaca <jp>みち</jp>, artinya jalan. Bacaan <jp>どう</jp> adalah bacaan on dan dipakai pada kata gabungan seperti <jp>道路</jp>."
+}
