@@ -1,0 +1,11 @@
+{
+  "label": ["Profesi 1"],
+  "pertanyaan": { "teks": "医者は毎日とても【いそがしい】です。\n【いそがしい】を漢字で書くと、どれですか。" },
+  "pilihan": [
+    { "teks": "忙しい", "benar": true },
+    { "teks": "亡しい", "benar": false },
+    { "teks": "忘しい", "benar": false },
+    { "teks": "志しい", "benar": false }
+  ],
+  "penjelasan": "<jp>忙しい</jp> dibaca <jp>いそがしい</jp>, artinya sibuk. <jp>忘</jp> (lupa) bentuknya mirip tetapi artinya berbeda."
+}
