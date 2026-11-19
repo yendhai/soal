@@ -1,12 +1,12 @@
 {
   "label": ["Hujan"],
   "situasi": { "gambar": "ao_kepleset" },
-  "pertanyaan": { "teks": "絵の人は雨の道で【転んで】います。\n【転んで】の読み方はどれですか。" },
+  "pertanyaan": { "teks": "絵の説明として正しいものはどれですか。" },
   "pilihan": [
-    { "teks": "ころんで", "benar": true },
-    { "teks": "ころって", "benar": false },
-    { "teks": "ころいで", "benar": false },
-    { "teks": "ごろんで", "benar": false }
+    { "teks": "男の人が雨の日に道で滑って、傘やかばんを落としています。", "benar": true },
+    { "teks": "男の人が晴れの日にお店から出て、走って帰っています。", "benar": false },
+    { "teks": "男の人が強い風の中で、壊れた傘を直しています。", "benar": false },
+    { "teks": "男の人が雨宿りをしながら、バスが来るのを待っています。", "benar": false }
   ],
-  "penjelasan": "<jp>転んで</jp> dibaca <jp>ころんで</jp>, bentuk te dari <jp>転ぶ</jp>, artinya jatuh atau terpeleset."
+  "penjelasan": "Pada gambar terlihat seorang laki-laki terpeleset di jalan saat hujan (<jp>雨の日に道で滑って</jp>), sehingga payung dan tas bawaannya terlepas jatuh (<jp>傘やかばんを落としています</jp>). Pilihan lain salah karena cuaca sedang hujan (<jp>雨</jp>), ia tidak memperbaiki payung (<jp>直しています</jp>), dan tidak sedang berteduh menunggu bus."
 }
