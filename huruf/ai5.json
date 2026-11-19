@@ -1,0 +1,11 @@
+{
+  "label": ["Olahraga 2"],
+  "pertanyaan": { "teks": "毎晩、家のまわりを【歩いて】います。\n【歩いて】の読み方はどれですか。" },
+  "pilihan": [
+    { "teks": "あるいて", "benar": true },
+    { "teks": "あるって", "benar": false },
+    { "teks": "あるいで", "benar": false },
+    { "teks": "ほいて", "benar": false }
+  ],
+  "penjelasan": "<jp>歩いて</jp> dibaca <jp>あるいて</jp>, bentuk te dari <jp>歩く</jp>, artinya berjalan kaki."
+}
