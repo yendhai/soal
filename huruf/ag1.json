@@ -1,12 +1,12 @@
 {
   "label": ["Kelas"],
   "situasi": { "gambar": "ag_menulis" },
-  "pertanyaan": { "teks": "絵の人はノートに字を【書いて】います。\n【書いて】の読み方はどれですか。" },
+  "pertanyaan": { "teks": "絵の説明として正しいものはどれですか。" },
   "pilihan": [
-    { "teks": "かいて", "benar": true },
-    { "teks": "かって", "benar": false },
-    { "teks": "かえて", "benar": false },
-    { "teks": "かいで", "benar": false }
+    { "teks": "女子生徒はつくえに向かって、ノートに字を書いています。", "benar": true },
+    { "teks": "女子生徒は黒板の前に立って、チョークで絵を描いています。", "benar": false },
+    { "teks": "女子生徒はつくえにふせて、ぐっすり寝ています。", "benar": false },
+    { "teks": "女子生徒は友達と話しながら、お弁当を食べています。", "benar": false }
   ],
-  "penjelasan": "<jp>書いて</jp> dibaca <jp>かいて</jp>, bentuk te dari <jp>書く</jp>, artinya menulis."
+  "penjelasan": "Pada gambar terlihat seorang siswi duduk menghadap meja (<jp>つくえに向かって</jp>) dan sedang menulis huruf di buku catatan (<jp>ノートに字を書いています</jp>). Pilihan lain salah karena ia tidak berdiri di depan papan tulis (<jp>黒板</jp>), tidak tidur (<jp>寝ています</jp>), dan tidak makan bekal (<jp>お弁当を食べています</jp>)."
 }
