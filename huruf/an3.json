@@ -1,0 +1,11 @@
+{
+  "label": ["Taman 2"],
+  "pertanyaan": { "teks": "公園の【池】にあひるがいます。\n【池】の読み方はどれですか。" },
+  "pilihan": [
+    { "teks": "いけ", "benar": true },
+    { "teks": "いげ", "benar": false },
+    { "teks": "いっけ", "benar": false },
+    { "teks": "ちけ", "benar": false }
+  ],
+  "penjelasan": "<jp>池</jp> dibaca <jp>いけ</jp>, artinya kolam."
+}
