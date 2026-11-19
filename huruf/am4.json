@@ -1,0 +1,11 @@
+{
+  "label": ["Profesi 2"],
+  "pertanyaan": { "teks": "この店は野菜が【やすい】です。\n【やすい】を漢字で書くと、どれですか。" },
+  "pilihan": [
+    { "teks": "安い", "benar": true },
+    { "teks": "案い", "benar": false },
+    { "teks": "宇い", "benar": false },
+    { "teks": "守い", "benar": false }
+  ],
+  "penjelasan": "<jp>安い</jp> dibaca <jp>やすい</jp>, artinya murah. <jp>案</jp> bentuknya mirip tetapi punya bagian pohon di bawahnya."
+}
