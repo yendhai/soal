@@ -1,12 +1,12 @@
 {
   "label": ["Taman 1"],
   "situasi": { "gambar": "ac_bersepeda" },
-  "pertanyaan": { "teks": "絵の人は自転車に【乗って】います。\n【乗って】の読み方はどれですか。" },
+  "pertanyaan": { "teks": "絵の説明として正しいものはどれですか。" },
   "pilihan": [
-    { "teks": "のって", "benar": true },
-    { "teks": "のんで", "benar": false },
-    { "teks": "のうて", "benar": false },
-    { "teks": "のいて", "benar": false }
+    { "teks": "女の人はかごに料理の材料を入れて、自転車に乗っています。", "benar": true },
+    { "teks": "女の人は後ろの席に子どもを乗せて、自転車をこいでいます。", "benar": false },
+    { "teks": "女の人は自転車を降りて、木の下で本を読んでいます。", "benar": false },
+    { "teks": "女の人はヘルメットをかぶって、友達と競争しています。", "benar": false }
   ],
-  "penjelasan": "<jp>乗って</jp> dibaca <jp>のって</jp>, bentuk te dari <jp>乗る</jp>, artinya naik atau menaiki."
+  "penjelasan": "Pada gambar, perempuan tersebut mengendarai sepeda sambil membawa bahan masakan/kue (<jp>料理の材料</jp>) seperti tepung (<jp>FLOUR</jp>), bumbu (<jp>BASIL</jp>), dan pengocok adonan di dalam keranjang depan (<jp>かご</jp>). Pilihan lain salah karena tidak ada anak di boncengan belakang, ia tidak sedang membaca buku, dan tidak memakai helm."
 }
