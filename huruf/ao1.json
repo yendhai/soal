@@ -1,0 +1,12 @@
+{
+  "label": ["Hujan"],
+  "situasi": { "gambar": "ao_kepleset" },
+  "pertanyaan": { "teks": "絵の人は雨の道で【転んで】います。\n【転んで】の読み方はどれですか。" },
+  "pilihan": [
+    { "teks": "ころんで", "benar": true },
+    { "teks": "ころって", "benar": false },
+    { "teks": "ころいで", "benar": false },
+    { "teks": "ごろんで", "benar": false }
+  ],
+  "penjelasan": "<jp>転んで</jp> dibaca <jp>ころんで</jp>, bentuk te dari <jp>転ぶ</jp>, artinya jatuh atau terpeleset."
+}
