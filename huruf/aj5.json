@@ -1,0 +1,11 @@
+{
+  "label": ["Kendaraan 1"],
+  "pertanyaan": { "teks": "電車が（　）ので、会社におくれました。" },
+  "pilihan": [
+    { "teks": "止まった", "benar": true },
+    { "teks": "閉まった", "benar": false },
+    { "teks": "始まった", "benar": false },
+    { "teks": "集まった", "benar": false }
+  ],
+  "penjelasan": "<jp>止まった</jp> dibaca <jp>とまった</jp>, bentuk lampau dari <jp>止まる</jp>, artinya berhenti. Kereta yang berhenti menjadi alasan terlambat ke kantor."
+}
