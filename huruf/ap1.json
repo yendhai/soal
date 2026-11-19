@@ -1,12 +1,12 @@
 {
   "label": ["Kuil"],
   "situasi": { "gambar": "ap_koin" },
-  "pertanyaan": { "teks": "絵の人はコインを【投げて】います。\n【投げて】の読み方はどれですか。" },
+  "pertanyaan": { "teks": "絵の説明として正しいものはどれですか。" },
   "pilihan": [
-    { "teks": "なげて", "benar": true },
-    { "teks": "なげって", "benar": false },
-    { "teks": "なけて", "benar": false },
-    { "teks": "とうげて", "benar": false }
+    { "teks": "男の人が神社の箱にお金を入れています。", "benar": true },
+    { "teks": "男の人が郵便ポストに手紙を入れています。", "benar": false },
+    { "teks": "男の人が自動販売機にお金を入れて、ジュースを買っています。", "benar": false },
+    { "teks": "男の人がごみ箱に空き缶を捨てています。", "benar": false }
   ],
-  "penjelasan": "<jp>投げて</jp> dibaca <jp>なげて</jp>, bentuk te dari <jp>投げる</jp>, artinya melempar."
+  "penjelasan": "Pada gambar terlihat seorang laki-laki memasukkan uang koin ke dalam kotak persembahan di kuil Shinto (<jp>神社の箱にお金を入れています</jp>). Pilihan lain salah karena kotak tersebut bukan kotak pos (<jp>郵便ポスト</jp>), bukan mesin penjual otomatis (<jp>自動販売機</jp>), dan bukan tempat sampah (<jp>ごみ箱</jp>)."
 }
