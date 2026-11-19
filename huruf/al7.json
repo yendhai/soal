@@ -1,0 +1,11 @@
+{
+  "label": ["Profesi 1"],
+  "pertanyaan": { "teks": "兄の【仕（　）】は医者です。\n（　）に入る漢字はどれですか。" },
+  "pilihan": [
+    { "teks": "事", "benar": true },
+    { "teks": "書", "benar": false },
+    { "teks": "字", "benar": false },
+    { "teks": "画", "benar": false }
+  ],
+  "penjelasan": "<jp>仕事</jp> dibaca <jp>しごと</jp>, artinya pekerjaan."
+}
