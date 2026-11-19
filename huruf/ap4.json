@@ -1,0 +1,11 @@
+{
+  "label": ["Kuil"],
+  "pertanyaan": { "teks": "お寺は駅の【ひがし】にあります。\n【ひがし】を漢字で書くと、どれですか。" },
+  "pilihan": [
+    { "teks": "東", "benar": true },
+    { "teks": "束", "benar": false },
+    { "teks": "車", "benar": false },
+    { "teks": "来", "benar": false }
+  ],
+  "penjelasan": "<jp>東</jp> dibaca <jp>ひがし</jp>, artinya timur."
+}
