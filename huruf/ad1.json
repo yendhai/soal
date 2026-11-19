@@ -1,12 +1,12 @@
 {
   "label": ["Mendaki gunung"],
   "situasi": { "gambar": "ad_mendaki" },
-  "pertanyaan": { "teks": "絵の人は山に【登って】います。\n【登って】の読み方はどれですか。" },
+  "pertanyaan": { "teks": "絵の説明として正しいものはどれですか。" },
   "pilihan": [
-    { "teks": "のぼって", "benar": true },
-    { "teks": "のぼて", "benar": false },
-    { "teks": "のぼんで", "benar": false },
-    { "teks": "とうって", "benar": false }
+    { "teks": "男の人はリュックを背負って、山道を歩いています。", "benar": true },
+    { "teks": "男の人は山の頂上で、写真を撮っています。", "benar": false },
+    { "teks": "男の人は大きい木の下で、休んでいます。", "benar": false },
+    { "teks": "男の人は小さい家の中で、ごはんを食べています。", "benar": false }
   ],
-  "penjelasan": "<jp>登って</jp> dibaca <jp>のぼって</jp>, bentuk te dari <jp>登る</jp>, artinya mendaki atau naik."
+  "penjelasan": "Pada gambar, laki-laki tersebut menggendong tas ransel (<jp>リュックを背負って</jp>) dan sedang berjalan di jalur pegunungan (<jp>山道を歩いています</jp>). Pilihan lain salah karena ia tidak sedang memotret di puncak (<jp>写真を撮っています</jp>), tidak beristirahat (<jp>休んでいます</jp>), dan tidak berada di dalam rumah."
 }
