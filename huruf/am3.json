@@ -1,0 +1,11 @@
+{
+  "label": ["Profesi 2"],
+  "pertanyaan": { "teks": "朝から店に【お客さん】がたくさん来ています。\n【お客さん】の読み方はどれですか。" },
+  "pilihan": [
+    { "teks": "おきゃくさん", "benar": true },
+    { "teks": "おきゃくざん", "benar": false },
+    { "teks": "おっきゃくさん", "benar": false },
+    { "teks": "おきゃくせん", "benar": false }
+  ],
+  "penjelasan": "<jp>お客さん</jp> dibaca <jp>おきゃくさん</jp>, artinya pelanggan atau tamu."
+}
