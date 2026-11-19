@@ -1,0 +1,11 @@
+{
+  "label": ["Kendaraan 2"],
+  "pertanyaan": { "teks": "東京では【地下鉄】がとても便利です。\n【地下鉄】の読み方はどれですか。" },
+  "pilihan": [
+    { "teks": "ちかてつ", "benar": true },
+    { "teks": "ちがてつ", "benar": false },
+    { "teks": "ちかでつ", "benar": false },
+    { "teks": "ちかてい", "benar": false }
+  ],
+  "penjelasan": "<jp>地下鉄</jp> dibaca <jp>ちかてつ</jp>, artinya kereta bawah tanah atau subway."
+}
