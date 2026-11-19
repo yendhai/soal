@@ -1,0 +1,11 @@
+{
+  "label": ["Taman 2"],
+  "pertanyaan": { "teks": "木の下で、すずしい（　）がふいています。" },
+  "pilihan": [
+    { "teks": "風", "benar": true },
+    { "teks": "雨", "benar": false },
+    { "teks": "雪", "benar": false },
+    { "teks": "星", "benar": false }
+  ],
+  "penjelasan": "<jp>風</jp> dibaca <jp>かぜ</jp>, artinya angin. <jp>風がふく</jp> berarti angin bertiup, sedangkan <jp>雨</jp> dan <jp>雪</jp> dipakai dengan <jp>ふる</jp>."
+}
