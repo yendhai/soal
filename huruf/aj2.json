@@ -1,0 +1,12 @@
+{
+  "label": ["Kendaraan 1"],
+  "situasi": { "gambar": "aj_pesawat" },
+  "pertanyaan": { "teks": "絵の乗り物は【飛行機】です。\n【飛行機】の読み方はどれですか。" },
+  "pilihan": [
+    { "teks": "ひこうき", "benar": true },
+    { "teks": "ひごうき", "benar": false },
+    { "teks": "ひこき", "benar": false },
+    { "teks": "ひっこうき", "benar": false }
+  ],
+  "penjelasan": "<jp>飛行機</jp> dibaca <jp>ひこうき</jp>, artinya pesawat terbang."
+}
