@@ -1,0 +1,11 @@
+{
+  "label": ["Hujan"],
+  "pertanyaan": { "teks": "雨がふると、【かわ】の水がふえます。\n【かわ】を漢字で書くと、どれですか。" },
+  "pilihan": [
+    { "teks": "川", "benar": true },
+    { "teks": "州", "benar": false },
+    { "teks": "順", "benar": false },
+    { "teks": "山", "benar": false }
+  ],
+  "penjelasan": "<jp>川</jp> dibaca <jp>かわ</jp>, artinya sungai."
+}
