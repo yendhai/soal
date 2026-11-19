@@ -1,0 +1,11 @@
+{
+  "label": ["Profesi 1"],
+  "pertanyaan": { "teks": "兄は【だいがく】で医者の勉強をしています。\n【だいがく】を漢字で書くと、どれですか。" },
+  "pilihan": [
+    { "teks": "大学", "benar": true },
+    { "teks": "太学", "benar": false },
+    { "teks": "犬学", "benar": false },
+    { "teks": "大字", "benar": false }
+  ],
+  "penjelasan": "<jp>大学</jp> dibaca <jp>だいがく</jp>, artinya universitas."
+}
