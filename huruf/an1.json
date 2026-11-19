@@ -1,0 +1,12 @@
+{
+  "label": ["Taman 2"],
+  "situasi": { "gambar": "an_musik" },
+  "pertanyaan": { "teks": "絵の人はベンチで【音楽】を聞いています。\n【音楽】の読み方はどれですか。" },
+  "pilihan": [
+    { "teks": "おんがく", "benar": true },
+    { "teks": "おんかく", "benar": false },
+    { "teks": "おんらく", "benar": false },
+    { "teks": "おんがい", "benar": false }
+  ],
+  "penjelasan": "<jp>音楽</jp> dibaca <jp>おんがく</jp>, artinya musik. Kanji <jp>楽</jp> di sini dibaca <jp>がく</jp>, bukan <jp>らく</jp>."
+}
