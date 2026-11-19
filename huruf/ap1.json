@@ -1,0 +1,12 @@
+{
+  "label": ["Kuil"],
+  "situasi": { "gambar": "ap_koin" },
+  "pertanyaan": { "teks": "絵の人はコインを【投げて】います。\n【投げて】の読み方はどれですか。" },
+  "pilihan": [
+    { "teks": "なげて", "benar": true },
+    { "teks": "なげって", "benar": false },
+    { "teks": "なけて", "benar": false },
+    { "teks": "とうげて", "benar": false }
+  ],
+  "penjelasan": "<jp>投げて</jp> dibaca <jp>なげて</jp>, bentuk te dari <jp>投げる</jp>, artinya melempar."
+}
