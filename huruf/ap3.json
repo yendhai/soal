@@ -1,0 +1,11 @@
+{
+  "label": ["Kuil"],
+  "pertanyaan": { "teks": "京都には古い【寺】がたくさんあります。\n【寺】の読み方はどれですか。" },
+  "pilihan": [
+    { "teks": "てら", "benar": true },
+    { "teks": "でら", "benar": false },
+    { "teks": "てい", "benar": false },
+    { "teks": "じ", "benar": false }
+  ],
+  "penjelasan": "<jp>寺</jp> dibaca <jp>てら</jp>, artinya kuil Buddha. Bacaan <jp>じ</jp> adalah bacaan on yang dipakai pada nama kuil, misalnya <jp>金閣寺</jp>."
+}
