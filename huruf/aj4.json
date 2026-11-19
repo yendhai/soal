@@ -1,0 +1,11 @@
+{
+  "label": ["Kendaraan 1"],
+  "pertanyaan": { "teks": "友達と【えき】で会います。\n【えき】を漢字で書くと、どれですか。" },
+  "pilihan": [
+    { "teks": "駅", "benar": true },
+    { "teks": "訳", "benar": false },
+    { "teks": "沢", "benar": false },
+    { "teks": "釈", "benar": false }
+  ],
+  "penjelasan": "<jp>駅</jp> dibaca <jp>えき</jp>, artinya stasiun. <jp>訳</jp> (terjemahan) bentuknya mirip tetapi artinya berbeda."
+}
