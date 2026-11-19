@@ -1,0 +1,11 @@
+{
+  "label": ["Hujan"],
+  "pertanyaan": { "teks": "雨がふってきたので、家に【帰って】テレビを見ました。\n【帰って】の読み方はどれですか。" },
+  "pilihan": [
+    { "teks": "かえって", "benar": true },
+    { "teks": "かえて", "benar": false },
+    { "teks": "かえんで", "benar": false },
+    { "teks": "きって", "benar": false }
+  ],
+  "penjelasan": "<jp>帰って</jp> dibaca <jp>かえって</jp>, bentuk te dari <jp>帰る</jp>, artinya pulang."
+}
