@@ -1,0 +1,12 @@
+{
+  "label": ["Profesi 2"],
+  "situasi": { "gambar": "am_penjagatoko" },
+  "pertanyaan": { "teks": "絵の人は店で働く【店員】です。\n【店員】の読み方はどれですか。" },
+  "pilihan": [
+    { "teks": "てんいん", "benar": true },
+    { "teks": "てんにん", "benar": false },
+    { "teks": "でんいん", "benar": false },
+    { "teks": "てんえん", "benar": false }
+  ],
+  "penjelasan": "<jp>店員</jp> dibaca <jp>てんいん</jp>, artinya pegawai toko atau penjaga toko."
+}
