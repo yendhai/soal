@@ -1,0 +1,11 @@
+{
+  "label": ["Hujan"],
+  "pertanyaan": { "teks": "空に黒い【雲】が出てきました。\n【雲】の読み方はどれですか。" },
+  "pilihan": [
+    { "teks": "くも", "benar": true },
+    { "teks": "ぐも", "benar": false },
+    { "teks": "くう", "benar": false },
+    { "teks": "うん", "benar": false }
+  ],
+  "penjelasan": "<jp>雲</jp> dibaca <jp>くも</jp>, artinya awan. Bacaan <jp>うん</jp> adalah bacaan on dan tidak dipakai berdiri sendiri."
+}
