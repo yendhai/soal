@@ -1,0 +1,12 @@
+{
+  "label": ["Kuil"],
+  "situasi": { "gambar": "ap_berdoa" },
+  "pertanyaan": { "teks": "絵の人はお寺で【お願い】をしています。\n【お願い】の読み方はどれですか。" },
+  "pilihan": [
+    { "teks": "おねがい", "benar": true },
+    { "teks": "おねがえ", "benar": false },
+    { "teks": "おねげい", "benar": false },
+    { "teks": "おんがい", "benar": false }
+  ],
+  "penjelasan": "<jp>お願い</jp> dibaca <jp>おねがい</jp>, artinya permohonan atau doa harapan. <jp>お願いをする</jp> berarti berdoa atau memohon."
+}
