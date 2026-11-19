@@ -1,0 +1,11 @@
+{
+  "label": ["Kuil"],
+  "pertanyaan": { "teks": "お寺の前で、手を（　）て、お願いをしました。" },
+  "pilihan": [
+    { "teks": "合わせ", "benar": true },
+    { "teks": "切り", "benar": false },
+    { "teks": "買い", "benar": false },
+    { "teks": "売り", "benar": false }
+  ],
+  "penjelasan": "<jp>合わせて</jp> dibaca <jp>あわせて</jp>, bentuk te dari <jp>合わせる</jp>, artinya menyatukan. <jp>手を合わせる</jp> berarti menyatukan kedua telapak tangan untuk berdoa."
+}
