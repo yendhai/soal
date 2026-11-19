@@ -1,12 +1,12 @@
 {
   "label": ["Rumah sakit"],
   "situasi": { "gambar": "af_minumobat" },
-  "pertanyaan": { "teks": "絵の人は薬を【飲んで】います。\n【飲んで】の読み方はどれですか。" },
+  "pertanyaan": { "teks": "絵の説明として正しいものはどれですか。" },
   "pilihan": [
-    { "teks": "のんで", "benar": true },
-    { "teks": "のって", "benar": false },
-    { "teks": "のいで", "benar": false },
-    { "teks": "よんで", "benar": false }
+    { "teks": "病室のベッドで、患者が水と一緒に薬を飲んでいます。", "benar": true },
+    { "teks": "医者が患者の熱を測って、注射をしています。", "benar": false },
+    { "teks": "患者がベッドから起きて、窓の外を散歩しています。", "benar": false },
+    { "teks": "看護師がベッドの横に立って、食事を運んでいます。", "benar": false }
   ],
-  "penjelasan": "<jp>飲んで</jp> dibaca <jp>のんで</jp>, bentuk te dari <jp>飲む</jp>, artinya minum. <jp>薬を飲む</jp> berarti minum obat."
+  "penjelasan": "Pada gambar terlihat seorang pasien (<jp>患者</jp>) berada di tempat tidur ruang rawat inap (<jp>病室のベッド</jp>) sedang minum obat dengan air dari gelas (<jp>水と一緒に薬を飲んでいます</jp>). Pilihan lain salah karena tidak ada dokter (<jp>医者</jp>) maupun perawat (<jp>看護師</jp>) di ruangan."
 }
