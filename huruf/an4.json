@@ -1,0 +1,11 @@
+{
+  "label": ["Taman 2"],
+  "pertanyaan": { "teks": "大きな【き】の下は、すずしくて気持ちがいいです。\n【き】を漢字で書くと、どれですか。" },
+  "pilihan": [
+    { "teks": "木", "benar": true },
+    { "teks": "本", "benar": false },
+    { "teks": "末", "benar": false },
+    { "teks": "未", "benar": false }
+  ],
+  "penjelasan": "<jp>木</jp> dibaca <jp>き</jp>, artinya pohon. <jp>本</jp> (buku), <jp>末</jp> (akhir), dan <jp>未</jp> (belum) bentuknya mirip tetapi artinya berbeda."
+}
