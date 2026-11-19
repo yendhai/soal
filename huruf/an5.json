@@ -1,0 +1,11 @@
+{
+  "label": ["Taman 2"],
+  "pertanyaan": { "teks": "公園の朝はとても【しずか】です。\n【しずか】を漢字で書くと、どれですか。" },
+  "pilihan": [
+    { "teks": "静か", "benar": true },
+    { "teks": "清か", "benar": false },
+    { "teks": "精か", "benar": false },
+    { "teks": "青か", "benar": false }
+  ],
+  "penjelasan": "<jp>静か</jp> dibaca <jp>しずか</jp>, artinya tenang atau sepi."
+}
