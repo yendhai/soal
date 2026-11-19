@@ -1,0 +1,12 @@
+{
+  "label": ["Olahraga 1"],
+  "situasi": { "gambar": "ah_baseball" },
+  "pertanyaan": { "teks": "絵の人は【野球】をしています。\n【野球】の読み方はどれですか。" },
+  "pilihan": [
+    { "teks": "やきゅう", "benar": true },
+    { "teks": "やっきゅう", "benar": false },
+    { "teks": "やぎゅう", "benar": false },
+    { "teks": "のきゅう", "benar": false }
+  ],
+  "penjelasan": "<jp>野球</jp> dibaca <jp>やきゅう</jp>, artinya bisbol."
+}
