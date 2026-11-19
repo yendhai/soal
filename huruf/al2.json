@@ -1,0 +1,12 @@
+{
+  "label": ["Profesi 1"],
+  "situasi": { "gambar": "al_dokter" },
+  "pertanyaan": { "teks": "絵の人は【医者】です。\n【医者】の読み方はどれですか。" },
+  "pilihan": [
+    { "teks": "いしゃ", "benar": true },
+    { "teks": "いじゃ", "benar": false },
+    { "teks": "いしや", "benar": false },
+    { "teks": "いっしゃ", "benar": false }
+  ],
+  "penjelasan": "<jp>医者</jp> dibaca <jp>いしゃ</jp>, artinya dokter."
+}
