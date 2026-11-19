@@ -1,12 +1,12 @@
 {
   "label": ["Taman 2"],
   "situasi": { "gambar": "an_istirahat" },
-  "pertanyaan": { "teks": "絵の人は木の下で【休んで】います。\n【休んで】の読み方はどれですか。" },
+  "pertanyaan": { "teks": "絵の説明として正しいものはどれですか。" },
   "pilihan": [
-    { "teks": "やすんで", "benar": true },
-    { "teks": "やすって", "benar": false },
-    { "teks": "やすいで", "benar": false },
-    { "teks": "きゅうんで", "benar": false }
+    { "teks": "女の人が大きい木の下で、目を閉じて休んでいます。", "benar": true },
+    { "teks": "女の人がベンチに座って、サンドイッチを食べています。", "benar": false },
+    { "teks": "女の人が公園の道を走って、運動をしています。", "benar": false },
+    { "teks": "女の人が自動販売機の前で、飲み物を買っています。", "benar": false }
   ],
-  "penjelasan": "<jp>休んで</jp> dibaca <jp>やすんで</jp>, bentuk te dari <jp>休む</jp>, artinya beristirahat."
+  "penjelasan": "Pada gambar terlihat seorang perempuan duduk bersandar di bawah pohon besar (<jp>大きい木の下で</jp>) sambil memejamkan mata untuk beristirahat (<jp>目を閉じて休んでいます</jp>). Pilihan lain salah karena ia tidak duduk di bangku (<jp>ベンチ</jp>), tidak makan, tidak berlari, dan tidak sedang membeli minuman di mesin otomatis."
 }
