@@ -1,0 +1,11 @@
+{
+  "label": ["Kendaraan 2"],
+  "pertanyaan": { "teks": "夏休みに家族と【りょこう】をします。\n【りょこう】を漢字で書くと、どれですか。" },
+  "pilihan": [
+    { "teks": "旅行", "benar": true },
+    { "teks": "族行", "benar": false },
+    { "teks": "施行", "benar": false },
+    { "teks": "放行", "benar": false }
+  ],
+  "penjelasan": "<jp>旅行</jp> dibaca <jp>りょこう</jp>, artinya perjalanan atau berwisata."
+}
