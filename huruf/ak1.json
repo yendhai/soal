@@ -1,12 +1,12 @@
 {
   "label": ["Kendaraan 2"],
   "situasi": { "gambar": "ak_kereta" },
-  "pertanyaan": { "teks": "絵の人は電車を【降りて】います。\n【降りて】の読み方はどれですか。" },
+  "pertanyaan": { "teks": "絵の説明として正しいものはどれですか。" },
   "pilihan": [
-    { "teks": "おりて", "benar": true },
-    { "teks": "ふりて", "benar": false },
-    { "teks": "おちて", "benar": false },
-    { "teks": "おりって", "benar": false }
+    { "teks": "電車が住宅街の近くの線路を走っています。", "benar": true },
+    { "teks": "たくさんの人が駅のホームで電車を待っています。", "benar": false },
+    { "teks": "男の子が電車の窓から外を見て手を振っています。", "benar": false },
+    { "teks": "電車が長いトンネルの中に入っていくところです。", "benar": false }
   ],
-  "penjelasan": "<jp>降りて</jp> dibaca <jp>おりて</jp>, bentuk te dari <jp>降りる</jp>, artinya turun dari kendaraan. <jp>降る</jp> (ふる) dipakai untuk hujan atau salju."
+  "penjelasan": "Pada gambar terlihat sebuah kereta listrik (<jp>電車</jp>) sedang melaju di atas rel di dekat area perumahan (<jp>住宅街の近くの線路を走っています</jp>). Pilihan lain salah karena tidak ada peron maupun orang (<jp>駅のホーム</jp>, <jp>男の子</jp>), dan kereta tidak sedang memasuki terowongan (<jp>トンネル</jp>)."
 }
