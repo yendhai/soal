@@ -1,0 +1,11 @@
+{
+  "label": ["Olahraga 1"],
+  "pertanyaan": { "teks": "【毎（　）】土曜日にサッカーをします。\n（　）に入る漢字はどれですか。" },
+  "pilihan": [
+    { "teks": "週", "benar": true },
+    { "teks": "通", "benar": false },
+    { "teks": "道", "benar": false },
+    { "teks": "近", "benar": false }
+  ],
+  "penjelasan": "<jp>毎週</jp> dibaca <jp>まいしゅう</jp>, artinya setiap minggu."
+}
