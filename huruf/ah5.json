@@ -1,0 +1,11 @@
+{
+  "label": ["Olahraga 1"],
+  "pertanyaan": { "teks": "【ちから】を入れて、ボールをなげました。\n【ちから】を漢字で書くと、どれですか。" },
+  "pilihan": [
+    { "teks": "力", "benar": true },
+    { "teks": "刀", "benar": false },
+    { "teks": "方", "benar": false },
+    { "teks": "万", "benar": false }
+  ],
+  "penjelasan": "<jp>力</jp> dibaca <jp>ちから</jp>, artinya tenaga atau kekuatan. <jp>刀</jp> (pedang) bentuknya mirip tetapi tidak punya goresan miring di kiri."
+}
