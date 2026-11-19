@@ -1,12 +1,12 @@
 {
   "label": ["Olahraga 2"],
   "situasi": { "gambar": "ai_tenismeja" },
-  "pertanyaan": { "teks": "絵の人はたっきゅうをして、友達と【遊んで】います。\n【遊んで】の読み方はどれですか。" },
+  "pertanyaan": { "teks": "絵の説明として正しいものはどれですか。" },
   "pilihan": [
-    { "teks": "あそんで", "benar": true },
-    { "teks": "あそって", "benar": false },
-    { "teks": "あそいで", "benar": false },
-    { "teks": "あぞんで", "benar": false }
+    { "teks": "女の人がラケットを持って、真剣な顔で卓球をしています。", "benar": true },
+    { "teks": "女の人が広いコートで、バドミントンの練習をしています。", "benar": false },
+    { "teks": "女の人がプールサイドに立って、水泳の試合を見ています。", "benar": false },
+    { "teks": "女の人がボールを投げて、野球の試合をしています。", "benar": false }
   ],
-  "penjelasan": "<jp>遊んで</jp> dibaca <jp>あそんで</jp>, bentuk te dari <jp>遊ぶ</jp>, artinya bermain."
+  "penjelasan": "Pada gambar terlihat seorang perempuan memegang bet (<jp>ラケットを持って</jp>) dengan ekspresi wajah serius sedang bermain tenis meja (<jp>真剣な顔で卓球をしています</jp>). Pilihan lain salah karena olahraga yang dimainkan bukan bulu tangkis (<jp>バドミントン</jp>), renang (<jp>水泳</jp>), maupun bisbol (<jp>野球</jp>)."
 }
