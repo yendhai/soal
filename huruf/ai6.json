@@ -1,0 +1,11 @@
+{
+  "label": ["Olahraga 2"],
+  "pertanyaan": { "teks": "テニスのルールが（　）ので、まだわかりません。" },
+  "pilihan": [
+    { "teks": "難しい", "benar": true },
+    { "teks": "明るい", "benar": false },
+    { "teks": "暗い", "benar": false },
+    { "teks": "短い", "benar": false }
+  ],
+  "penjelasan": "<jp>難しい</jp> dibaca <jp>むずかしい</jp>, artinya sulit, cocok sebagai alasan belum paham aturan. Pilihan lain tidak cocok dengan <jp>ルール</jp>."
+}
