@@ -1,0 +1,11 @@
+{
+  "label": ["Profesi 1"],
+  "pertanyaan": { "teks": "ぐあいが悪いので、医者に（　）てもらいました。" },
+  "pilihan": [
+    { "teks": "見", "benar": true },
+    { "teks": "買", "benar": false },
+    { "teks": "売", "benar": false },
+    { "teks": "食", "benar": false }
+  ],
+  "penjelasan": "<jp>見てもらう</jp> berarti diperiksa atau dilihat oleh orang lain. <jp>医者に見てもらう</jp> artinya diperiksa dokter. Kata kerja lain tidak cocok dengan <jp>医者に</jp>."
+}
