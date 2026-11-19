@@ -1,0 +1,12 @@
+{
+  "label": ["Olahraga 1"],
+  "situasi": { "gambar": "ah_sumo" },
+  "pertanyaan": { "teks": "絵の人はすもうを取っています。この人はとても【強い】です。\n【強い】の読み方はどれですか。" },
+  "pilihan": [
+    { "teks": "つよい", "benar": true },
+    { "teks": "つよし", "benar": false },
+    { "teks": "ごうい", "benar": false },
+    { "teks": "きょうい", "benar": false }
+  ],
+  "penjelasan": "<jp>強い</jp> dibaca <jp>つよい</jp>, artinya kuat. Pada pilihan lain, <jp>きょう</jp> dan <jp>ごう</jp> adalah bacaan on dan tidak dipakai untuk kata ini."
+}
