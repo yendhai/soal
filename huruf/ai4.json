@@ -1,0 +1,11 @@
+{
+  "label": ["Olahraga 2"],
+  "pertanyaan": { "teks": "このボールは【おもい】ので、なげられません。\n【おもい】を漢字で書くと、どれですか。" },
+  "pilihan": [
+    { "teks": "重い", "benar": true },
+    { "teks": "動い", "benar": false },
+    { "teks": "種い", "benar": false },
+    { "teks": "童い", "benar": false }
+  ],
+  "penjelasan": "<jp>重い</jp> dibaca <jp>おもい</jp>, artinya berat."
+}
