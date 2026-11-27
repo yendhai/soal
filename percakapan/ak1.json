@@ -9,10 +9,10 @@
     "gambar": ""
   },
   "pilihan": [
-    { "teks": "日曜日に映画を見ましたか。", "gambar": "", "benar": false },
-    { "teks": "日曜日は映画を見ません。", "gambar": "", "benar": false },
-    { "teks": "日曜日、いっしょに映画を見に行きませんか。", "gambar": "", "benar": true },
-    { "teks": "日曜日は映画でした。", "gambar": "", "benar": false }
+    { "teks": "来週の日曜日、いっしょに映画を見に行かない？", "gambar": "", "benar": true },
+    { "teks": "来週の日曜日、いっしょに映画を見に行ってはだめ？", "gambar": "", "benar": false },
+    { "teks": "来週の日曜日、いっしょに映画を見に行きたくない？", "gambar": "", "benar": false },
+    { "teks": "来週の日曜日、いっしょに映画を見に行ったばかりだよ。", "gambar": "", "benar": false }
   ],
-  "penjelasan": "Untuk mengajak teman, pakai <jp>いっしょに〜に行きませんか</jp>, jadi <jp>いっしょに映画を見に行きませんか</jp> berarti 'maukah kita pergi menonton film bersama'. <jp>見ましたか</jp> menanyakan hal yang sudah lewat, <jp>見ません</jp> berarti 'tidak menonton', dan <jp>映画でした</jp> berarti 'tadi adalah film', jadi tidak ada yang berupa ajakan."
+  "penjelasan": "Untuk mengajak teman secara alami dalam percakapan sehari-hari, digunakan bentuk negatif tanya <jp>〜ない？</jp> (setara dengan <jp>〜ませんか</jp>): <jp>いっしょに映画を見に行かない？</jp> (Mau pergi nonton film bareng nggak?). Opsi pengecoh sangat menjebak karena semuanya memakai <jp>いっしょに映画を見に〜</jp>: <jp>行ってはだめ？</jp> berarti meminta izin ('boleh nggak kalau aku pergi nonton film bareng?'), <jp>行きたくない？</jp> berarti menanyakan apakah temanmu *tidak ingin* pergi (bernuansa pesimis/menuduh, bukan mengajak), dan <jp>行ったばかりだよ</jp> menggunakan bentuk lampau (<jp>〜たばかり</jp> = baru saja pergi) yang bertentangan dengan keterangan waktu <jp>来週の日曜日</jp> (hari Minggu depan)."
 }
