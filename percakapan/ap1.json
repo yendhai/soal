@@ -9,10 +9,10 @@
     "gambar": ""
   },
   "pilihan": [
-    { "teks": "すみません、お守りを返してください。", "gambar": "", "benar": false },
-    { "teks": "すみません、お守りを作ってください。", "gambar": "", "benar": false },
-    { "teks": "すみません、お守りを洗ってください。", "gambar": "", "benar": false },
-    { "teks": "すみません、お守りをください。", "gambar": "", "benar": true }
+    { "teks": "すみません、このお守りを一ついただけますか。", "gambar": "", "benar": true },
+    { "teks": "すみません、このお守りを一つ差し上げましょうか。", "gambar": "", "benar": false },
+    { "teks": "すみません、このお守りを一つ持ってきてください。", "gambar": "", "benar": false },
+    { "teks": "すみません、このお守りを一つ買ってください。", "gambar": "", "benar": false }
   ],
-  "penjelasan": "Untuk membeli jimat, pakai <jp>お守りをください</jp>, yang berarti 'tolong beri saya jimat'. <jp>返してください</jp> berarti 'tolong kembalikan', <jp>作ってください</jp> berarti 'tolong buatkan', dan <jp>洗ってください</jp> berarti 'tolong cucikan', jadi tidak sesuai dengan keinginan membeli."
+  "penjelasan": "Saat membeli sesuatu dengan sopan di loket kuil, bentuk yang paling tepat dan alami adalah <jp>このお守りをひとついただけますか</jp> (Bolehkah saya meminta/membeli jimat ini satu?), di mana <jp>いただけますか</jp> adalah bentuk sopan dari <jp>もらえますか</jp>. Opsi pengecoh menggunakan tata bahasa yang menjebak: <jp>差し上げましょうか</jp> berarti menawarkan untuk memberi kepada petugas (kebalikannya), <jp>持ってきてください</jp> berarti menyuruh petugas membawakan sesuatu dari tempat lain seperti pelayan restoran, dan <jp>買ってください</jp> berarti menyuruh petugas yang membelinya."
 }
