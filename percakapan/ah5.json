@@ -1,5 +1,5 @@
 {
-  "label": "Di apotek",
+  "label": "Apotek",
   "situasi": {
     "teks": "これから車で出かけます。薬を飲んだあと、ねむくならないか心配です。薬局の人に聞きます。",
     "gambar": ""
@@ -9,10 +9,10 @@
     "gambar": ""
   },
   "pilihan": [
-    { "teks": "すみません、この薬は何色ですか。", "gambar": "", "benar": false },
-    { "teks": "すみません、この薬はどこで作りましたか。", "gambar": "", "benar": false },
-    { "teks": "すみません、この薬を飲むと、ねむくなりますか。", "gambar": "", "benar": true },
-    { "teks": "すみません、この薬を、昨日飲みましたか。", "gambar": "", "benar": false }
+    { "teks": "すみません、この薬を飲んでから、運転してもいいですか。", "gambar": "", "benar": true },
+    { "teks": "すみません、この薬は、運転しながら飲んでもいいですか。", "gambar": "", "benar": false },
+    { "teks": "すみません、この薬を飲むまえに、運転しなければなりませんか。", "gambar": "", "benar": false },
+    { "teks": "すみません、この薬は、車の中で飲まないほうがいいですか。", "gambar": "", "benar": false }
   ],
-  "penjelasan": "Untuk menanyakan efek obat, pakai <jp>この薬を飲むと、ねむくなりますか</jp>, yang berarti 'kalau minum obat ini, apakah jadi mengantuk'. <jp>何色ですか</jp> menanyakan warna, <jp>どこで作りましたか</jp> menanyakan tempat pembuatan, dan <jp>昨日飲みましたか</jp> menanyakan apakah sudah minum kemarin, jadi tidak sesuai dengan kekhawatiran tentang rasa kantuk."
+  "penjelasan": "Karena khawatir mengantuk setelah minum obat saat akan pergi naik mobil (<jp>これから車で出かけます</jp>), pertanyaan yang paling tepat dan alami di apotek adalah menanyakan apakah boleh menyetir setelah minum obat: <jp>この薬を飲んでから、運転してもいいですか</jp>. Opsi pengecoh menggunakan kosakata yang sama (<jp>運転</jp> dan <jp>車</jp>) namun salah konteks: <jp>運転しながら</jp> (minum sambil menyetir), <jp>飲むまえに運転しなければなりませんか</jp> (apakah harus menyetir sebelum minum obat), dan <jp>車の中で飲まないほうがいいですか</jp> (apakah sebaiknya tidak minum di dalam mobil)."
 }
