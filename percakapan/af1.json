@@ -9,10 +9,10 @@
     "gambar": ""
   },
   "pilihan": [
-    { "teks": "すみません、写真はどこで買いますか。", "gambar": "", "benar": false },
-    { "teks": "すみません、写真が好きですか。", "gambar": "", "benar": false },
-    { "teks": "すみません、写真をとってもらえませんか。", "gambar": "", "benar": true },
-    { "teks": "すみません、写真を見せてもらえませんか。", "gambar": "", "benar": false }
+    { "teks": "すみません、シャッターをおしていただけませんか。", "gambar": "", "benar": true },
+    { "teks": "すみません、シャッターをおしてあげましょうか。", "gambar": "", "benar": false },
+    { "teks": "すみません、二人の写真を見せていただけませんか。", "gambar": "", "benar": false },
+    { "teks": "すみません、いっしょに写真に入っていただけませんか。", "gambar": "", "benar": false }
   ],
-  "penjelasan": "Untuk meminta orang lain memotret kita, pakai <jp>写真をとってもらえませんか</jp>, yang berarti 'bisakah Anda memotret kami'. <jp>写真はどこで買いますか</jp> menanyakan tempat membeli foto, <jp>写真が好きですか</jp> menanyakan kesukaan, dan <jp>写真を見せてもらえませんか</jp> meminta foto yang sudah ada ditunjukkan."
+  "penjelasan": "Saat berwisata berdua dan ingin meminta orang di sekitar memotret kita, ungkapan yang sangat umum dan sopan di Jepang adalah meminta tolong memencet tombol rana kamera: <jp>シャッターをおしていただけませんか</jp> (Maaf, bisakah Anda tolong pencetkan tombol kameranya?). Opsi pengecoh sangat menjebak karena semuanya bernuansa sopan dan berkaitan dengan foto: <jp>シャッターをおしてあげましょうか</jp> berarti menawarkan bantuan untuk memotret orang lain (terbalik arahnya), <jp>二人の写真を見せていただけませんか</jp> berarti meminta diperlihatkan foto mereka berdua, dan <jp>いっしょに写真に入っていただけませんか</jp> berarti mengajak orang asing tersebut ikut berfoto bersama."
 }
