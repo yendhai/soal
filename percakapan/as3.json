@@ -1,7 +1,7 @@
 {
   "label": "Festival 1",
   "situasi": {
-    "teks": "お祭りで、友だちが言いました。\n「浴衣、とてもにあいますね。」",
+    "teks": "お祭りで、友だちが言いました。\n「その浴衣、すごくにあっているね。」",
     "gambar": ""
   },
   "pertanyaan": {
@@ -9,10 +9,10 @@
     "gambar": ""
   },
   "pilihan": [
-    { "teks": "ありがとうございます。うれしいです。", "gambar": "", "benar": true },
-    { "teks": "どういたしまして。", "gambar": "", "benar": false },
-    { "teks": "いただきます。", "gambar": "", "benar": false },
-    { "teks": "いってきます。", "gambar": "", "benar": false }
+    { "teks": "ほんとう？ありがとう、そう言ってもらえるとうれしいよ。", "gambar": "", "benar": true },
+    { "teks": "ほんとう？ありがとう、そう言ってあげるとうれしいよ。", "gambar": "", "benar": false },
+    { "teks": "ほんとう？ありがとう、ぜんぜんにあっていないんだ。", "gambar": "", "benar": false },
+    { "teks": "ほんとう？どういたしまして、とてもうれしいよ。", "gambar": "", "benar": false }
   ],
-  "penjelasan": "Saat dipuji, balas dengan terima kasih: <jp>ありがとうございます。うれしいです</jp>, 'terima kasih, saya senang'. <jp>どういたしまして</jp> adalah jawaban atas ucapan terima kasih, bukan atas pujian. <jp>いただきます</jp> diucapkan sebelum makan, dan <jp>いってきます</jp> diucapkan saat berangkat dari rumah."
+  "penjelasan": "Saat dipuji oleh teman mengenai pakaian (<jp>その浴衣、すごくにあっているね</jp> = Yukata itu cocok sekali denganmu ya), respons yang paling alami dan sopan dalam ragam akrab adalah berterima kasih lalu mengungkapkan rasa senang karena dipuji demikian: <jp>ほんとう？ありがとう、そう言ってもらえるとうれしいよ</jp> (Benarkah? Makasih, aku senang kalau dibilang begitu). Opsi pengecoh sangat menjebak karena ritme kalimatnya kembar: <jp>そう言ってあげると</jp> terbalik arah pelakunya ('kalau aku yang bilang begitu ke kamu'), <jp>ぜんぜんにあっていないんだ</jp> menyangkal pujian secara kasar/kaku setelah mengucapkan terima kasih, dan <jp>どういたしまして</jp> adalah balasan untuk ucapan terima kasih, bukan untuk menerima pujian."
 }
