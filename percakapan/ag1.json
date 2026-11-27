@@ -1,5 +1,5 @@
 {
-  "label": "Di kebun binatang",
+  "label": "Kebun binatang",
   "situasi": {
     "teks": "動物園に来ました。パンダを見たいですが、どこにいるか分かりません。係の人に聞きます。",
     "gambar": ""
@@ -9,10 +9,10 @@
     "gambar": ""
   },
   "pilihan": [
-    { "teks": "すみません、パンダはどこにいますか。", "gambar": "", "benar": true },
-    { "teks": "すみません、パンダは何を食べましたか。", "gambar": "", "benar": false },
-    { "teks": "すみません、パンダは何歳ですか。", "gambar": "", "benar": false },
-    { "teks": "すみません、パンダのチケットはいくらですか。", "gambar": "", "benar": false }
+    { "teks": "すみません、パンダはどちらで見られますか。", "gambar": "", "benar": true },
+    { "teks": "すみません、パンダは何時まで見られますか。", "gambar": "", "benar": false },
+    { "teks": "すみません、パンダの写真を見せてもらえますか。", "gambar": "", "benar": false },
+    { "teks": "すみません、パンダのところへ連れていってください。", "gambar": "", "benar": false }
   ],
-  "penjelasan": "Untuk menanyakan lokasi hewan, pakai <jp>どこにいますか</jp>, yang berarti 'ada di mana'. <jp>何を食べましたか</jp> menanyakan apa yang dimakan, <jp>何歳ですか</jp> menanyakan umur, dan <jp>チケットはいくらですか</jp> menanyakan harga tiket, sehingga tidak sesuai dengan keinginan mencari tempat panda."
+  "penjelasan": "Untuk menanyakan lokasi tempat melihat panda secara sopan tanpa mengulang kata <jp>どこ</jp>, digunakan kata <jp>どちら</jp> (di sebelah mana/arah mana) digabung dengan bentuk potensial <jp>見られますか</jp> (bisa dilihat): <jp>パンダはどちらで見られますか</jp>. Opsi pengecoh lainnya menggunakan kosakata yang mirip namun salah konteks: <jp>何時まで見られますか</jp> (menanyakan jam tutup/batas waktu), <jp>写真を見せてもらえますか</jp> (meminta diperlihatkan foto panda), dan <jp>連れていってください</jp> (meminta petugas mengantar langsung, yang kurang wajar untuk menanyakan lokasi kandang di kebun binatang)."
 }
