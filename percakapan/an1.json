@@ -9,10 +9,10 @@
     "gambar": ""
   },
   "pilihan": [
-    { "teks": "あぶないですから、机の上に乗ってください。", "gambar": "", "benar": false },
-    { "teks": "あぶないですから、机の下に入ってください。", "gambar": "", "benar": true },
-    { "teks": "あぶないですから、窓のそばに立ってください。", "gambar": "", "benar": false },
-    { "teks": "あぶないですから、エレベーターに乗ってください。", "gambar": "", "benar": false }
+    { "teks": "あぶないですから、早く机の下にかくれたほうがいいですよ。", "gambar": "", "benar": true },
+    { "teks": "あぶないですから、早く机の下から出たほうがいいですよ。", "gambar": "", "benar": false },
+    { "teks": "あぶないですから、早く机の下に入ってはいけませんよ。", "gambar": "", "benar": false },
+    { "teks": "あぶないですから、早く机の上にかくれなければなりませんよ。", "gambar": "", "benar": false }
   ],
-  "penjelasan": "Saat gempa, berlindung di bawah meja melindungi kepala dari benda yang jatuh, jadi katakan <jp>机の下に入ってください</jp>. <jp>机の上に乗ってください</jp> berarti naik ke atas meja yang berbahaya, <jp>窓のそばに立ってください</jp> berarti berdiri dekat jendela yang bisa pecah, dan <jp>エレベーターに乗ってください</jp> berarti naik lift yang tidak aman saat gempa."
+  "penjelasan": "Dalam situasi darurat gempa di kantor, untuk menyarankan rekan kerja agar segera berlindung ke bawah meja secara sopan namun tegas, digunakan pola saran <jp>〜たほうがいいですよ</jp> dengan kata kerja <jp>かくれる</jp> (bersembunyi/berlindung): <jp>早く机の下にかくれたほうがいいですよ</jp> (Karena berbahaya, sebaiknya cepat berlindung di bawah meja). Opsi pengecoh sangat menjebak karena semuanya memakai <jp>机</jp> dan kata yang mirip: <jp>机の下から出たほうがいい</jp> berarti 'sebaiknya keluar dari bawah meja', <jp>机の下に入ってはいけません</jp> berarti 'tidak boleh masuk ke bawah meja', dan <jp>机の上にかくれなければなりません</jp> salah posisi (<jp>上</jp> = di atas meja, bukan di bawah)."
 }
