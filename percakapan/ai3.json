@@ -1,5 +1,5 @@
 {
-  "label": "Di kelas",
+  "label": "Kelas",
   "situasi": {
     "teks": "先生が説明を終えて、聞きました。\n「ここまで、わかりましたか。」あなたはよくわかりませんでした。",
     "gambar": ""
@@ -16,4 +16,3 @@
   ],
   "penjelasan": "Ketika guru selesai menjelaskan dan menanyakan pemahaman (<jp>ここまで、わかりましたか</jp>), respons paling sopan dan alami saat kurang paham adalah meminta maaf lalu meminta guru menjelaskan ulang: <jp>すみません、もういちど説明していただけませんか</jp> (Maaf, bisakah Anda menjelaskannya sekali lagi?). Opsi pengecoh sangat menjebak: <jp>説明してあげましょうか</jp> berarti murid menawarkan untuk menjelaskan kepada guru, <jp>わからなくてもいいですか</jp> berarti bertanya 'bolehkah kalau tidak mengerti?' (kurang sopan/tidak logis di kelas), dan <jp>さっきよりぜんぜんわかりました</jp> mencampurkan kata <jp>ぜんぜん</jp> (yang seharusnya untuk kalimat negatif) dengan bentuk positif <jp>わかりました</jp>."
 }
-もう一度
