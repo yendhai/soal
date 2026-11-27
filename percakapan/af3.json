@@ -1,7 +1,7 @@
 {
   "label": "Jalan-jalan",
   "situasi": {
-    "teks": "天気がいい日です。友だちが言いました。\n「公園に行きませんか。」あなたも行きたいです。",
+    "teks": "天気がいい日です。友だちが言いました。\n「公園に行かない？」あなたも行きたいです。",
     "gambar": ""
   },
   "pertanyaan": {
@@ -9,10 +9,10 @@
     "gambar": ""
   },
   "pilihan": [
-    { "teks": "いいえ、行きます。", "gambar": "", "benar": false },
-    { "teks": "いただきます。", "gambar": "", "benar": false },
-    { "teks": "すみません、行きませんでした。", "gambar": "", "benar": false },
-    { "teks": "いいですね。行きましょう。", "gambar": "", "benar": true }
+    { "teks": "うん、いいね！ちょうど行きたいと思っていたんだ。", "gambar": "", "benar": true },
+    { "teks": "うん、いいね！ちょうど行ったばかりなんだ。", "gambar": "", "benar": false },
+    { "teks": "ううん、いいね！あまり行きたくないんだ。", "gambar": "", "benar": false },
+    { "teks": "うん、いいね！行かなくてもいいよ。", "gambar": "", "benar": false }
   ],
-  "penjelasan": "Ajakan dengan <jp>〜ませんか</jp> dijawab setuju dengan <jp>いいですね。行きましょう</jp>, artinya 'bagus, ayo pergi'. <jp>いいえ、行きます</jp> bertentangan di dalam kalimatnya sendiri, <jp>いただきます</jp> diucapkan sebelum makan, dan <jp>行きませんでした</jp> berarti 'tidak pergi' dalam bentuk lampau."
+  "penjelasan": "Saat teman mengajak pergi ke taman dalam ragam santai (<jp>公園に行かない？</jp>) dan kamu juga ingin pergi, respons yang paling alami dan antusias adalah menyetujui lalu menambahkan bahwa kamu memang sedang berpikiran sama: <jp>うん、いいね！ちょうど行きたいと思っていたんだ</jp> (Iya, ide bagus! Kebetulan aku juga lagi kepengin pergi). Opsi pengecoh sangat menjebak karena keempatnya diawali dengan <jp>いいね！</jp>: <jp>ちょうど行ったばかりなんだ</jp> berarti 'kebetulan aku baru saja pergi ke sana' (bernuansa menolak karena baru dari sana), <jp>あまり行きたくないんだ</jp> berarti 'kurang ingin pergi' (bertentangan dengan situasi), dan <jp>行かなくてもいいよ</jp> berarti 'nggak usah pergi juga nggak apa-apa' (seolah-olah temanmu meminta izin untuk tidak pergi, bukan mengajak)."
 }
