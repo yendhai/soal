@@ -1,7 +1,7 @@
 {
   "label": "Festival 2",
   "situasi": {
-    "teks": "お祭りで友だちが見つかりません。電話をしたら、友だちが言いました。\n「今、どこにいますか。」あなたは入口の大きい木の前にいます。",
+    "teks": "お祭りで友だちが見つかりません。電話をしたら、友だちが言いました。\n「今、どこにいるの？」あなたは入口の大きい木の前にいます。",
     "gambar": ""
   },
   "pertanyaan": {
@@ -9,10 +9,10 @@
     "gambar": ""
   },
   "pilihan": [
-    { "teks": "はい、元気です。ありがとうございます。", "gambar": "", "benar": false },
-    { "teks": "入口の大きい木を食べました。", "gambar": "", "benar": false },
-    { "teks": "いいえ、わかりました。", "gambar": "", "benar": false },
-    { "teks": "入口の大きい木の前にいます。", "gambar": "", "benar": true }
+    { "teks": "入口のそばにある大きい木の下にいるよ。", "gambar": "", "benar": true },
+    { "teks": "入口のそばにいる大きい木の下にあるよ。", "gambar": "", "benar": false },
+    { "teks": "入口のそばにある大きい木の下へ行ったばかりだよ。", "gambar": "", "benar": false },
+    { "teks": "入口のそばにある大きい木の前には、だれもいないよ。", "gambar": "", "benar": false }
   ],
-  "penjelasan": "<jp>どこにいますか</jp> menanyakan lokasi, jadi jawab dengan tempat: <jp>入口の大きい木の前にいます</jp>, 'saya ada di depan pohon besar di pintu masuk'. <jp>はい、元気です</jp> menjawab pertanyaan kabar, <jp>木を食べました</jp> berarti 'memakan pohon' yang tidak masuk akal, dan <jp>いいえ、わかりました</jp> tidak menyebut lokasi."
+  "penjelasan": "Saat menelepon teman di festival dan ditanya lokasi keberadaanmu (<jp>今、どこにいるの？</jp>), jawaban yang natural dalam ragam santai adalah menjelaskan patokan tempatmu berada: <jp>入口のそばにある大きい木の下にいるよ</jp> (Aku ada di bawah pohon besar yang ada di dekat pintu masuk). Opsi pengecoh sangat menjebak karena semuanya memakai kosakata yang sama (<jp>入口</jp> dan <jp>大きい木</jp>): <jp>そばにいる〜木の下にあるよ</jp> membalik kata kerja keberadaan (<jp>いる</jp> dipakai untuk pohon/benda mati dan <jp>ある</jp> dipakai untuk manusia), <jp>行ったばかりだよ</jp> berarti 'baru saja pergi ke sana' (tidak menjawab posisi saat ini dengan jelas atau bernuansa sudah berlalu), dan <jp>だれもいないよ</jp> berarti 'di depan pohon besar itu tidak ada siapa-siapa' (bertentangan dengan posisi dirimu yang sedang berada di sana)."
 }
