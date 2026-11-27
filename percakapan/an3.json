@@ -9,10 +9,10 @@
     "gambar": ""
   },
   "pilihan": [
-    { "teks": "はい、だいじょうぶでした。けがもありませんでした。", "gambar": "", "benar": true },
-    { "teks": "はい、だいじょうぶです。けがをしました。", "gambar": "", "benar": false },
-    { "teks": "いってきます。", "gambar": "", "benar": false },
-    { "teks": "いただきます。", "gambar": "", "benar": false }
+    { "teks": "ありがとうございます。おかげさまで、どこもいたくありません。", "gambar": "", "benar": true },
+    { "teks": "ありがとうございます。おかげさまで、すこしけがをしました。", "gambar": "", "benar": false },
+    { "teks": "すみません。おかげさまで、びょういんへ行かなければなりません。", "gambar": "", "benar": false },
+    { "teks": "ごちそうさまでした。おかげさまで、ぜんぜんだいじょうぶでした。", "gambar": "", "benar": false }
   ],
-  "penjelasan": "<jp>だいじょうぶでしたか</jp> menanyakan apakah kamu baik-baik saja. Karena tidak terluka, jawab <jp>はい、だいじょうぶでした。けがもありませんでした</jp>. <jp>けがをしました</jp> berarti 'terluka' sehingga bertentangan dengan <jp>だいじょうぶ</jp>, <jp>いってきます</jp> diucapkan saat berangkat, dan <jp>いただきます</jp> diucapkan sebelum makan."
+  "penjelasan": "Ketika rekan kerja mengkhawatirkan kondisi kita setelah gempa (<jp>だいじょうぶでしたか</jp>), respons yang paling alami dan sopan dalam budaya Jepang adalah berterima kasih atas perhatiannya (<jp>ありがとうございます。おかげさまで</jp>) lalu menjelaskan bahwa tidak ada bagian tubuh yang sakit atau terluka: <jp>どこもいたくありません</jp> (tidak ada bagian yang sakit di mana pun). Opsi pengecoh sangat menjebak karena memakai ungkapan sopan yang sama (<jp>おかげさまで</jp>): <jp>すこしけがをしました</jp> bertentangan dengan situasi karena artinya 'terluka sedikit', <jp>びょういんへ行かなければなりません</jp> berarti 'harus pergi ke rumah sakit' (dan tidak cocok dengan <jp>おかげさまで</jp> yang bernuansa syukur/positif), sedangkan <jp>ごちそうさまでした</jp> salah salam pembuka."
 }
