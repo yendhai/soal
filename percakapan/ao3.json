@@ -1,7 +1,7 @@
 {
-  "label": "Di pantai",
+  "label": "Pantai",
   "situasi": {
-    "teks": "友だちが聞きました。\n「海の水は、つめたいですか。」あなたは先に水に入りました。ちょうどいいあたたかさでした。",
+    "teks": "友だちが聞きました。\n「海の水は、つめたい？」あなたは先に水に入りました。ちょうどいいあたたかさでした。",
     "gambar": ""
   },
   "pertanyaan": {
@@ -9,10 +9,10 @@
     "gambar": ""
   },
   "pilihan": [
-    { "teks": "はい、とてもつめたいです。", "gambar": "", "benar": false },
-    { "teks": "いいえ、とてもつめたいです。", "gambar": "", "benar": false },
-    { "teks": "はい、つめたくないです。", "gambar": "", "benar": false },
-    { "teks": "いいえ、つめたくないです。ちょうどいいです。", "gambar": "", "benar": true }
+    { "teks": "ううん、ぜんぜんつめたくないよ。", "gambar": "", "benar": true },
+    { "teks": "ううん、あまりつめたいよ。", "gambar": "", "benar": false },
+    { "teks": "うん、すこしつめたくないよ。", "gambar": "", "benar": false },
+    { "teks": "うん、とてもあたたかくないよ。", "gambar": "", "benar": false }
   ],
-  "penjelasan": "Karena airnya tidak dingin, jawab <jp>いいえ、つめたくないです</jp> lalu tambahkan <jp>ちょうどいいです</jp> yang berarti 'suhunya pas'. <jp>はい、とてもつめたいです</jp> berarti airnya memang dingin sehingga bertentangan, <jp>いいえ、とてもつめたいです</jp> memakai 'tidak' tetapi isinya dingin sehingga janggal, dan <jp>はい、つめたくないです</jp> mencampur 'ya' dengan bentuk negatif."
+  "penjelasan": "Saat teman bertanya dalam bentuk santai (<jp>つめたい？</jp>), jawaban yang tepat karena suhu air terasa pas adalah menyangkalnya dengan santai: <jp>ううん、ぜんぜんつめたくないよ</jp> (Nggak kok, sama sekali nggak dingin). Opsi pengecoh sangat menjebak karena menguji aturan kata keterangan dan konjugasi kata sifat-i: <jp>あまりつめたいよ</jp> salah karena <jp>あまり</jp> wajib diikuti bentuk negatif, <jp>すこしつめたくないよ</jp> tidak alami karena <jp>すこし</jp> dipakai untuk bentuk positif, dan <jp>うん、とてもあたたかくないよ</jp> bertentangan dengan situasi karena artinya 'iya, sangat tidak hangat (dingin)'."
 }
