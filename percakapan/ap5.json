@@ -9,10 +9,10 @@
     "gambar": ""
   },
   "pilihan": [
-    { "teks": "すみません、おみくじは、どこで買いましたか。", "gambar": "", "benar": false },
-    { "teks": "すみません、おみくじは、何時に来ましたか。", "gambar": "", "benar": false },
-    { "teks": "すみません、おみくじは、いくらですか。", "gambar": "", "benar": true },
-    { "teks": "すみません、おみくじは、おいしかったですか。", "gambar": "", "benar": false }
+    { "teks": "すみません、おみくじは一回いくらか分かりますか。", "gambar": "", "benar": false },
+    { "teks": "すみません、おみくじをひくのに、お金はどのくらいかかりますか。", "gambar": "", "benar": true },
+    { "teks": "すみません、おみくじの箱に、お金をいくら入れましたか。", "gambar": "", "benar": false },
+    { "teks": "すみません、おみくじは、どこでお金をはらえばいいですか。", "gambar": "", "benar": false }
   ],
-  "penjelasan": "Untuk menanyakan harga ramalan <jp>おみくじ</jp>, pakai <jp>いくらですか</jp>. <jp>どこで買いましたか</jp> menanyakan tempat membeli, <jp>何時に来ましたか</jp> menanyakan jam kedatangan, dan <jp>おいしかったですか</jp> menanyakan rasa makanan, jadi tidak sesuai dengan keinginan mengetahui harga."
+  "penjelasan": "Untuk menanyakan biaya atau tarif menarik ramalan (<jp>おみくじ</jp>) secara natural tanpa mengulang kalimat yang terlalu sederhana, digunakan <jp>お金はどのくらいかかりますか</jp> (kira-kira membutuhkan biaya berapa?). Opsi pengecoh sangat menjebak karena semuanya bertema uang dan <jp>おみくじ</jp>: <jp>一回いくらか分かりますか</jp> terkesan kurang sopan/mengetes lawan bicara ('apakah kamu tahu harganya berapa?'), <jp>お金をいくら入れましたか</jp> (kamu sudah memasukkan uang berapa ke kotak? — terlalu pribadi dan tidak menanyakan tarif resmi), dan <jp>どこでお金をはらえばいいですか</jp> (menanyakan tempat membayar, bukan jumlah biayanya)."
 }
