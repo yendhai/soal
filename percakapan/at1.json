@@ -9,10 +9,10 @@
     "gambar": ""
   },
   "pilihan": [
-    { "teks": "すみません、金魚を食べてもいいですか。", "gambar": "", "benar": false },
-    { "teks": "すみません、やり方を教えてください。", "gambar": "", "benar": true },
-    { "teks": "すみません、金魚は何歳ですか。", "gambar": "", "benar": false },
-    { "teks": "すみません、金魚を返してください。", "gambar": "", "benar": false }
+    { "teks": "すみません、どうやって遊ぶのか教えていただけますか。", "gambar": "", "benar": true },
+    { "teks": "すみません、どうやって遊ぶのか教えてあげましょうか。", "gambar": "", "benar": false },
+    { "teks": "すみません、金魚は手でつかまえてもいいですか。", "gambar": "", "benar": false },
+    { "teks": "すみません、金魚をすくってはいけませんか。", "gambar": "", "benar": false }
   ],
-  "penjelasan": "Untuk meminta diajari cara bermain, pakai <jp>やり方を教えてください</jp>, yang berarti 'tolong ajari caranya'. <jp>金魚を食べてもいいですか</jp> menanyakan apakah boleh memakan ikan mas, <jp>金魚は何歳ですか</jp> menanyakan umur ikan, dan <jp>金魚を返してください</jp> meminta ikan dikembalikan, jadi tidak sesuai dengan maksudnya."
+  "penjelasan": "Untuk menanyakan cara bermain <jp>金魚すくい</jp> (menangkap ikan mas) kepada penjaga kedai tanpa mengulang kata <jp>やり方</jp>, digunakan pertanyaan tidak langsung <jp>どうやって遊ぶのか</jp> (bagaimana cara bermainnya) yang digabung dengan permohonan sopan <jp>教えていただけますか</jp> (bisakah Anda memberitahu/mengajari saya?). Opsi pengecoh sangat menjebak karena semuanya bertema permainan tersebut: <jp>教えてあげましょうか</jp> berarti menawarkan diri untuk mengajari penjualnya (terbalik arahnya), <jp>手でつかまえてもいいですか</jp> menanyakan apakah boleh menangkap ikan pakai tangan kosong (padahal sudah ada alat jaring kertasnya), dan <jp>すくってはいけませんか</jp> menanyakan apakah tidak boleh menangkap ikan mas (tidak masuk akal di kedai <jp>金魚すくい</jp>)."
 }
