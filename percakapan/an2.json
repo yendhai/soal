@@ -1,18 +1,18 @@
 {
   "label": "Gempa",
   "situasi": {
-    "teks": "地震のあと、会社の人が聞きました。\n「だいじょうぶでしたか。」あなたはけがをしませんでした。",
+    "teks": "ビルの中で地震がありました。会社の人が言いました。\n「エレベーターは使わないで、（　　）で下りてください。」",
     "gambar": ""
   },
   "pertanyaan": {
-    "teks": "あなたは何と言いますか。",
+    "teks": "（　　）に入る言葉はどれですか。",
     "gambar": ""
   },
   "pilihan": [
-    { "teks": "はい、だいじょうぶでした。けがもありませんでした。", "gambar": "", "benar": true },
-    { "teks": "はい、だいじょうぶです。けがをしました。", "gambar": "", "benar": false },
-    { "teks": "いってきます。", "gambar": "", "benar": false },
-    { "teks": "いただきます。", "gambar": "", "benar": false }
+    { "teks": "タクシー", "gambar": "", "benar": false },
+    { "teks": "ひこうき", "gambar": "", "benar": false },
+    { "teks": "電車", "gambar": "", "benar": false },
+    { "teks": "かいだん", "gambar": "", "benar": true }
   ],
-  "penjelasan": "<jp>だいじょうぶでしたか</jp> menanyakan apakah kamu baik-baik saja. Karena tidak terluka, jawab <jp>はい、だいじょうぶでした。けがもありませんでした</jp>. <jp>けがをしました</jp> berarti 'terluka' sehingga bertentangan dengan <jp>だいじょうぶ</jp>, <jp>いってきます</jp> diucapkan saat berangkat, dan <jp>いただきます</jp> diucapkan sebelum makan."
+  "penjelasan": "Saat gempa, jangan memakai lift (<jp>エレベーター</jp>), melainkan turun lewat <jp>かいだん</jp> (tangga), jadi <jp>かいだんで下りてください</jp>. <jp>タクシー</jp> berarti taksi, <jp>ひこうき</jp> berarti pesawat, dan <jp>電車</jp> berarti kereta, sehingga tidak bisa dipakai untuk turun dari dalam gedung."
 }
