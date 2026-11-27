@@ -1,7 +1,7 @@
 {
   "label": "Hari libur",
   "situasi": {
-    "teks": "友だちが聞きました。\n「あしたは、休みですか。」あなたはあしたも仕事です。",
+    "teks": "友だちが聞きました。\n「あしたは、休み？」あなたはあしたも仕事です。",
     "gambar": ""
   },
   "pertanyaan": {
@@ -9,10 +9,10 @@
     "gambar": ""
   },
   "pilihan": [
-    { "teks": "はい、あしたは休みです。", "gambar": "", "benar": false },
-    { "teks": "いいえ、あしたは休みでした。", "gambar": "", "benar": false },
-    { "teks": "はい、あした仕事に行きます。", "gambar": "", "benar": false },
-    { "teks": "いいえ、あしたも仕事です。", "gambar": "", "benar": true }
+    { "teks": "ううん、あしたも働かなければならないんだ。", "gambar": "", "benar": true },
+    { "teks": "ううん、あしたは働かなくてもいいんだ。", "gambar": "", "benar": false },
+    { "teks": "うん、あしたは仕事が休みのはずだよ。", "gambar": "", "benar": false },
+    { "teks": "ううん、あしたは仕事が終わったばかりなんだ。", "gambar": "", "benar": false }
   ],
-  "penjelasan": "<jp>休みですか</jp> menanyakan apakah besok libur. Karena besok masih bekerja, jawab <jp>いいえ、あしたも仕事です</jp>. <jp>はい、あしたは休みです</jp> memberi jawaban kebalikannya, <jp>休みでした</jp> adalah bentuk lampau sehingga tidak cocok untuk hari besok, dan <jp>はい、あした仕事に行きます</jp> mengiyakan libur tetapi isinya bekerja sehingga tidak konsisten."
+  "penjelasan": "Saat teman bertanya dalam bentuk santai (<jp>あしたは、休み？</jp>) dan kamu besok tetap harus bekerja, respons yang tepat adalah menyangkal dengan <jp>ううん</jp> lalu menjelaskan kewajiban bekerja menggunakan bentuk <jp>〜なければならない</jp>: <jp>ううん、あしたも働かなければならないんだ</jp> (Nggak, besok juga aku harus bekerja). Opsi pengecoh sangat menjebak: <jp>働かなくてもいいんだ</jp> berarti 'besok tidak bekerja pun tidak apa-apa (libur)', <jp>休みのはずだよ</jp> berarti 'besok seharusnya libur' (bertentangan dengan situasi), dan <jp>終わったばかりなんだ</jp> menggunakan bentuk lampau (<jp>〜たばかり</jp> = baru saja selesai) yang tidak cocok dengan waktu <jp>あした</jp> (besok)."
 }
