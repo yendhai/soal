@@ -1,18 +1,18 @@
 {
-  "label": "Di apotek",
+  "label": "Apotek",
   "situasi": {
-    "teks": "薬をもらいました。薬局の人が言いました。\n「この薬は、食事のあとに飲んでください。」",
+    "teks": "薬局で薬をもらいました。あなたは朝ごはんを食べないことが多いです。\n薬局の人が言いました。「この薬は、食事のあとに飲んでください。」",
     "gambar": ""
   },
   "pertanyaan": {
-    "teks": "あなたは何と言いますか。",
+    "teks": "あなたは薬局の人に何と聞きますか。",
     "gambar": ""
   },
   "pilihan": [
-    { "teks": "ごちそうさまでした。", "gambar": "", "benar": false },
-    { "teks": "おめでとうございます。", "gambar": "", "benar": false },
-    { "teks": "はい、わかりました。食事のあとですね。", "gambar": "", "benar": true },
-    { "teks": "いいえ、食事のまえに食べました。", "gambar": "", "benar": false }
+    { "teks": "朝ごはんを食べないときは、どうしたらいいですか。", "gambar": "", "benar": true },
+    { "teks": "朝ごはんのまえに飲んでも、かまいませんか。", "gambar": "", "benar": false },
+    { "teks": "朝ごはんは、何時ごろ食べなければなりませんか。", "gambar": "", "benar": false },
+    { "teks": "朝ごはんを食べてから、薬をもらってもいいですか。", "gambar": "", "benar": false }
   ],
-  "penjelasan": "Setelah menerima petunjuk minum obat, jawab dengan <jp>はい、わかりました</jp> dan ulangi bagian pentingnya, yaitu <jp>食事のあとですね</jp>, untuk memastikan. <jp>ごちそうさまでした</jp> diucapkan setelah makan, <jp>おめでとうございます</jp> diucapkan untuk memberi selamat, dan <jp>食事のまえに食べました</jp> berarti 'sudah makan sebelum makan' yang tidak masuk akal dan bukan jawaban atas petunjuk itu."
+  "penjelasan": "Dalam situasi dijelaskan bahwa kamu sering melewatkan sarapan (<jp>朝ごはんを食べないことが多い</jp>), sedangkan obat harus diminum setelah makan. Maka respons paling logis adalah menanyakan solusi jika tidak sarapan: <jp>朝ごはんを食べないときは、どうしたらいいですか</jp> (Kalau sedang tidak sarapan, sebaiknya bagaimana?). Opsi lain menanyakan hal yang kurang relevan dengan masalah utamanya, seperti bolehkah diminum sebelum sarapan atau jam berapa harus sarapan."
 }
