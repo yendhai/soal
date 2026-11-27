@@ -9,10 +9,10 @@
     "gambar": ""
   },
   "pilihan": [
-    { "teks": "すみません、わかりました。", "gambar": "", "benar": true },
-    { "teks": "すみません、とります。", "gambar": "", "benar": false },
-    { "teks": "いいえ、とってもいいです。", "gambar": "", "benar": false },
-    { "teks": "どういたしまして。", "gambar": "", "benar": false }
+    { "teks": "すみません、それでは外でとるようにします。", "gambar": "", "benar": true },
+    { "teks": "すみません、それでは中でもとっていいですか。", "gambar": "", "benar": false },
+    { "teks": "すみません、それではカメラをけさなければなりませんか。", "gambar": "", "benar": false },
+    { "teks": "すみません、それでは写真をとらないでください。", "gambar": "", "benar": false }
   ],
-  "penjelasan": "<jp>〜てはいけません</jp> berarti 'tidak boleh ...'. Setelah mendengar larangan, jawab dengan <jp>すみません、わかりました</jp>. <jp>とります</jp> berarti 'akan memotret' sehingga melanggar larangan, <jp>とってもいいです</jp> berarti 'boleh memotret' sehingga bertentangan, dan <jp>どういたしまして</jp> adalah jawaban atas ucapan terima kasih."
+  "penjelasan": "Staf kuil melarang memotret di dalam aula utama (<jp>本堂の中は、写真をとってはいけません</jp>). Respons yang sopan dan logis adalah meminta maaf dan menyesuaikan diri untuk memotret di luar saja: <jp>すみません、それでは外でとるようにします</jp> (Maaf, kalau begitu saya akan memotret di luar saja). Opsi pengecoh sangat menjebak: <jp>中でもとっていいですか</jp> (kalau begitu, bolehkah memotret di dalam juga? — tidak logis karena baru saja dilarang), <jp>カメラをけさなければなりませんか</jp> (apakah kamera harus dimatikan? — padahal hanya dilarang memotret di dalam aula), dan <jp>写真をとらないでください</jp> (tolong jangan memotret — salah arah karena kalimat ini menyuruh staf kuil, bukan diri sendiri)."
 }
