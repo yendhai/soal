@@ -9,10 +9,10 @@
     "gambar": ""
   },
   "pilihan": [
-    { "teks": "すみません、そのペンを貸してください。", "gambar": "", "benar": false },
-    { "teks": "すみません、窓をあけてください。", "gambar": "", "benar": false },
-    { "teks": "すみません、もう一度言ってください。", "gambar": "", "benar": true },
-    { "teks": "すみません、トイレに行ってもいいですか。", "gambar": "", "benar": false }
+    { "teks": "すみません、今のところをもう一度おっしゃっていただけませんか。", "gambar": "", "benar": true },
+    { "teks": "すみません、今のところをもう一度聞かせてあげましょうか。", "gambar": "", "benar": false },
+    { "teks": "すみません、今のところをもう一度言わなければなりませんか。", "gambar": "", "benar": false },
+    { "teks": "すみません、今のところをもう一度お話ししましょうか。", "gambar": "", "benar": false }
   ],
-  "penjelasan": "Untuk meminta guru mengulang penjelasan, pakai <jp>もう一度言ってください</jp>, yang berarti 'tolong katakan sekali lagi'. <jp>そのペンを貸してください</jp> berarti 'tolong pinjamkan pena itu', <jp>窓をあけてください</jp> berarti 'tolong buka jendela', dan <jp>トイレに行ってもいいですか</jp> berarti 'bolehkah saya ke toilet', jadi tidak ada yang sesuai dengan keinginan mendengar ulang."
+  "penjelasan": "Ketika kurang mendengar penjelasan guru di kelas dan ingin meminta guru mengulanginya secara sopan, digunakan bentuk hormat (<jp>おっしゃる</jp> = bentuk sopan dari <jp>言う</jp>) yang digabungkan dengan permohonan sopan <jp>〜ていただけませんか</jp>: <jp>今のところをもういちどおっしゃっていただけませんか</jp> (Maaf, bisakah Anda mengucapkan bagian yang barusan sekali lagi?). Opsi pengecoh sangat menjebak karena semuanya menggunakan pola <jp>今のところをもういちど〜</jp>: <jp>聞かせてあげましょうか</jp> berarti menawarkan untuk memperdengarkan kepada guru, <jp>言わなければなりませんか</jp> berarti bertanya apakah murid harus mengulanginya, dan <jp>お話ししましょうか</jp> berarti murid menawarkan diri untuk berbicara."
 }
