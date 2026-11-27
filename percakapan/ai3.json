@@ -9,10 +9,11 @@
     "gambar": ""
   },
   "pilihan": [
-    { "teks": "おめでとうございます。", "gambar": "", "benar": false },
-    { "teks": "おやすみなさい。", "gambar": "", "benar": false },
-    { "teks": "どういたしまして。", "gambar": "", "benar": false },
-    { "teks": "すみません、よくわかりませんでした。", "gambar": "", "benar": true }
+    { "teks": "すみません、もう一度説明していただけませんか。", "gambar": "", "benar": true },
+    { "teks": "すみません、もう一度説明してあげましょうか。", "gambar": "", "benar": false },
+    { "teks": "すみません、これ以上はわからなくてもいいですか。", "gambar": "", "benar": false },
+    { "teks": "すみません、さっきよりぜんぜんわかりました。", "gambar": "", "benar": false }
   ],
-  "penjelasan": "Guru bertanya <jp>わかりましたか</jp>, artinya 'apakah sudah mengerti'. Jika belum mengerti, jawab jujur dengan <jp>よくわかりませんでした</jp>. <jp>おめでとうございます</jp> diucapkan untuk memberi selamat, <jp>おやすみなさい</jp> diucapkan sebelum tidur, dan <jp>どういたしまして</jp> adalah jawaban atas ucapan terima kasih."
+  "penjelasan": "Ketika guru selesai menjelaskan dan menanyakan pemahaman (<jp>ここまで、わかりましたか</jp>), respons paling sopan dan alami saat kurang paham adalah meminta maaf lalu meminta guru menjelaskan ulang: <jp>すみません、もういちど説明していただけませんか</jp> (Maaf, bisakah Anda menjelaskannya sekali lagi?). Opsi pengecoh sangat menjebak: <jp>説明してあげましょうか</jp> berarti murid menawarkan untuk menjelaskan kepada guru, <jp>わからなくてもいいですか</jp> berarti bertanya 'bolehkah kalau tidak mengerti?' (kurang sopan/tidak logis di kelas), dan <jp>さっきよりぜんぜんわかりました</jp> mencampurkan kata <jp>ぜんぜん</jp> (yang seharusnya untuk kalimat negatif) dengan bentuk positif <jp>わかりました</jp>."
 }
+もう一度
