@@ -9,10 +9,10 @@
     "gambar": ""
   },
   "pilihan": [
-    { "teks": "すみません、何時に来ましたか。", "gambar": "", "benar": false },
-    { "teks": "すみません、何時から食べますか。", "gambar": "", "benar": false },
-    { "teks": "すみません、何時まで開いていますか。", "gambar": "", "benar": true },
-    { "teks": "すみません、何時に泳ぎましたか。", "gambar": "", "benar": false }
+    { "teks": "すみません、きょうは何時まで開いていますか。", "gambar": "", "benar": true },
+    { "teks": "すみません、きょうは何時から開いていますか。", "gambar": "", "benar": false },
+    { "teks": "すみません、きょうは何時まで閉まっていますか。", "gambar": "", "benar": false },
+    { "teks": "すみません、きょうは何時から閉めなければなりませんか。", "gambar": "", "benar": false }
   ],
-  "penjelasan": "Untuk menanyakan jam tutup, pakai <jp>何時まで開いていますか</jp>, yang berarti 'buka sampai jam berapa'. <jp>何時に来ましたか</jp> menanyakan jam kedatangan, <jp>何時から食べますか</jp> menanyakan jam mulai makan, dan <jp>何時に泳ぎましたか</jp> menanyakan jam berenang, jadi tidak sesuai dengan situasi di museum."
+  "penjelasan": "Untuk menanyakan jam tutup museum (<jp>何時に閉まるか</jp>) secara alami tanpa mengulang kata <jp>閉まる</jp>, digunakan pertanyaan 'buka sampai jam berapa': <jp>きょうは何時まで開いていますか</jp>. Opsi pengecoh sangat menjebak karena semuanya bertema jam operasional gedung: <jp>何時から開いていますか</jp> menanyakan jam buka (sejak jam berapa buka), <jp>何時まで閉まっていますか</jp> menanyakan sampai jam berapa museum tersebut dalam keadaan tutup, dan <jp>何時から閉めなければなりませんか</jp> menggunakan kata kerja transitif <jp>閉める</jp> dengan bentuk keharusan ('sejak jam berapa harus ditutup?'), yang tidak wajar ditanyakan pengunjung kepada staf."
 }
