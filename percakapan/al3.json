@@ -1,7 +1,7 @@
 {
   "label": "Hujan",
   "situasi": {
-    "teks": "友だちが言いました。\n「雨がふっていますよ。かさを持っていきますか。」あなたはかさを持っていきます。",
+    "teks": "友だちが言いました。\n「雨がふっているよ。かさを持っていく？」あなたはかさを持っていきます。",
     "gambar": ""
   },
   "pertanyaan": {
@@ -9,10 +9,10 @@
     "gambar": ""
   },
   "pilihan": [
-    { "teks": "はい、持っていきます。ありがとうございます。", "gambar": "", "benar": true },
-    { "teks": "はい、持っていきません。", "gambar": "", "benar": false },
-    { "teks": "いってらっしゃい。", "gambar": "", "benar": false },
-    { "teks": "どういたしまして。", "gambar": "", "benar": false }
+    { "teks": "うん、さしていくことにするよ。ありがとう。", "gambar": "", "benar": true },
+    { "teks": "うん、ささないで行くことにするよ。ありがとう。", "gambar": "", "benar": false },
+    { "teks": "ううん、かばんに入れたままにするよ。ありがとう。", "gambar": "", "benar": false },
+    { "teks": "うん、わすれて帰ることにしたんだ。ありがとう。", "gambar": "", "benar": false }
   ],
-  "penjelasan": "Temanmu menanyakan apakah kamu akan membawa payung. Jawab dengan <jp>はい、持っていきます</jp> lalu ucapkan terima kasih dengan <jp>ありがとうございます</jp>. <jp>はい、持っていきません</jp> saling bertentangan, <jp>いってらっしゃい</jp> diucapkan kepada orang yang akan berangkat, dan <jp>どういたしまして</jp> adalah jawaban atas ucapan terima kasih."
+  "penjelasan": "Saat teman mengingatkan bahwa sedang hujan dan bertanya dalam ragam santai apakah kamu akan membawa payung (<jp>かさを持っていく？</jp>), respons yang tepat dan natural adalah mengiyakan dengan <jp>うん</jp> lalu menyatakan keputusan untuk memakainya saat berangkat: <jp>さしていくことにするよ。ありがとう。</jp> (Iya, aku putuskan untuk memakainya pergi. Makasih ya). Opsi pengecoh sangat menjebak karena semuanya memakai pola keputusan <jp>〜ことにする</jp> dan diakhiri <jp>ありがとう</jp>: <jp>ささないで行く</jp> berarti pergi tanpa memakai payung, <jp>かばんに入れたままにする</jp> berarti membiarkannya tetap di dalam tas (tidak dipakai padahal sedang hujan), dan <jp>わすれて帰ることにした</jp> berarti 'memutuskan untuk lupa pulang' (tidak masuk akal secara logika)."
 }
